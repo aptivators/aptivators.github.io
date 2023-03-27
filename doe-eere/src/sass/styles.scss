@@ -16,7 +16,7 @@ $black: #121212;
 
 $mobile: 480px;
 
-$breakpoint: 901px;
+$breakpoint: 801px;
 
 .hidden {
     opacity: 0;
@@ -40,6 +40,11 @@ body {
     padding-bottom: 60px;
 }
 
+.webgraphic-page {
+    background: url("../../images/page-bg.jpg") no-repeat;
+    background-size: cover;
+}
+
 .container {
     position: relative;
     max-width: 1200px;
@@ -52,6 +57,7 @@ body {
     max-width: 900px;
     margin: 0px auto;
     overflow: hidden;
+    box-shadow: 0px 0px 40px 20px rgba($black, 0.2);
 }
 
 .logo {
@@ -161,6 +167,7 @@ img {
     align-items: center;
     @media (max-width: $mobile) {
         flex-direction: column;
+        padding: $spacer;
     }
     span {
         display: block;
@@ -242,7 +249,7 @@ li {
 }
 
 .sky {
-    min-height: 800px;
+    min-height: 880px;
     @media (max-width: $breakpoint) {
         min-height: auto;
     }
@@ -305,10 +312,10 @@ li {
     min-height: 1100px;
     @media (max-width: $breakpoint) {
         min-height: auto;
-        padding-bottom: 500px;
+        padding-bottom: 550px;
     }
     .p_0 {
-        top: -10%;
+        top: -5%;
     }
     .p_1 {
         top: 0%;
@@ -317,13 +324,15 @@ li {
         top: 30%;
     }
     .box {
-        margin-bottom: $spacer * 6;
+        margin-bottom: 150px;
         &.b_0 {
             margin-left: auto;
-            margin-top: -100px;
+            margin-top: -150px;
+            margin-bottom: 100px;
         }
         &.b_2 {
             margin-left: auto;
+            margin-bottom: 100px;
         }
         @media (max-width: $breakpoint) {
             &.b_0,
@@ -336,6 +345,7 @@ li {
                 margin-top: auto;
                 margin-right: auto;
                 margin-left: auto;
+                margin-bottom: $spacer * 3;
             }
         }
     }
@@ -361,7 +371,7 @@ li {
         animation-delay: 1s;
     }
     .cta {
-        animation-delay: 1000ms;
+        animation-delay: 700ms;
     }
     .bug-light {
         position: absolute;
