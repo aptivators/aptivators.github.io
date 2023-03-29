@@ -329,9 +329,16 @@ a.cta {
     backdrop-filter: blur(6px);
     font-size: 1.6rem;
     margin-bottom: ($spacer * 2);
+    text-decoration: none;
     &:link,
     &:visited {
         color: #fff;
+    }
+    &:hover,
+    &:focus,
+    &:active {
+        text-decoration: underline;
+        background: rgba($theme-color-1, 1);
     }
     @media (max-width: $mobile) {
         font-size: 1rem;
@@ -552,7 +559,7 @@ li {
 }
 
 .scene {
-    min-height: 1100px;
+    min-height: 1180px;
     @media (max-width: $breakpoint) {
         min-height: auto;
         padding-bottom: 550px;
@@ -595,9 +602,10 @@ li {
 }
 
 .bottom {
-    min-height: 1111px;
+    min-height: 1031px;
+    background-color: #04101f;
     .p_0 {
-        top: 0;
+        top: -80px;
         z-index: 1;
     }
     .d_0 {
@@ -619,13 +627,13 @@ li {
     .bug-light {
         position: absolute;
         z-index: 2;
-        bottom: 261px;
+        bottom: 181px;
         right: 203px;
     }
     .bug {
         position: absolute;
         z-index: 3;
-        bottom: 390px;
+        bottom: 310px;
         right: 324px;
     }
     .h_5 {
