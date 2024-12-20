@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0" />
+    <title>VA Careers Jobs Map</title>
+    <style>
+      @font-face {
+        font-family: 'Public Sans';
+        src: url('/PublicSans-Regular.woff2') format('woff2');
+        font-weight: 400; /* Regular weight */
+        font-style: normal;
+        font-display: swap; /* Improves loading performance */
+      }
+
+      html,
+      body {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+      }
+
+      .scroll-container {
+        height: 100%;
+        scroll-snap-type: y proximity;
+        overflow-y: auto;
+      }
+
+      .snap {
+        scroll-snap-align: center;
+        display: block;
+      }
+
+      .section {
+        height: 90vh;
+        background-color: black;
+      }
+    </style>
+    <script type="module" crossorigin src="./vacareers-jobs-map.js"></script>
+  </head>
+
+  <body>
+    <div class="scroll-container">
+      <vacareers-jobs-map
+        id="jobs-map"
+        class="snap"
+        data="Nursing"></vacareers-jobs-map>
+    </div>
+  </body>
+</html>

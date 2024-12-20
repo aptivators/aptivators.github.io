@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.77736,
+          27.8128
+        ]
+      },
+      "properties": {
+        "PositionTitle": "Placeholder",
+        "PositionURI": "#",
+        "LocationName": "Location name",
+        "SubAgency": "Sub agency name",
+        "SalaryRange": "Salary range"
+      }
+    }
+  ]
+}
