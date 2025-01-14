@@ -43,10 +43,19 @@
 
   <body>
     <div class="scroll-container">
-      <vacareers-jobs-map
-        id="jobs-map"
-        class="snap"
-        data="physician-jobs" />
+      <vacareers-jobs-map id="jobs-map" class="snap" data="physician-jobs" />
     </div>
+    <script>
+      // Get the URL parameters
+      const params = new URLSearchParams(window.location.search);
+
+      // Extract the specific parameter value
+      const dataset = params.get('data') || '';
+
+      const jobsMapElement = document.getElementById('jobs-map');
+      if (jobsMapElement) {
+        jobsMapElement.setAttribute('data', dataset);
+      }
+    </script>
   </body>
 </html>
