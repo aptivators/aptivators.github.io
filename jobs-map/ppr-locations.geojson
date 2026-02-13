@@ -1,0 +1,3101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.273333,
+          42.504813
+        ]
+      },
+      "properties": {
+        "id": "edith-nourse-rogers-memorial-veterans-hospital",
+        "name": "Edith Nourse Rogers Memorial Veterans' Hospital",
+        "address": "200 Springs Road Bedford, MA 01730-1114",
+        "recruiterName": "Reesah Speller",
+        "recruiterEmail": "reesha.speller@va.gov",
+        "recruiterPhone": "757-450-6661"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.071025,
+          42.056582
+        ]
+      },
+      "properties": {
+        "id": "brockton-va-medical-center",
+        "name": "Brockton VA Medical Center",
+        "address": "940 Belmont Street Brockton, MA 02301-5596",
+        "recruiterName": "Tegan Baldwin",
+        "recruiterEmail": "tegan.baldwin@va.gov",
+        "recruiterPhone": "207-694-9399"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.110416,
+          42.326922
+        ]
+      },
+      "properties": {
+        "id": "jamaica-plain-va-medical-center",
+        "name": "Jamaica Plain VA Medical Center",
+        "address": "150 South Huntington Avenue Boston, MA 02130-4817",
+        "recruiterName": "Tegan Baldwin",
+        "recruiterEmail": "tegan.baldwin@va.gov",
+        "recruiterPhone": "207-694-9399"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.171893,
+          42.274611
+        ]
+      },
+      "properties": {
+        "id": "west-roxbury-va-medical-center",
+        "name": "West Roxbury VA Medical Center",
+        "address": "1400 VFW Parkway West Roxbury, MA 02132-4927",
+        "recruiterName": "Tegan Baldwin",
+        "recruiterEmail": "tegan.baldwin@va.gov",
+        "recruiterPhone": "207-694-9399"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.682096,
+          42.351034
+        ]
+      },
+      "properties": {
+        "id": "edward-p-boland-department-of-veterans-affairs-medical-center",
+        "name": "Edward P. Boland Department of Veterans Affairs Medical Center",
+        "address": "421 North Main Street Leeds, MA 01053-9764",
+        "recruiterName": "Reesah Speller",
+        "recruiterEmail": "reesha.speller@va.gov",
+        "recruiterPhone": "757-450-6661"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.961104,
+          41.281949
+        ]
+      },
+      "properties": {
+        "id": "west-haven-va-medical-center",
+        "name": "West Haven VA Medical Center",
+        "address": "950 Campbell Avenue West Haven, CT 06516-2770",
+        "recruiterName": "Debbie Feiereisen",
+        "recruiterEmail": "deborah.feiereisen@va.gov",
+        "recruiterPhone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.441016,
+          43.012555
+        ]
+      },
+      "properties": {
+        "id": "manchester-va-medical-center",
+        "name": "Manchester VA Medical Center",
+        "address": "718 Smyth Road Manchester, NH 03104-7007",
+        "recruiterName": "Brian Samolyk",
+        "recruiterEmail": "brian.samolyk@va.gov",
+        "recruiterPhone": "603-548-7830"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.704506,
+          44.280418
+        ]
+      },
+      "properties": {
+        "id": "togus-va-medical-center",
+        "name": "Togus VA Medical Center",
+        "address": "1 VA Center Augusta, ME 04330-6795",
+        "recruiterName": "Chak Chaianong",
+        "recruiterEmail": "chakchai.chaianong@va.gov",
+        "recruiterPhone": "774-826-1180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.433003,
+          41.832163
+        ]
+      },
+      "properties": {
+        "id": "providence-va-medical-center",
+        "name": "Providence VA Medical Center",
+        "address": "830 Chalkstone Avenue Providence, RI 02908-4738",
+        "recruiterName": "Michelle Todd",
+        "recruiterEmail": "michelle.todd2@va.gov",
+        "recruiterPhone": "303-834-0007"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.342843,
+          43.648211
+        ]
+      },
+      "properties": {
+        "id": "white-river-junction-va-medical-center",
+        "name": "White River Junction VA Medical Center",
+        "address": "163 Veterans Drive White River Junction, VT 05001",
+        "recruiterName": "Chak Chaianong",
+        "recruiterEmail": "chakchai.chaianong@va.gov",
+        "recruiterPhone": "774-826-1180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.771879,
+          42.65071
+        ]
+      },
+      "properties": {
+        "id": "samuel-s-stratton-department-of-veterans-affairs-medical-center",
+        "name": "Samuel S. Stratton Department of Veterans Affairs Medical Center",
+        "address": "113 Holland Avenue Albany, NY 12208-3410",
+        "recruiterName": "Suzanne Guzy",
+        "recruiterEmail": "suzanne.guzy@va.gov",
+        "recruiterPhone": "585-282-9113"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.906634,
+          40.867382
+        ]
+      },
+      "properties": {
+        "id": "james-j-peters-department-of-veterans-affairs-medical-center",
+        "name": "James J. Peters Department of Veterans Affairs Medical Center",
+        "address": "130 West Kingsbridge Road Bronx, NY 10468-3904",
+        "recruiterName": "Charles Long",
+        "recruiterEmail": "charles.long4@va.gov",
+        "recruiterPhone": "716-982-1949"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.34731,
+          42.34377
+        ]
+      },
+      "properties": {
+        "id": "bath-va-medical-center",
+        "name": "Bath VA Medical Center",
+        "address": "76 Veterans Avenue Bath, NY 14810-0810",
+        "recruiterName": "Shane Stults",
+        "recruiterEmail": "shane.stults@va.gov",
+        "recruiterPhone": "716-982-1949"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.269322,
+          42.901329
+        ]
+      },
+      "properties": {
+        "id": "canandaigua-va-medical-center",
+        "name": "Canandaigua VA Medical Center",
+        "address": "400 Fort Hill Avenue Canandaigua, NY 14424-1159",
+        "recruiterName": "Shane Stults",
+        "recruiterEmail": "shane.stults@va.gov",
+        "recruiterPhone": "716-982-1949"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.963486,
+          41.543764
+        ]
+      },
+      "properties": {
+        "id": "castle-point-va-medical-center",
+        "name": "Castle Point VA Medical Center",
+        "address": "41 Castle Point Road Wappingers Falls, NY 12590-7004",
+        "recruiterName": "Jeanne LaBarge",
+        "recruiterEmail": "jeanne.labarge@va.gov",
+        "recruiterPhone": "914-758-9344"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.925806,
+          41.245084
+        ]
+      },
+      "properties": {
+        "id": "franklin-delano-roosevelt-hospital",
+        "name": "Franklin Delano Roosevelt Hospital",
+        "address": "2094 Albany Post Road Montrose, NY 10548-1454",
+        "recruiterName": "Jeanne LaBarge",
+        "recruiterEmail": "jeanne.labarge@va.gov",
+        "recruiterPhone": "914-758-9344"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.236093,
+          40.75256
+        ]
+      },
+      "properties": {
+        "id": "east-orange-va-medical-center",
+        "name": "East Orange VA Medical Center",
+        "address": "385 Tremont Avenue East Orange, NJ 07018-1023",
+        "recruiterName": "Larisa Lemesevski",
+        "recruiterEmail": "larisa.lemesevski@va.gov",
+        "recruiterPhone": "908-468-0839"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.556418,
+          40.675193
+        ]
+      },
+      "properties": {
+        "id": "lyons-va-medical-center",
+        "name": "Lyons VA Medical Center",
+        "address": "151 Knollcroft Road Lyons, NJ 07939-5001",
+        "recruiterName": "Larisa Lemesevski",
+        "recruiterEmail": "larisa.lemesevski@va.gov",
+        "recruiterPhone": "908-468-0839"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.024327,
+          40.60883
+        ]
+      },
+      "properties": {
+        "id": "brooklyn-va-medical-center",
+        "name": "Brooklyn VA Medical Center",
+        "address": "800 Poly Place Brooklyn, NY 11209-7104",
+        "recruiterName": "Hira Arshad",
+        "recruiterEmail": "hira.arshad2@va.gov",
+        "recruiterPhone": "718-690-1094"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.977155,
+          40.736839
+        ]
+      },
+      "properties": {
+        "id": "margaret-cochran-corbin-va-campus",
+        "name": "Margaret Cochran Corbin VA Campus",
+        "address": "423 East 23rd Street New York, NY 10010-5011",
+        "recruiterName": "Hira Arshad",
+        "recruiterEmail": "hira.arshad2@va.gov",
+        "recruiterPhone": "718-690-1094"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.768542,
+          40.690824
+        ]
+      },
+      "properties": {
+        "id": "st-albans-va-medical-center",
+        "name": "St. Albans VA Medical Center",
+        "address": "179-00 Linden Boulevard Queens, NY 11424-1468",
+        "recruiterName": "Hira Arshad",
+        "recruiterEmail": "hira.arshad2@va.gov",
+        "recruiterPhone": "718-690-1094"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.308712,
+          40.893666
+        ]
+      },
+      "properties": {
+        "id": "northport-va-medical-center",
+        "name": "Northport VA Medical Center",
+        "address": "79 Middleville Road, Building 200 Northport, NY 11768-2200",
+        "recruiterName": "Kevin Buccola",
+        "recruiterEmail": "kevin.buccola@va.gov",
+        "recruiterPhone": "716-982-1949"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.139043,
+          43.038425
+        ]
+      },
+      "properties": {
+        "id": "syracuse-va-medical-center",
+        "name": "Syracuse VA Medical Center",
+        "address": "800 Irving Avenue Syracuse, NY 13210-2716",
+        "recruiterName": "John Holmes",
+        "recruiterEmail": "john.holmes1@va.gov",
+        "recruiterPhone": "315-569-1577"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.197611,
+          43.013543
+        ]
+      },
+      "properties": {
+        "id": "batavia-va-medical-center",
+        "name": "Batavia VA Medical Center",
+        "address": "222 Richmond Avenue Batavia, NY 14020-1227",
+        "recruiterName": "Keith Liles",
+        "recruiterEmail": "harold.liles@va.gov",
+        "recruiterPhone": "919-408-4741"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.81342,
+          42.95118
+        ]
+      },
+      "properties": {
+        "id": "buffalo-va-medical-center",
+        "name": "Buffalo VA Medical Center",
+        "address": "3495 Bailey Avenue Buffalo, NY 14215-1129",
+        "recruiterName": "Keith Liles",
+        "recruiterEmail": "harold.liles@va.gov",
+        "recruiterPhone": "919-408-4741"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.396364,
+          40.488515
+        ]
+      },
+      "properties": {
+        "id": "james-e-van-zandt-veterans-administration-medical-center",
+        "name": "James E. Van Zandt Veterans' Administration Medical Center",
+        "address": "2907 Pleasant Valley Boulevard Altoona, PA 16602-4305",
+        "recruiterName": "Catrina Foley",
+        "recruiterEmail": "catrina.foley@va.gov",
+        "recruiterPhone": "302-994-2511"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.944992,
+          40.872409
+        ]
+      },
+      "properties": {
+        "id": "butler-va-medical-center",
+        "name": "Butler VA Medical Center",
+        "address": "325 New Castle Road Butler, PA 16001-2480",
+        "recruiterName": "Daphne Binimelis",
+        "recruiterEmail": "daphne.binimelis@va.gov",
+        "recruiterPhone": "215-847-4601"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.79656,
+          39.99793
+        ]
+      },
+      "properties": {
+        "id": "coatesville-va-medical-center",
+        "name": "Coatesville VA Medical Center",
+        "address": "1400 Black Horse Hill Road Coatesville, PA 19320-2096",
+        "recruiterName": "Hope Hossenlopp",
+        "recruiterEmail": "hope.hossenlopp@va.gov",
+        "recruiterPhone": "717-272-6621"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.063042,
+          42.102089
+        ]
+      },
+      "properties": {
+        "id": "erie-va-medical-center",
+        "name": "Erie VA Medical Center",
+        "address": "135 East 38th Street Erie, PA 16504-1559",
+        "recruiterName": "Hope Hossenlopp",
+        "recruiterEmail": "hope.hossenlopp@va.gov",
+        "recruiterPhone": "215-847-4601"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.39715,
+          40.317409
+        ]
+      },
+      "properties": {
+        "id": "lebanon-va-medical-center",
+        "name": "Lebanon VA Medical Center",
+        "address": "1700 South Lincoln Avenue Lebanon, PA 17042-7529",
+        "recruiterName": "Hope Hossenlopp",
+        "recruiterEmail": "hope.hossenlopp@va.gov",
+        "recruiterPhone": "717-272-6621"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.200091,
+          39.948773
+        ]
+      },
+      "properties": {
+        "id": "corporal-michael-j-crescenz-department-of-veterans-affairs-medical-center",
+        "name": "Corporal Michael J. Crescenz Department of Veterans Affairs Medical Center",
+        "address": "3900 Woodland Avenue Philadelphia, PA 19104-4551",
+        "recruiterName": "Daphne Binimelis",
+        "recruiterEmail": "daphne.binimelis@va.gov",
+        "recruiterPhone": "215-847-4601"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.888993,
+          40.496251
+        ]
+      },
+      "properties": {
+        "id": "h-john-heinz-iii-department-of-veterans-affairs-medical-center",
+        "name": "H. John Heinz III Department of Veterans Affairs Medical Center",
+        "address": "1010 Delafield Road Pittsburgh, PA 15240-1005",
+        "recruiterName": "Michael Hahn",
+        "recruiterEmail": "michael.hahn4@va.gov",
+        "recruiterPhone": "412-689-2414"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.959796,
+          40.447397
+        ]
+      },
+      "properties": {
+        "id": "pittsburgh-va-medical-center-university-drive",
+        "name": "Pittsburgh VA Medical Center-University Drive",
+        "address": "University Drive C Pittsburgh, PA 15240-1003",
+        "recruiterName": "Michael Hahn",
+        "recruiterEmail": "michael.hahn4@va.gov",
+        "recruiterPhone": "412-689-2414"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.835978,
+          41.248103
+        ]
+      },
+      "properties": {
+        "id": "wilkes-barre-va-medical-center",
+        "name": "Wilkes-Barre VA Medical Center",
+        "address": "1111 East End Boulevard Wilkes-Barre, PA 18711-0030",
+        "recruiterName": "Catrina Foley",
+        "recruiterEmail": "catrina.foley@va.gov",
+        "recruiterPhone": "302-994-2511"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.606547,
+          39.74019
+        ]
+      },
+      "properties": {
+        "id": "wilmington-va-medical-center",
+        "name": "Wilmington VA Medical Center",
+        "address": "1601 Kirkwood Highway Wilmington, DE 19805-4917",
+        "recruiterName": "Catrina Foley",
+        "recruiterEmail": "catrina.foley@va.gov",
+        "recruiterPhone": "302-994-2511"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.193097,
+          37.765087
+        ]
+      },
+      "properties": {
+        "id": "beckley-va-medical-center",
+        "name": "Beckley VA Medical Center",
+        "address": "200 Veterans Avenue Beckley, WV 25801-6444",
+        "recruiterName": "John Pownall",
+        "recruiterEmail": "john.pownall@va.gov",
+        "recruiterPhone": "301-268-5022"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36189,
+          39.270293
+        ]
+      },
+      "properties": {
+        "id": "louis-a-johnson-veterans-administration-medical-center",
+        "name": "Louis A. Johnson Veterans' Administration Medical Center",
+        "address": "1 Medical Center Drive Clarksburg, WV 26301-4155",
+        "recruiterName": "Jerome Peele",
+        "recruiterEmail": "jerome.peele@va.gov",
+        "recruiterPhone": "202-391-4533"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.518802,
+          38.378676
+        ]
+      },
+      "properties": {
+        "id": "hershel-woody-williams-va-medical-center",
+        "name": "Hershel \"Woody\" Williams VA Medical Center",
+        "address": "1540 Spring Valley Drive Huntington, WV 25704-9300",
+        "recruiterName": "John Pownall",
+        "recruiterEmail": "john.pownall@va.gov",
+        "recruiterPhone": "301-268-5022"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.91126,
+          39.417514
+        ]
+      },
+      "properties": {
+        "id": "martinsburg-va-medical-center",
+        "name": "Martinsburg VA Medical Center",
+        "address": "510 Butler Avenue Martinsburg, WV 25405-9990",
+        "recruiterName": "Nicole Carey",
+        "recruiterEmail": "nicole.carey@va.gov",
+        "recruiterPhone": "304-620-4354"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.624284,
+          39.289855
+        ]
+      },
+      "properties": {
+        "id": "baltimore-va-medical-center",
+        "name": "Baltimore VA Medical Center",
+        "address": "10 North Greene Street Baltimore, MD 21201-1524",
+        "recruiterName": "John Pownall",
+        "recruiterEmail": "john.pownall@va.gov",
+        "recruiterPhone": "301-268-5022"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.596849,
+          39.336
+        ]
+      },
+      "properties": {
+        "id": "loch-raven-va-medical-center",
+        "name": "Loch Raven VA Medical Center",
+        "address": "3901 The Alameda Baltimore, MD 21218-2100",
+        "recruiterName": "John Pownall",
+        "recruiterEmail": "john.pownall@va.gov",
+        "recruiterPhone": "301-268-5022"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.062983,
+          39.550021
+        ]
+      },
+      "properties": {
+        "id": "perry-point-va-medical-center",
+        "name": "Perry Point VA Medical Center",
+        "address": "361 Boiler House Road, Building 361 Perry Point, MD 21902-1103",
+        "recruiterName": "John Pownall",
+        "recruiterEmail": "john.pownall@va.gov",
+        "recruiterPhone": "301-268-5022"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.010563,
+          38.92909
+        ]
+      },
+      "properties": {
+        "id": "washington-va-medical-center",
+        "name": "Washington VA Medical Center",
+        "address": "50 Irving Street, Northwest Washington, DC 20422-0001",
+        "recruiterName": "Jerome Peele",
+        "recruiterEmail": "jerome.peele@va.gov",
+        "recruiterPhone": "202-391-4533"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.484049,
+          35.588496
+        ]
+      },
+      "properties": {
+        "id": "charles-george-department-of-veterans-affairs-medical-center",
+        "name": "Charles George Department of Veterans Affairs Medical Center",
+        "address": "1100 Tunnel Road Asheville, NC 28805-2087",
+        "recruiterName": "Lisa Sheffield",
+        "recruiterEmail": "lisa.sheffield@va.gov",
+        "recruiterPhone": "704-638-9000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.938526,
+          36.009142
+        ]
+      },
+      "properties": {
+        "id": "durham-va-medical-center",
+        "name": "Durham VA Medical Center",
+        "address": "508 Fulton Street Durham, NC 27705-3875",
+        "recruiterName": "Melissa Acuna-Huerbana",
+        "recruiterEmail": "melissa.acuna-huerbana@va.gov",
+        "recruiterPhone": "910-627-5805"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.876881,
+          35.087983
+        ]
+      },
+      "properties": {
+        "id": "fayetteville-va-medical-center",
+        "name": "Fayetteville VA Medical Center",
+        "address": "2300 Ramsey Street Fayetteville, NC 28301-3856",
+        "recruiterName": "Mike Owens",
+        "recruiterEmail": "michael.owens4@va.gov",
+        "recruiterPhone": "716-982-1949"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.331983,
+          37.015231
+        ]
+      },
+      "properties": {
+        "id": "hampton-va-medical-center",
+        "name": "Hampton VA Medical Center",
+        "address": "100 Emancipation Drive Hampton, VA 23667-0001",
+        "recruiterName": "Hillary Garcia",
+        "recruiterEmail": "hillary.garcia@va.gov",
+        "recruiterPhone": "816-548-8803"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.467061,
+          37.498085
+        ]
+      },
+      "properties": {
+        "id": "richmond-va-medical-center",
+        "name": "Richmond VA Medical Center",
+        "address": "1201 Broad Rock Boulevard Richmond, VA 23249-4915",
+        "recruiterName": "Eric Snipes",
+        "recruiterEmail": "eric.snipes@va.gov",
+        "recruiterPhone": "707-628-0296"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.018512,
+          37.274419
+        ]
+      },
+      "properties": {
+        "id": "salem-va-medical-center",
+        "name": "Salem VA Medical Center",
+        "address": "1970 Roanoke Boulevard Salem, VA 24153-6404",
+        "recruiterName": "Keith Liles",
+        "recruiterEmail": "harold.liles@va.gov",
+        "recruiterPhone": "919-408-4741"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.487966,
+          35.684298
+        ]
+      },
+      "properties": {
+        "id": "w-g-bill-hefner-salisbury-department-of-veterans-affairs-medical-center",
+        "name": "W.G. (Bill) Hefner Salisbury Department of Veterans Affairs Medical Center",
+        "address": "1601 Brenner Avenue Salisbury, NC 28144-2515",
+        "recruiterName": "Annie Luckey",
+        "recruiterEmail": "annie.luckey@va.gov",
+        "recruiterPhone": "704-638-9000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.311745,
+          33.801936
+        ]
+      },
+      "properties": {
+        "id": "joseph-maxwell-cleland-atlanta-va-medical-center",
+        "name": "Joseph Maxwell Cleland Atlanta VA Medical Center",
+        "address": "1670 Clairmont Road Decatur, GA 30033-4004",
+        "recruiterName": "Hillary Garcia",
+        "recruiterEmail": "hillary.garcia@va.gov",
+        "recruiterPhone": "816-548-8803"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0258,
+          33.467753
+        ]
+      },
+      "properties": {
+        "id": "augusta-va-medical-center-uptown",
+        "name": "Augusta VA Medical Center-Uptown",
+        "address": "One Freedom Way Augusta, GA 30904-6258",
+        "recruiterName": "Mike Owens",
+        "recruiterEmail": "michael.owens4@va.gov",
+        "recruiterPhone": "504-715-1339"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.987924,
+          33.472955
+        ]
+      },
+      "properties": {
+        "id": "charlie-norwood-department-of-veterans-affairs-medical-center",
+        "name": "Charlie Norwood Department of Veterans Affairs Medical Center",
+        "address": "950 15th Street Augusta, GA 30904-2608",
+        "recruiterName": "Mike Owens",
+        "recruiterEmail": "michael.owens4@va.gov",
+        "recruiterPhone": "504-715-1339"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.801954,
+          33.521088
+        ]
+      },
+      "properties": {
+        "id": "birmingham-va-medical-center",
+        "name": "Birmingham VA Medical Center",
+        "address": "700 South 19th Street Birmingham, AL 35233-1927",
+        "recruiterName": "Keith Liles",
+        "recruiterEmail": "harold.liles@va.gov",
+        "recruiterPhone": "919-408-4741"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.243781,
+          32.377134
+        ]
+      },
+      "properties": {
+        "id": "central-alabama-va-medical-center-montgomery",
+        "name": "Central Alabama VA Medical Center-Montgomery",
+        "address": "215 Perry Hill Road Montgomery, AL 36109-3725",
+        "recruiterName": "Kevin Buccola",
+        "recruiterEmail": "kevin.buccola@va.gov",
+        "recruiterPhone": "985-634-5315"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.712348,
+          32.445244
+        ]
+      },
+      "properties": {
+        "id": "central-alabama-va-medical-center-tuskegee",
+        "name": "Central Alabama VA Medical Center-Tuskegee",
+        "address": "2400 Hospital Road Tuskegee, AL 36083-5001",
+        "recruiterName": "Kevin Buccola",
+        "recruiterEmail": "kevin.buccola@va.gov",
+        "recruiterPhone": "985-634-5315"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.954135,
+          32.784211
+        ]
+      },
+      "properties": {
+        "id": "ralph-h-johnson-department-of-veterans-affairs-medical-center",
+        "name": "Ralph H. Johnson Department of Veterans Affairs Medical Center",
+        "address": "109 Bee Street Charleston, SC 29401-5799",
+        "recruiterName": "Arriana Larmony",
+        "recruiterEmail": "arriana.larmony1@va.gov",
+        "recruiterPhone": "843-467-0720"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.959427,
+          33.975264
+        ]
+      },
+      "properties": {
+        "id": "wm-jennings-bryan-dorn-department-of-veterans-affairs-medical-center",
+        "name": "Wm. Jennings Bryan Dorn Department of Veterans Affairs Medical Center",
+        "address": "6439 Garners Ferry Road Columbia, SC 29209-1638",
+        "recruiterName": "Mike Owens",
+        "recruiterEmail": "michael.owens4@va.gov",
+        "recruiterPhone": "504-715-1339"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.943256,
+          32.536489
+        ]
+      },
+      "properties": {
+        "id": "carl-vinson-veterans-administration-medical-center",
+        "name": "Carl Vinson Veterans' Administration Medical Center",
+        "address": "1826 Veterans Boulevard Dublin, GA 31021-3620",
+        "recruiterName": "Kevin Buccola",
+        "recruiterEmail": "kevin.buccola@va.gov",
+        "recruiterPhone": "985-634-5315"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.485953,
+          33.191286
+        ]
+      },
+      "properties": {
+        "id": "tuscaloosa-va-medical-center",
+        "name": "Tuscaloosa VA Medical Center",
+        "address": "3701 Loop Road East Tuscaloosa, AL 35404-5099",
+        "recruiterName": "Keith Liles",
+        "recruiterEmail": "harold.liles@va.gov",
+        "recruiterPhone": "919-408-4741"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.775466,
+          27.808691
+        ]
+      },
+      "properties": {
+        "id": "c-w-bill-young-department-of-veterans-affairs-medical-center",
+        "name": "C.W. Bill Young Department of Veterans Affairs Medical Center",
+        "address": "10000 Bay Pines Boulevard Bay Pines, FL 33744-8200",
+        "recruiterName": "Faozia Mourad",
+        "recruiterEmail": "faozia.mourad@va.gov",
+        "recruiterPhone": "727-496-0976"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.07225,
+          18.362496
+        ]
+      },
+      "properties": {
+        "id": "san-juan-va-medical-center",
+        "name": "San Juan VA Medical Center",
+        "address": "10 Calle Casia San Juan, PR 00921-3201",
+        "recruiterName": "Terry Anderson",
+        "recruiterEmail": "terrance.anderson@va.gov",
+        "recruiterPhone": "832-412-0937"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.216571,
+          25.791584
+        ]
+      },
+      "properties": {
+        "id": "bruce-w-carter-department-of-veterans-affairs-medical-center",
+        "name": "Bruce W. Carter Department of Veterans Affairs Medical Center",
+        "address": "1201 Northwest 16th Street Miami, FL 33125-1624",
+        "recruiterName": "Shane Stults",
+        "recruiterEmail": "shane.stults@va.gov",
+        "recruiterPhone": "407-319-8473"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.635714,
+          30.181685
+        ]
+      },
+      "properties": {
+        "id": "lake-city-va-medical-center",
+        "name": "Lake City VA Medical Center",
+        "address": "619 South Marion Avenue Lake City, FL 32025-5808",
+        "recruiterName": "JP Pryan",
+        "recruiterEmail": "james.pryan@va.gov",
+        "recruiterPhone": "785-221-0838"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.344907,
+          29.637113
+        ]
+      },
+      "properties": {
+        "id": "malcom-randall-department-of-veterans-affairs-medical-center",
+        "name": "Malcom Randall Department of Veterans Affairs Medical Center",
+        "address": "1601 Southwest Archer Road Gainesville, FL 32608-1135",
+        "recruiterName": "JP Pryan",
+        "recruiterEmail": "james.pryan@va.gov",
+        "recruiterPhone": "785-221-0838"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.274575,
+          28.365065
+        ]
+      },
+      "properties": {
+        "id": "orlando-va-medical-center",
+        "name": "Orlando VA Medical Center",
+        "address": "13800 Veterans Way Orlando, FL 32827-5812",
+        "recruiterName": "Ina Ortiz Nieves",
+        "recruiterEmail": "ina.ortiznieves@va.gov",
+        "recruiterPhone": "407-450-2532"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.42955,
+          28.064428
+        ]
+      },
+      "properties": {
+        "id": "james-a-haley-veterans-hospital",
+        "name": "James A. Haley Veterans' Hospital",
+        "address": "13000 Bruce B. Downs Boulevard Tampa, FL 33612-4745",
+        "recruiterName": "Andre Parker",
+        "recruiterEmail": "o'shaman.parker@va.gov",
+        "recruiterPhone": "813-380-6475"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.113021,
+          26.78679
+        ]
+      },
+      "properties": {
+        "id": "thomas-h-corey-va-medical-center",
+        "name": "Thomas H. Corey VA Medical Center",
+        "address": "7305 North Military Trail West Palm Beach, FL 33410-6400",
+        "recruiterName": "Shane Stults",
+        "recruiterEmail": "shane.stults@va.gov",
+        "recruiterPhone": "407-319-8473"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.538379,
+          38.073826
+        ]
+      },
+      "properties": {
+        "id": "franklin-r-sousley-campus",
+        "name": "Franklin R. Sousley Campus",
+        "address": "2250 Leestown Road Lexington, KY 40511-1052",
+        "recruiterName": "Andrew Ford",
+        "recruiterEmail": "andrew.ford2@va.gov",
+        "recruiterPhone": "859-556-5881"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.50669,
+          38.029521
+        ]
+      },
+      "properties": {
+        "id": "troy-bowling-campus",
+        "name": "Troy Bowling Campus",
+        "address": "1101 Veterans Drive Lexington, KY 40502-2235",
+        "recruiterName": "Andrew Ford",
+        "recruiterEmail": "andrew.ford2@va.gov",
+        "recruiterPhone": "859-556-5881"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.69726,
+          38.270573
+        ]
+      },
+      "properties": {
+        "id": "robley-rex-department-of-veterans-affairs-medical-center",
+        "name": "Robley Rex Department of Veterans Affairs Medical Center",
+        "address": "800 Zorn Avenue Louisville, KY 40206-1433",
+        "recruiterName": "Keith Liles",
+        "recruiterEmail": "harold.liles@va.gov",
+        "recruiterPhone": "919-408-4741"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.027379,
+          35.143695
+        ]
+      },
+      "properties": {
+        "id": "lt-col-luke-weathers-jr-va-medical-center",
+        "name": "Lt. Col. Luke Weathers, Jr. VA Medical Center",
+        "address": "116 North Pauline Street Memphis, TN 38104-1005",
+        "recruiterName": "Carla Lang",
+        "recruiterEmail": "carla.lang@va.gov",
+        "recruiterPhone": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.373095,
+          36.31118
+        ]
+      },
+      "properties": {
+        "id": "james-h-quillen-department-of-veterans-affairs-medical-center",
+        "name": "James H. Quillen Department of Veterans Affairs Medical Center",
+        "address": "Corner of Lamont Street and Veterans Way Mountain Home, TN 37684",
+        "recruiterName": "JP Pryan",
+        "recruiterEmail": "james.pryan@va.gov",
+        "recruiterPhone": "785-221-0838"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.383875,
+          35.915828
+        ]
+      },
+      "properties": {
+        "id": "alvin-c-york-veterans-administration-medical-center",
+        "name": "Alvin C. York Veterans' Administration Medical Center",
+        "address": "3400 Lebanon Pike Murfreesboro, TN 37129-1237",
+        "recruiterName": "Jason Tafoya",
+        "recruiterEmail": "jason.tafoya@va.gov",
+        "recruiterPhone": "925-270-6574"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.80396,
+          36.141297
+        ]
+      },
+      "properties": {
+        "id": "nashville-va-medical-center",
+        "name": "Nashville VA Medical Center",
+        "address": "1310 24th Avenue South Nashville, TN 37212-2637",
+        "recruiterName": "Jason Tafoya",
+        "recruiterEmail": "jason.tafoya@va.gov",
+        "recruiterPhone": "925-270-6574"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.715113,
+          42.28609
+        ]
+      },
+      "properties": {
+        "id": "lieutenant-colonel-charles-s-kettles-va-medical-center",
+        "name": "Lieutenant Colonel Charles S. Kettles VA Medical Center",
+        "address": "2215 Fuller Road Ann Arbor, MI 48105-2303",
+        "recruiterName": "Ken Mitchell",
+        "recruiterEmail": "kenneth.mitchell3@va.gov",
+        "recruiterPhone": "734-660-0024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.291423,
+          42.34352
+        ]
+      },
+      "properties": {
+        "id": "battle-creek-va-medical-center",
+        "name": "Battle Creek VA Medical Center",
+        "address": "5500 Armstrong Road Battle Creek, MI 49037-7314",
+        "recruiterName": "Heathre VanRiper",
+        "recruiterEmail": "heathre.vanriper@va.gov",
+        "recruiterPhone": "989-220-6208"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.910259,
+          39.980789
+        ]
+      },
+      "properties": {
+        "id": "chalmers-p-wylie-veterans-outpatient-clinic",
+        "name": "Chalmers P. Wylie Veterans Outpatient Clinic",
+        "address": "420 North James Road Columbus, OH 43219-1834",
+        "recruiterName": "Gregory Shaffer",
+        "recruiterEmail": "gregory.shaffer@va.gov",
+        "recruiterPhone": "614-965-9146"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.020921,
+          39.388
+        ]
+      },
+      "properties": {
+        "id": "chillicothe-va-medical-center",
+        "name": "Chillicothe VA Medical Center",
+        "address": "17273 State Route 104 Chillicothe, OH 45601-9718",
+        "recruiterName": "Ken Mitchell",
+        "recruiterEmail": "kenneth.mitchell3@va.gov",
+        "recruiterPhone": "734-660-0024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.508491,
+          39.139533
+        ]
+      },
+      "properties": {
+        "id": "cincinnati-va-medical-center",
+        "name": "Cincinnati VA Medical Center",
+        "address": "3200 Vine Street Cincinnati, OH 45220-2213",
+        "recruiterName": "Ken Mitchell",
+        "recruiterEmail": "kenneth.mitchell3@va.gov",
+        "recruiterPhone": "734-660-0024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.445585,
+          39.064615
+        ]
+      },
+      "properties": {
+        "id": "cincinnati-va-medical-center-fort-thomas",
+        "name": "Cincinnati VA Medical Center-Fort Thomas",
+        "address": "1000 South Fort Thomas Avenue Fort Thomas, KY 41075-2305",
+        "recruiterName": "Ken Mitchell",
+        "recruiterEmail": "kenneth.mitchell3@va.gov",
+        "recruiterPhone": "734-660-0024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.264851,
+          39.74268
+        ]
+      },
+      "properties": {
+        "id": "dayton-va-medical-center",
+        "name": "Dayton VA Medical Center",
+        "address": "4100 West Third Street Dayton, OH 45428-9000",
+        "recruiterName": "Ken Mitchell",
+        "recruiterEmail": "kenneth.mitchell3@va.gov",
+        "recruiterPhone": "734-660-0024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.058981,
+          42.355675
+        ]
+      },
+      "properties": {
+        "id": "john-d-dingell-department-of-veterans-affairs-medical-center",
+        "name": "John D. Dingell Department of Veterans Affairs Medical Center",
+        "address": "4646 John R Street Detroit, MI 48201-1916",
+        "recruiterName": "Charles Long",
+        "recruiterEmail": "charles.long4@va.gov",
+        "recruiterPhone": "781-589-1291"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.01538,
+          42.341903
+        ]
+      },
+      "properties": {
+        "id": "detroit-va-medical-center-valor-center",
+        "name": "Detroit VA Medical Center-Valor Center",
+        "address": "3245 East Jefferson Avenue Detroit, MI 48207-4222",
+        "recruiterName": "Charles Long",
+        "recruiterEmail": "charles.long4@va.gov",
+        "recruiterPhone": "781-589-1291"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.186847,
+          39.777868
+        ]
+      },
+      "properties": {
+        "id": "richard-l-roudebush-veterans-administration-medical-center",
+        "name": "Richard L. Roudebush Veterans' Administration Medical Center",
+        "address": "1481 West Tenth Street Indianapolis, IN 46202-2884",
+        "recruiterName": "Candace Fitzgerald",
+        "recruiterEmail": "candace.fitzgerald@va.gov",
+        "recruiterPhone": "317-982-2236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.613746,
+          41.513262
+        ]
+      },
+      "properties": {
+        "id": "louis-stokes-cleveland-department-of-veterans-affairs-medical-center",
+        "name": "Louis Stokes Cleveland Department of Veterans Affairs Medical Center",
+        "address": "10701 East Boulevard Cleveland, OH 44106-1702",
+        "recruiterName": "Terry Anderson",
+        "recruiterEmail": "terrance.anderson@va.gov",
+        "recruiterPhone": "832-412-0937"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.109662,
+          41.090836
+        ]
+      },
+      "properties": {
+        "id": "fort-wayne-va-medical-center",
+        "name": "Fort Wayne VA Medical Center",
+        "address": "2121 Lake Avenue Fort Wayne, IN 46805-5100",
+        "recruiterName": "Amy Ellis",
+        "recruiterEmail": "amy.ellis1@va.gov",
+        "recruiterPhone": "217-304-5655"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.637729,
+          40.519918
+        ]
+      },
+      "properties": {
+        "id": "marion-va-medical-center",
+        "name": "Marion VA Medical Center",
+        "address": "1700 East 38th Street Marion, IN 46953-4568",
+        "recruiterName": "Amy Ellis",
+        "recruiterEmail": "amy.ellis1@va.gov",
+        "recruiterPhone": "217-304-5655"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.962124,
+          43.445333
+        ]
+      },
+      "properties": {
+        "id": "aleda-e-lutz-department-of-veterans-affairs-medical-center",
+        "name": "Aleda E. Lutz Department of Veterans Affairs Medical Center",
+        "address": "1500 Weiss Street Saginaw, MI 48602-5251",
+        "recruiterName": "Heathre VanRiper",
+        "recruiterEmail": "heathre.vanriper@va.gov",
+        "recruiterPhone": "989-220-6208"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.677155,
+          41.87074
+        ]
+      },
+      "properties": {
+        "id": "jesse-brown-department-of-veterans-affairs-medical-center",
+        "name": "Jesse Brown Department of Veterans Affairs Medical Center",
+        "address": "820 South Damen Avenue Chicago, IL 60612-3728",
+        "recruiterName": "Michael Sprague",
+        "recruiterEmail": "michael.sprague1@va.gov",
+        "recruiterPhone": "608-633-9648"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.837589,
+          41.845964
+        ]
+      },
+      "properties": {
+        "id": "edward-hines-junior-hospital",
+        "name": "Edward Hines Junior Hospital",
+        "address": "5000 South 5th Avenue Hines, IL 60141-3030",
+        "recruiterName": "Charles Long",
+        "recruiterEmail": "charles.long4@va.gov",
+        "recruiterPhone": "781-589-1291"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.58606,
+          40.124099
+        ]
+      },
+      "properties": {
+        "id": "danville-va-medical-center",
+        "name": "Danville VA Medical Center",
+        "address": "1900 East Main Street Danville, IL 61832-5100",
+        "recruiterName": "JP Pryan",
+        "recruiterEmail": "james.pryan@va.gov",
+        "recruiterPhone": "785-221-0838"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.061249,
+          45.810255
+        ]
+      },
+      "properties": {
+        "id": "oscar-g-johnson-department-of-veterans-affairs-medical-facility",
+        "name": "Oscar G. Johnson Department of Veterans Affairs Medical Facility",
+        "address": "325 East H Street Iron Mountain, MI 49801-4760",
+        "recruiterName": "Kevin Buccola",
+        "recruiterEmail": "kevin.buccola@va.gov",
+        "recruiterPhone": "985-634-5315"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.860101,
+          42.307606
+        ]
+      },
+      "properties": {
+        "id": "captain-james-a-lovell-federal-health-care-center",
+        "name": "Captain James A. Lovell Federal Health Care Center",
+        "address": "3001 Green Bay Road North Chicago, IL 60064-3048",
+        "recruiterName": "Charles Long",
+        "recruiterEmail": "charles.long4@va.gov",
+        "recruiterPhone": "781-589-1291"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.431202,
+          43.074836
+        ]
+      },
+      "properties": {
+        "id": "william-s-middleton-memorial-veterans-hospital",
+        "name": "William S. Middleton Memorial Veterans' Hospital",
+        "address": "2500 Overlook Terrace Madison, WI 53705-2254",
+        "recruiterName": "Jason Tafoya",
+        "recruiterEmail": "jason.tafoya@va.gov",
+        "recruiterPhone": "925-270-6574"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.976328,
+          43.020758
+        ]
+      },
+      "properties": {
+        "id": "clement-j-zablocki-veterans-administration-medical-center",
+        "name": "Clement J. Zablocki Veterans' Administration Medical Center",
+        "address": "5000 West National Avenue Milwaukee, WI 53295-1000",
+        "recruiterName": "JP Pryan",
+        "recruiterEmail": "james.pryan@va.gov",
+        "recruiterPhone": "785-221-0838"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.493684,
+          44.004021
+        ]
+      },
+      "properties": {
+        "id": "tomah-va-medical-center",
+        "name": "Tomah VA Medical Center",
+        "address": "500 East Veterans Street Tomah, WI 54660-3105",
+        "recruiterName": "Michael Sprague",
+        "recruiterEmail": "michael.sprague1@va.gov",
+        "recruiterPhone": "608-633-9648"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.328714,
+          38.93705
+        ]
+      },
+      "properties": {
+        "id": "harry-s-truman-memorial-veterans-hospital",
+        "name": "Harry S. Truman Memorial Veterans' Hospital",
+        "address": "800 Hospital Drive Columbia, MO 65201-5297",
+        "recruiterName": "Tracy Sheppard",
+        "recruiterEmail": "tracy.sheppard@va.gov",
+        "recruiterPhone": "573-300-5592"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.722216,
+          39.025912
+        ]
+      },
+      "properties": {
+        "id": "colmery-o-neil-veterans-administration-medical-center",
+        "name": "Colmery-O'Neil Veterans' Administration Medical Center",
+        "address": "2200 Southwest Gage Boulevard Topeka, KS 66622-0001",
+        "recruiterName": "Jeffrey Richter",
+        "recruiterEmail": "jeffrey.richter5@va.gov",
+        "recruiterPhone": "913-731-9960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.89382,
+          39.27946
+        ]
+      },
+      "properties": {
+        "id": "dwight-d-eisenhower-department-of-veterans-affairs-medical-center",
+        "name": "Dwight D. Eisenhower Department of Veterans Affairs Medical Center",
+        "address": "4101 4th Street Trafficway Leavenworth, KS 66048-5014",
+        "recruiterName": "Jeffrey Richter",
+        "recruiterEmail": "jeffrey.richter5@va.gov",
+        "recruiterPhone": "913-731-9960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.526946,
+          39.063466
+        ]
+      },
+      "properties": {
+        "id": "kansas-city-va-medical-center",
+        "name": "Kansas City VA Medical Center",
+        "address": "4801 Linwood Boulevard Kansas City, MO 64128-2226",
+        "recruiterName": "Daniel Woods",
+        "recruiterEmail": "daniel.woods@va.gov",
+        "recruiterPhone": "207-432-4960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.954845,
+          37.72442
+        ]
+      },
+      "properties": {
+        "id": "marion-va-medical-center",
+        "name": "Marion VA Medical Center",
+        "address": "2401 West Main Street Marion, IL 62959-1165",
+        "recruiterName": "Joanne Miller",
+        "recruiterEmail": "joanne.miller2@va.gov",
+        "recruiterPhone": "618-694-5945"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.416892,
+          36.772299
+        ]
+      },
+      "properties": {
+        "id": "john-j-pershing-veterans-administration-medical-center",
+        "name": "John J. Pershing Veterans' Administration Medical Center",
+        "address": "1500 North Westwood Boulevard Poplar Bluff, MO 63901-3318",
+        "recruiterName": "Tracy Sheppard",
+        "recruiterEmail": "tracy.sheppard@va.gov",
+        "recruiterPhone": "573-300-5592"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.231392,
+          38.642479
+        ]
+      },
+      "properties": {
+        "id": "john-j-cochran-veterans-hospital",
+        "name": "John J. Cochran Veterans Hospital",
+        "address": "915 North Grand Boulevard St. Louis, MO 63106-1621",
+        "recruiterName": "Brandy Molitor",
+        "recruiterEmail": "brandy.molitor@va.gov",
+        "recruiterPhone": "314-487-0400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.284604,
+          38.494779
+        ]
+      },
+      "properties": {
+        "id": "st-louis-va-medical-center-jefferson-barracks",
+        "name": "St. Louis VA Medical Center-Jefferson Barracks",
+        "address": "1 Jefferson Barracks Drive St. Louis, MO 63125-4199",
+        "recruiterName": "Brandy Molitor",
+        "recruiterEmail": "brandy.molitor@va.gov",
+        "recruiterPhone": "314-487-0400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.274097,
+          37.681404
+        ]
+      },
+      "properties": {
+        "id": "robert-j-dole-va-medical-and-regional-office-center",
+        "name": "Robert J. Dole VA Medical and Regional Office Center",
+        "address": "5500 East Kellogg Drive Wichita, KS 67218-1607",
+        "recruiterName": "Christopher Cordes",
+        "recruiterEmail": "christopher.cordes@va.gov",
+        "recruiterPhone": "316-685-2221"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.437721,
+          31.355145
+        ]
+      },
+      "properties": {
+        "id": "alexandria-va-medical-center",
+        "name": "Alexandria VA Medical Center",
+        "address": "2495 Shreveport Highway Pineville, LA 71360-4044",
+        "recruiterName": "Krysta Earhart",
+        "recruiterEmail": "krysta.earhart@va.gov",
+        "recruiterPhone": "318-625-9408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.297094,
+          34.777587
+        ]
+      },
+      "properties": {
+        "id": "eugene-j-towbin-healthcare-center",
+        "name": "Eugene J. Towbin Healthcare Center",
+        "address": "2200 Fort Roots Drive North Little Rock, AR 72114-1707",
+        "recruiterName": "Michael Legate",
+        "recruiterEmail": "michael.legate@va.gov",
+        "recruiterPhone": "501-246-1898"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.320588,
+          34.74651
+        ]
+      },
+      "properties": {
+        "id": "john-l-mcclellan-memorial-veterans-hospital",
+        "name": "John L. McClellan Memorial Veterans' Hospital",
+        "address": "4300 West Seventh Street Little Rock, AR 72205-5446",
+        "recruiterName": "Michael Legate",
+        "recruiterEmail": "michael.legate@va.gov",
+        "recruiterPhone": "501-246-1898"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.158288,
+          36.079866
+        ]
+      },
+      "properties": {
+        "id": "fayetteville-va-medical-center",
+        "name": "Fayetteville VA Medical Center",
+        "address": "1100 North College Avenue Fayetteville, AR 72703-1944",
+        "recruiterName": "Bradly Cargill",
+        "recruiterEmail": "bradly.cargill@va.gov",
+        "recruiterPhone": "479-435-5542"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.942309,
+          30.415066
+        ]
+      },
+      "properties": {
+        "id": "biloxi-va-medical-center",
+        "name": "Biloxi VA Medical Center",
+        "address": "400 Veterans Avenue Biloxi, MS 39531-2410",
+        "recruiterName": "Matt Bittenbender",
+        "recruiterEmail": "matthew.bittenbender@va.gov",
+        "recruiterPhone": "228-341-4786"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.388819,
+          29.699994
+        ]
+      },
+      "properties": {
+        "id": "michael-e-debakey-department-of-veterans-affairs-medical-center",
+        "name": "Michael E. DeBakey Department of Veterans Affairs Medical Center",
+        "address": "2002 Holcombe Boulevard Houston, TX 77030-4211",
+        "recruiterName": "Yvette Jackson",
+        "recruiterEmail": "yvette.jackson@va.gov",
+        "recruiterPhone": "832-352-0859"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.167409,
+          32.328218
+        ]
+      },
+      "properties": {
+        "id": "g-v-sonny-montgomery-department-of-veterans-affairs-medical-center",
+        "name": "G.V. (Sonny) Montgomery Department of Veterans Affairs Medical Center",
+        "address": "1500 East Woodrow Wilson Avenue Jackson, MS 39216-5116",
+        "recruiterName": "Keith Robinson",
+        "recruiterEmail": "keith.robinson4@va.gov",
+        "recruiterPhone": "601-699-2753"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.721373,
+          32.501204
+        ]
+      },
+      "properties": {
+        "id": "overton-brooks-veterans-administration-medical-center",
+        "name": "Overton Brooks Veterans' Administration Medical Center",
+        "address": "510 East Stoner Avenue Shreveport, LA 71101-4243",
+        "recruiterName": "Ashley Jones",
+        "recruiterEmail": "ashley.jones27@va.gov",
+        "recruiterPhone": "318-553-1649"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.084672,
+          29.961832
+        ]
+      },
+      "properties": {
+        "id": "new-orleans-va-medical-center",
+        "name": "New Orleans VA Medical Center",
+        "address": "2400 Canal Street New Orleans, LA 70119-6535",
+        "recruiterName": "Krysta Earhart",
+        "recruiterEmail": "krysta.earhart@va.gov",
+        "recruiterPhone": "318-625-9408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.90643,
+          35.203909
+        ]
+      },
+      "properties": {
+        "id": "thomas-e-creek-department-of-veterans-affairs-medical-center",
+        "name": "Thomas E. Creek Department of Veterans Affairs Medical Center",
+        "address": "6010 Amarillo Boulevard, West Amarillo, TX 79106-1991",
+        "recruiterName": "Jason Tafoya",
+        "recruiterEmail": "jason.tafoya@va.gov",
+        "recruiterPhone": "925-270-6574"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.165149,
+          31.511116
+        ]
+      },
+      "properties": {
+        "id": "doris-miller-department-of-veterans-affairs-medical-center",
+        "name": "Doris Miller Department of Veterans Affairs Medical Center",
+        "address": "4800 Memorial Drive Waco, TX 76711-1329",
+        "recruiterName": "Corina Sanchez",
+        "recruiterEmail": "corina.sanchez@va.gov",
+        "recruiterPhone": "254-727-0952"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.347843,
+          31.076598
+        ]
+      },
+      "properties": {
+        "id": "olin-e-teague-veterans-center",
+        "name": "Olin E. Teague Veterans' Center",
+        "address": "1901 Veterans Memorial Drive Temple, TX 76504-7451",
+        "recruiterName": "Corina Sanchez",
+        "recruiterEmail": "corina.sanchez@va.gov",
+        "recruiterPhone": "254-727-0952"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.791062,
+          32.693552
+        ]
+      },
+      "properties": {
+        "id": "dallas-va-medical-center",
+        "name": "Dallas VA Medical Center",
+        "address": "4500 South Lancaster Road Dallas, TX 75216-7167",
+        "recruiterName": "Terry Anderson",
+        "recruiterEmail": "terrance.anderson@va.gov",
+        "recruiterPhone": "832-412-0937"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.661335,
+          32.919449
+        ]
+      },
+      "properties": {
+        "id": "garland-va-medical-center",
+        "name": "Garland VA Medical Center",
+        "address": "2300 Marie Curie Boulevard Garland, TX 75042-5706",
+        "recruiterName": "Terry Anderson",
+        "recruiterEmail": "terrance.anderson@va.gov",
+        "recruiterPhone": "832-412-0937"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.163562,
+          33.583524
+        ]
+      },
+      "properties": {
+        "id": "sam-rayburn-memorial-veterans-center",
+        "name": "Sam Rayburn Memorial Veterans Center",
+        "address": "1201 East 9th Street Bonham, TX 75418-4059",
+        "recruiterName": "Terry Anderson",
+        "recruiterEmail": "terrance.anderson@va.gov",
+        "recruiterPhone": "832-412-0937"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.580411,
+          29.506319
+        ]
+      },
+      "properties": {
+        "id": "audie-l-murphy-memorial-veterans-hospital",
+        "name": "Audie L. Murphy Memorial Veterans' Hospital",
+        "address": "7400 Merton Minter Boulevard San Antonio, TX 78229-4404",
+        "recruiterName": "Craig Rickaway",
+        "recruiterEmail": "craig.rickaway@va.gov",
+        "recruiterPhone": "361-243-5560"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.114501,
+          30.016435
+        ]
+      },
+      "properties": {
+        "id": "kerrville-va-medical-center",
+        "name": "Kerrville VA Medical Center",
+        "address": "3600 Memorial Boulevard Kerrville, TX 78028-5768",
+        "recruiterName": "Craig Rickaway",
+        "recruiterEmail": "craig.rickaway@va.gov",
+        "recruiterPhone": "361-243-5560"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.47269,
+          32.23115
+        ]
+      },
+      "properties": {
+        "id": "george-h-o-brien-jr-department-of-veterans-affairs-medical-center",
+        "name": "George H. O'Brien, Jr., Department of Veterans Affairs Medical Center",
+        "address": "300 Veterans Boulevard Big Spring, TX 79720-5566",
+        "recruiterName": "Rachel Ortega",
+        "recruiterEmail": "rachel.ortega@va.gov",
+        "recruiterPhone": "432-214-6933"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.786699,
+          41.148002
+        ]
+      },
+      "properties": {
+        "id": "cheyenne-va-medical-center",
+        "name": "Cheyenne VA Medical Center",
+        "address": "2360 East Pershing Boulevard Cheyenne, WY 82001-5356",
+        "recruiterName": "Marti Kimmel",
+        "recruiterEmail": "martha.kimmel@va.gov",
+        "recruiterPhone": "307-433-3744"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.830092,
+          39.741103
+        ]
+      },
+      "properties": {
+        "id": "rocky-mountain-regional-va-medical-center",
+        "name": "Rocky Mountain Regional VA Medical Center",
+        "address": "1700 North Wheeling Street Aurora, CO 80045-7211",
+        "recruiterName": "Mike Owens",
+        "recruiterEmail": "michael.owens4@va.gov",
+        "recruiterPhone": "504-715-1339"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.414249,
+          35.765318
+        ]
+      },
+      "properties": {
+        "id": "jack-c-montgomery-department-of-veterans-affairs-medical-center",
+        "name": "Jack C. Montgomery Department of Veterans Affairs Medical Center",
+        "address": "1011 Honor Heights Drive Muskogee, OK 74401-1318",
+        "recruiterName": "Ratisha Brown",
+        "recruiterEmail": "ratishia.brown@va.gov",
+        "recruiterPhone": "918-577-3602"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1016,
+          46.617798
+        ]
+      },
+      "properties": {
+        "id": "fort-harrison-va-medical-center",
+        "name": "Fort Harrison VA Medical Center",
+        "address": "3687 Veterans Drive Fort Harrison, MT 59636-9703",
+        "recruiterName": "Pat Haynes",
+        "recruiterEmail": "patrick.haynes@va.gov",
+        "recruiterPhone": "406-447-7583"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.495993,
+          35.483026
+        ]
+      },
+      "properties": {
+        "id": "oklahoma-city-va-medical-center",
+        "name": "Oklahoma City VA Medical Center",
+        "address": "921 Northeast 13th Street Oklahoma City, OK 73104-5007",
+        "recruiterName": "Alex Ajisope",
+        "recruiterEmail": "gbolahan.ajisope@va.gov",
+        "recruiterPhone": "405-887-6969"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.838491,
+          40.75393
+        ]
+      },
+      "properties": {
+        "id": "george-e-wahlen-department-of-veterans-affairs-medical-center",
+        "name": "George E. Wahlen Department of Veterans Affairs Medical Center",
+        "address": "500 Foothill Boulevard Salt Lake City, UT 84148-0001",
+        "recruiterName": "David Billingsley",
+        "recruiterEmail": "david.billingsleyjr@va.gov",
+        "recruiterPhone": "405-456-3653"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.984854,
+          44.82737
+        ]
+      },
+      "properties": {
+        "id": "sheridan-va-medical-center",
+        "name": "Sheridan VA Medical Center",
+        "address": "1898 Fort Road Sheridan, WY 82801-8320",
+        "recruiterName": "Tiffiny George",
+        "recruiterEmail": "tiffiny.george@va.gov",
+        "recruiterPhone": "801-582-1565"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.540293,
+          39.076733
+        ]
+      },
+      "properties": {
+        "id": "grand-junction-va-medical-center",
+        "name": "Grand Junction VA Medical Center",
+        "address": "2121 North Avenue Grand Junction, CO 81501-6428",
+        "recruiterName": "Amber Guinotte",
+        "recruiterEmail": "amber.guinotte@va.gov",
+        "recruiterPhone": "307-675-3512"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.744389,
+          61.232708
+        ]
+      },
+      "properties": {
+        "id": "colonel-mary-louise-rasmuson-campus-of-the-alaska-va-healthcare-system",
+        "name": "Colonel Mary Louise Rasmuson Campus of the Alaska VA Healthcare System",
+        "address": "1201 North Muldoon Road Anchorage, AK 99504-6104",
+        "recruiterName": "Eric Snipes",
+        "recruiterEmail": "eric.snipes@va.gov",
+        "recruiterPhone": "707-628-0296"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.744923,
+          61.23519
+        ]
+      },
+      "properties": {
+        "id": "joint-base-elmendorf-richardson-va-medical-center",
+        "name": "Joint Base Elmendorf-Richardson VA Medical Center",
+        "address": "5955 Zeamer Avenue Joint Base Elmendorf-Richardson, AK 99506-3702",
+        "recruiterName": "Eric Snipes",
+        "recruiterEmail": "eric.snipes@va.gov",
+        "recruiterPhone": "707-628-0296"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.195237,
+          43.620017
+        ]
+      },
+      "properties": {
+        "id": "boise-va-medical-center",
+        "name": "Boise VA Medical Center",
+        "address": "500 West Fort Street Boise, ID 83702-4501",
+        "recruiterName": "Hank Laguatan",
+        "recruiterEmail": "henry.laguatan@va.gov",
+        "recruiterPhone": "206-459-7927"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.683495,
+          45.49684
+        ]
+      },
+      "properties": {
+        "id": "portland-va-medical-center",
+        "name": "Portland VA Medical Center",
+        "address": "3710 Southwest US Veterans Hospital Road Portland, OR 97239-2964",
+        "recruiterName": "Hank Laguatan",
+        "recruiterEmail": "henry.laguatan@va.gov",
+        "recruiterPhone": "206-459-7927"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.658184,
+          45.639046
+        ]
+      },
+      "properties": {
+        "id": "vancouver-va-medical-center",
+        "name": "Vancouver VA Medical Center",
+        "address": "1601 East 4th Plain Boulevard Vancouver, WA 98661-3753",
+        "recruiterName": "Hank Laguatan",
+        "recruiterEmail": "henry.laguatan@va.gov",
+        "recruiterPhone": "206-459-7927"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.576234,
+          47.13556
+        ]
+      },
+      "properties": {
+        "id": "american-lake-va-medical-center",
+        "name": "American Lake VA Medical Center",
+        "address": "9600 Veterans Drive Southwest Tacoma, WA 98493-0003",
+        "recruiterName": "Hank Laguatan",
+        "recruiterEmail": "henry.laguatan@va.gov",
+        "recruiterPhone": "206-459-7927"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.308258,
+          47.563017
+        ]
+      },
+      "properties": {
+        "id": "seattle-va-medical-center",
+        "name": "Seattle VA Medical Center",
+        "address": "1660 South Columbian Way Seattle, WA 98108-1532",
+        "recruiterName": "Hank Laguatan",
+        "recruiterEmail": "henry.laguatan@va.gov",
+        "recruiterPhone": "206-459-7927"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.367931,
+          43.224475
+        ]
+      },
+      "properties": {
+        "id": "roseburg-va-medical-center",
+        "name": "Roseburg VA Medical Center",
+        "address": "913 Northwest Garden Valley Boulevard Roseburg, OR 97471-6523",
+        "recruiterName": "Eric Snipes",
+        "recruiterEmail": "eric.snipes@va.gov",
+        "recruiterPhone": "707-628-0296"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.839693,
+          42.442077
+        ]
+      },
+      "properties": {
+        "id": "white-city-va-medical-center",
+        "name": "White City VA Medical Center",
+        "address": "8495 Crater Lake Highway White City, OR 97503-3011",
+        "recruiterName": "Hank Laguatan",
+        "recruiterEmail": "henry.laguatan@va.gov",
+        "recruiterPhone": "206-459-7927"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.477532,
+          47.702546
+        ]
+      },
+      "properties": {
+        "id": "mann-grandstaff-department-of-veterans-affairs-medical-center",
+        "name": "Mann-Grandstaff Department of Veterans Affairs Medical Center",
+        "address": "4815 North Assembly Street Spokane, WA 99205-6185",
+        "recruiterName": "Hank Laguatan",
+        "recruiterEmail": "henry.laguatan@va.gov",
+        "recruiterPhone": "206-459-7927"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.355715,
+          46.05351
+        ]
+      },
+      "properties": {
+        "id": "jonathan-m-wainwright-memorial-va-medical-center",
+        "name": "Jonathan M. Wainwright Memorial VA Medical Center",
+        "address": "77 Wainwright Drive Walla Walla, WA 99362-3975",
+        "recruiterName": "Hank Laguatan",
+        "recruiterEmail": "henry.laguatan@va.gov",
+        "recruiterPhone": "206-459-7927"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.778948,
+          36.773377
+        ]
+      },
+      "properties": {
+        "id": "fresno-va-medical-center",
+        "name": "Fresno VA Medical Center",
+        "address": "2615 East Clinton Avenue Fresno, CA 93703-2223",
+        "recruiterName": "Greg Salmon",
+        "recruiterEmail": "gregory.salmon@va.gov",
+        "recruiterPhone": "321-689-7080"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.115571,
+          37.994246
+        ]
+      },
+      "properties": {
+        "id": "martinez-va-medical-center",
+        "name": "Martinez VA Medical Center",
+        "address": "150 Muir Road Martinez, CA 94553-4668",
+        "recruiterName": "Kelly DeBoer",
+        "recruiterEmail": "kelly.deboer@va.gov",
+        "recruiterPhone": "775-223-5351"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.295269,
+          38.573292
+        ]
+      },
+      "properties": {
+        "id": "sacramento-va-medical-center",
+        "name": "Sacramento VA Medical Center",
+        "address": "10535 Hospital Way Mather, CA 95655-4200",
+        "recruiterName": "Kelly DeBoer",
+        "recruiterEmail": "kelly.deboer@va.gov",
+        "recruiterPhone": "775-223-5351"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.889391,
+          21.361376
+        ]
+      },
+      "properties": {
+        "id": "spark-m-matsunaga-department-of-veterans-affairs-medical-center",
+        "name": "Spark M. Matsunaga Department of Veterans Affairs Medical Center",
+        "address": "459 Patterson Road Honolulu, HI 96819-1522",
+        "recruiterName": "Greg Salmon",
+        "recruiterEmail": "gregory.salmon@va.gov",
+        "recruiterPhone": "925-270-6574"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.140212,
+          37.405139
+        ]
+      },
+      "properties": {
+        "id": "palo-alto-va-medical-center",
+        "name": "Palo Alto VA Medical Center",
+        "address": "3801 Miranda Avenue Palo Alto, CA 94304-1207",
+        "recruiterName": "David Martinez",
+        "recruiterEmail": "david.martinez16@va.gov",
+        "recruiterPhone": "925-270-6574"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.76614,
+          37.62629
+        ]
+      },
+      "properties": {
+        "id": "palo-alto-va-medical-center-livermore",
+        "name": "Palo Alto VA Medical Center-Livermore",
+        "address": "4951 Arroyo Road Livermore, CA 94550-9650",
+        "recruiterName": "David Martinez",
+        "recruiterEmail": "david.martinez16@va.gov",
+        "recruiterPhone": "925-270-6574"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.16024,
+          37.466356
+        ]
+      },
+      "properties": {
+        "id": "palo-alto-va-medical-center-menlo-park",
+        "name": "Palo Alto VA Medical Center-Menlo Park",
+        "address": "795 Willow Road Menlo Park, CA 94025-2539",
+        "recruiterName": "David Martinez",
+        "recruiterEmail": "david.martinez16@va.gov",
+        "recruiterPhone": "650-643-9856"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.504959,
+          37.782408
+        ]
+      },
+      "properties": {
+        "id": "san-francisco-va-medical-center",
+        "name": "San Francisco VA Medical Center",
+        "address": "4150 Clement Street San Francisco, CA 94121-1545",
+        "recruiterName": "David Martinez",
+        "recruiterEmail": "david.martinez16@va.gov",
+        "recruiterPhone": "650-643-9856"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.799008,
+          39.516035
+        ]
+      },
+      "properties": {
+        "id": "ioannis-a-lougaris-veterans-administration-medical-center",
+        "name": "Ioannis A. Lougaris Veterans' Administration Medical Center",
+        "address": "975 Kirman Avenue Reno, NV 89502-0993",
+        "recruiterName": "Kelly DeBoer",
+        "recruiterEmail": "kelly.deboer@va.gov",
+        "recruiterPhone": "775-223-5351"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.09421,
+          36.284853
+        ]
+      },
+      "properties": {
+        "id": "north-las-vegas-va-medical-center",
+        "name": "North Las Vegas VA Medical Center",
+        "address": "6900 North Pecos Road North Las Vegas, NV 89086-4400",
+        "recruiterName": "Kelly DeBoer",
+        "recruiterEmail": "kelly.deboer@va.gov",
+        "recruiterPhone": "775-223-5351"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.48211,
+          34.244211
+        ]
+      },
+      "properties": {
+        "id": "sepulveda-va-medical-center",
+        "name": "Sepulveda VA Medical Center",
+        "address": "16111 Plummer Street Sepulveda, CA 91343-2036",
+        "recruiterName": "Lawana Palmer",
+        "recruiterEmail": "lawana.palmer@va.gov",
+        "recruiterPhone": "424-450-5151"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.452979,
+          34.052981
+        ]
+      },
+      "properties": {
+        "id": "west-los-angeles-va-medical-center",
+        "name": "West Los Angeles VA Medical Center",
+        "address": "11301 Wilshire Boulevard Los Angeles, CA 90073-1003",
+        "recruiterName": "Lawana Palmer",
+        "recruiterEmail": "lawana.palmer@va.gov",
+        "recruiterPhone": "424-450-5151"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.250067,
+          34.050275
+        ]
+      },
+      "properties": {
+        "id": "jerry-l-pettis-memorial-veterans-hospital",
+        "name": "Jerry L. Pettis Memorial Veterans' Hospital",
+        "address": "11201 Benton Street Loma Linda, CA 92357-1000",
+        "recruiterName": "Mike McClafferty",
+        "recruiterEmail": "michael.mcclafferty@va.gov",
+        "recruiterPhone": "909-220-2510"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.118973,
+          33.776442
+        ]
+      },
+      "properties": {
+        "id": "tibor-rubin-va-medical-center",
+        "name": "Tibor Rubin VA Medical Center",
+        "address": "5901 East Seventh Street Long Beach, CA 90822-5201",
+        "recruiterName": "Sergio Garcia",
+        "recruiterEmail": "sergio.garcia2@va.gov",
+        "recruiterPhone": "909-735-7855"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.581219,
+          35.055062
+        ]
+      },
+      "properties": {
+        "id": "raymond-g-murphy-department-of-veterans-affairs-medical-center",
+        "name": "Raymond G. Murphy Department of Veterans Affairs Medical Center",
+        "address": "1501 San Pedro Drive, Southeast Albuquerque, NM 87108-5153",
+        "recruiterName": "Matthew Corrales",
+        "recruiterEmail": "matthew.corrales@va.gov",
+        "recruiterPhone": "505-934-0047"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.452943,
+          34.554157
+        ]
+      },
+      "properties": {
+        "id": "bob-stump-department-of-veterans-affairs-medical-center",
+        "name": "Bob Stump Department of Veterans Affairs Medical Center",
+        "address": "500 Highway 89 North Prescott, AZ 86313-5001",
+        "recruiterName": "Timothy Bernau",
+        "recruiterEmail": "timothy.bernau@va.gov",
+        "recruiterPhone": "623-920-1304"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.06679,
+          33.496957
+        ]
+      },
+      "properties": {
+        "id": "carl-t-hayden-veterans-administration-medical-center",
+        "name": "Carl T. Hayden Veterans' Administration Medical Center",
+        "address": "650 East Indian School Road Phoenix, AZ 85012-1839",
+        "recruiterName": "Timothy Bernau",
+        "recruiterEmail": "timothy.bernau@va.gov",
+        "recruiterPhone": "623-920-1304"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.23215,
+          32.875328
+        ]
+      },
+      "properties": {
+        "id": "jennifer-moreno-department-of-veterans-affairs-medical-center",
+        "name": "Jennifer Moreno Department of Veterans Affairs Medical Center",
+        "address": "3350 La Jolla Village Drive San Diego, CA 92161-0002",
+        "recruiterName": "Mike McClafferty",
+        "recruiterEmail": "michael.mcclafferty@va.gov",
+        "recruiterPhone": "909-220-2510"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.964562,
+          32.181266
+        ]
+      },
+      "properties": {
+        "id": "tucson-va-medical-center",
+        "name": "Tucson VA Medical Center",
+        "address": "3601 South Sixth Avenue Tucson, AZ 85723-0001",
+        "recruiterName": "Virginia Deutsch",
+        "recruiterEmail": "virginia.deutsch@va.gov",
+        "recruiterPhone": "210-852-6410"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.470408,
+          44.412788
+        ]
+      },
+      "properties": {
+        "id": "fort-meade-va-medical-center",
+        "name": "Fort Meade VA Medical Center",
+        "address": "113 Comanche Road Fort Meade, SD 57741-1002",
+        "recruiterName": "Keith Liles",
+        "recruiterEmail": "harold.liles@va.gov",
+        "recruiterPhone": "919-408-4741"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.474964,
+          43.437389
+        ]
+      },
+      "properties": {
+        "id": "hot-springs-va-medical-center",
+        "name": "Hot Springs VA Medical Center",
+        "address": "500 North Fifth Street Hot Springs, SD 57747-1480",
+        "recruiterName": "Keith Liles",
+        "recruiterEmail": "harold.liles@va.gov",
+        "recruiterPhone": "919-408-4741"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.660608,
+          41.627505
+        ]
+      },
+      "properties": {
+        "id": "des-moines-va-medical-center",
+        "name": "Des Moines VA Medical Center",
+        "address": "3600 30th Street Des Moines, IA 50310-5753",
+        "recruiterName": "Ken Mitchell",
+        "recruiterEmail": "kenneth.mitchell3@va.gov",
+        "recruiterPhone": "734-660-0024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.774656,
+          46.906172
+        ]
+      },
+      "properties": {
+        "id": "fargo-va-medical-center",
+        "name": "Fargo VA Medical Center",
+        "address": "2101 Elm Street North Fargo, ND 58102-2417",
+        "recruiterName": "Shane Stults",
+        "recruiterEmail": "shane.stults@va.gov",
+        "recruiterPhone": "407-319-8473"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.548259,
+          41.663518
+        ]
+      },
+      "properties": {
+        "id": "iowa-city-va-medical-center",
+        "name": "Iowa City VA Medical Center",
+        "address": "601 Highway 6 West Iowa City, IA 52246-2209",
+        "recruiterName": "Alicia Beanblossom",
+        "recruiterEmail": "alicia.beanblossom2@va.gov",
+        "recruiterPhone": "319-338-0581"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.204591,
+          44.90194
+        ]
+      },
+      "properties": {
+        "id": "minneapolis-va-medical-center",
+        "name": "Minneapolis VA Medical Center",
+        "address": "One Veterans Drive Minneapolis, MN 55417-2309",
+        "recruiterName": "Eric Snipes",
+        "recruiterEmail": "eric.snipes@va.gov",
+        "recruiterPhone": "707-628-0296"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.357029,
+          40.942842
+        ]
+      },
+      "properties": {
+        "id": "grand-island-va-medical-center",
+        "name": "Grand Island VA Medical Center",
+        "address": "2201 North Broadwell Avenue Grand Island, NE 68803-2153",
+        "recruiterName": "Kevin Buccola",
+        "recruiterEmail": "kevin.buccola@va.gov",
+        "recruiterPhone": "985-634-5315"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.97529,
+          41.244755
+        ]
+      },
+      "properties": {
+        "id": "omaha-va-medical-center",
+        "name": "Omaha VA Medical Center",
+        "address": "4101 Woolworth Avenue Omaha, NE 68105-1850",
+        "recruiterName": "Kevin Buccola",
+        "recruiterEmail": "kevin.buccola@va.gov",
+        "recruiterPhone": "985-634-5315"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.755895,
+          43.531247
+        ]
+      },
+      "properties": {
+        "id": "royal-c-johnson-veterans-memorial-hospital",
+        "name": "Royal C. Johnson Veterans' Memorial Hospital",
+        "address": "2501 West 22nd Street Sioux Falls, SD 57105-5046",
+        "recruiterName": "Jason Tafoya",
+        "recruiterEmail": "jason.tafoya@va.gov",
+        "recruiterPhone": "925-270-6574"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.218882,
+          45.567897
+        ]
+      },
+      "properties": {
+        "id": "st-cloud-va-medical-center",
+        "name": "St. Cloud VA Medical Center",
+        "address": "4801 Veterans Drive St. Cloud, MN 56303-2015",
+        "recruiterName": "Eric Snipes",
+        "recruiterEmail": "eric.snipes@va.gov",
+        "recruiterPhone": "707-628-0296"
+      }
+    }
+  ]
+}

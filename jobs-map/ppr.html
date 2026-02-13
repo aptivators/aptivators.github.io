@@ -3,15 +3,10 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>VA Jobs Map</title>
+    <title>PPR Locations Map</title>
     <style>
-      :root {
-        --jobs-map-filterbar-color: #f0f0f0;
-      }
-
       html {
         height: 100%;
-        scroll-snap-type: y proximity;
         scroll-behavior: smooth;
       }
 
@@ -22,30 +17,29 @@
       }
 
       section {
-        scroll-snap-align: center;
-        scroll-snap-stop: always;
         height: 100vh;
         width: 100%;
       }
 
-      jobs-map {
-        scroll-snap-align: center;
-        scroll-snap-stop: always;
+      ppr-locations-map {
+        display: block;
+        height: 100%;
+        width: 100%;
       }
     </style>
-    <script type="module" crossorigin src="/assets/index-CxuDupnK.js"></script>
+    <script type="module" crossorigin src="/assets/ppr-Ca4MPy9c.js"></script>
     <link rel="modulepreload" crossorigin href="/assets/styles-cc7rwaOy.js">
   </head>
 
   <body>
     <section class="w-full h-screen overflow-hidden flex flex-col relative">
-      <jobs-map
-        initial-filters='{"openToPublic": true, "careerArea": "Nursing"}'
+      <ppr-locations-map
+        geojson-url="ppr-locations.geojson"
         mapbox-token="pk.eyJ1IjoiY2hyaXN0b3BoZXJjb3NuZXIiLCJhIjoiY21kZGFoaXdsMDJ1ajJubjMxdjRzZTBsMyJ9.d4fDFXYKjga4Hhc_60jaqw"
         mapbox-style="mapbox://styles/christophercosner/cmaznmgy800lu01rf1ql0bzmf"
-        geojson-url="va-jobs.geojson"
       >
-      </jobs-map>
+      </ppr-locations-map>
     </section>
+
   </body>
 </html>
