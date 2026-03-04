@@ -62,7 +62,7 @@ body{padding-top:52px;}
 .kv-strip:hover img{transform:scale(1.015);}
 
 /* LABELS */
-.slabel{font-size:10px;font-weight:700;letter-spacing:4px;text-transform:uppercase;margin-bottom:20px;display:flex;align-items:center;}
+.slabel{font-size:12px;font-weight:700;letter-spacing:4px;text-transform:uppercase;margin-bottom:20px;display:flex;align-items:center;}
 .slabel-dark{color:var(--purple2);}
 .slabel-light{color:var(--lavender2);opacity:.8;}
 .slabel-cream{color:var(--purple2);}
@@ -115,7 +115,7 @@ body{padding-top:52px;}
 /* CREATIVE DIVIDER */
 .creative-divider{background:var(--purple4);padding:96px 80px;position:relative;overflow:hidden;display:grid;grid-template-columns:1fr auto;align-items:center;gap:64px;min-height:92vh;}
 .creative-divider::before{content:'';position:absolute;inset:0;background:radial-gradient(ellipse at 30% 60%, rgba(0,200,50,0.12) 0%, transparent 60%), radial-gradient(ellipse at 80% 30%, rgba(107,63,160,0.5) 0%, transparent 55%);pointer-events:none;}
-.creative-divider-label{font-size:10px;font-weight:700;letter-spacing:5px;text-transform:uppercase;color:var(--green);margin-bottom:20px;position:relative;}
+.creative-divider-label{font-size:12px;font-weight:700;letter-spacing:5px;text-transform:uppercase;color:var(--green);margin-bottom:20px;position:relative;}
 .creative-divider-hed{font-family:'Unbounded',sans-serif;font-weight:900;font-size:clamp(42px,7vw,96px);letter-spacing:-5px;color:var(--white);line-height:.88;position:relative;}
 .creative-divider-hed .lo{color:var(--lavender);}
 .creative-divider-sub{font-family:'Lora',serif;font-style:italic;font-size:18px;color:rgba(255,255,255,.4);margin-top:24px;position:relative;max-width:48ch;}
@@ -173,7 +173,9 @@ body{padding-top:52px;}
 .sb-img{width:100%;aspect-ratio:16/9;object-fit:cover;display:block;transition:transform .4s ease;filter:grayscale(15%);}
 .sb-cell:hover .sb-img{transform:scale(1.03);}
 .sb-caption{padding:12px 14px;}
-.sb-speaker{font-size:9px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:var(--purple2);margin-bottom:4px;}
+.sb-caption-top{display:flex;align-items:center;gap:8px;margin-bottom:4px;}
+.sb-speaker{font-size:9px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:var(--purple2);}
+.sb-speaker-pill{display:inline-block;font-size:9px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:var(--white);background:var(--purple2);padding:2px 7px;}
 .sb-vo{font-family:'Lora',serif;font-style:italic;font-size:13px;color:var(--ink);line-height:1.6;}
 .sb-vo-block{background:var(--white);border-left:3px solid var(--purple);padding:24px 22px;position:sticky;top:60px;}
 .sb-vo-block .slabel{margin-bottom:14px;}
@@ -206,6 +208,12 @@ body{padding-top:52px;}
 .media-tactic-list{display:flex;flex-direction:column;gap:7px;}
 .media-tactic-item{font-size:13px;font-weight:600;color:var(--purple2);padding-left:14px;position:relative;}
 .media-tactic-item::before{content:'';position:absolute;left:0;top:8px;width:6px;height:1px;background:var(--purple);}
+.media-placements{margin-bottom:40px;}
+.media-placements-label{font-size:10px;font-weight:700;letter-spacing:4px;text-transform:uppercase;color:var(--purple2);opacity:.6;margin-bottom:14px;}
+.media-placements-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:3px;}
+.media-placement-img{width:100%;aspect-ratio:16/9;object-fit:cover;display:block;}
+.media-mockup-wrap{background:rgba(74,26,122,.06);padding:32px;margin-bottom:40px;}
+.media-mockup-img{width:100%;max-width:960px;display:block;aspect-ratio:16/9;object-fit:cover;}
 .media-beyond{padding:40px 0 32px 0;}
 .media-beyond-hed{font-size:10px;font-weight:700;letter-spacing:4px;text-transform:uppercase;color:var(--purple2);margin-bottom:16px;}
 .media-beyond-intro{font-size:18px;color:var(--ink);font-weight:400;margin-bottom:24px;}
@@ -555,11 +563,11 @@ footer{background:var(--ink);padding:36px 64px;display:flex;align-items:center;j
   <div class="sb-grid">
     <div class="sb-cell">
       <img class="sb-img" src="./sb-01.jpg" alt="Shot 1" />
-      <div class="sb-caption"><div class="sb-speaker">Voiceover</div><div class="sb-vo">Start with...</div></div>
+      <div class="sb-caption"><div class="sb-caption-top"><span class="sb-speaker-pill">Voiceover</span><span class="sb-speaker">A Woman</span></div><div class="sb-vo">Start with...</div></div>
     </div>
     <div class="sb-cell">
       <img class="sb-img" src="./sb-02.jpg" alt="Shot 2" />
-      <div class="sb-caption"><div class="sb-speaker">Neighbors</div><div class="sb-vo">...a call.</div></div>
+      <div class="sb-caption"><div class="sb-speaker">Phone Dialing 988</div><div class="sb-vo">...a call.</div></div>
     </div>
     <div class="sb-cell">
       <img class="sb-img" src="./sb-03.jpg" alt="Shot 3" />
@@ -603,22 +611,18 @@ footer{background:var(--ink);padding:36px 64px;display:flex;align-items:center;j
     </div>
     <div class="sb-cell">
       <img class="sb-img" src="./sb-13.jpg" alt="Shot 13" />
-      <div class="sb-caption"><div class="sb-speaker">Veteran Couple</div><div class="sb-vo">Start with…</div></div>
+      <div class="sb-caption"><div class="sb-speaker">A Woman</div><div class="sb-vo">Start with… Hello?</div></div>
     </div>
     <div class="sb-cell">
-      <img class="sb-img" src="./sb-14.jpg" alt="Shot 14" />
-      <div class="sb-caption"><div class="sb-speaker">Person from Frame One</div><div class="sb-vo">Hello?</div></div>
-    </div>
-    <div class="sb-cell">
-      <img class="sb-img" src="./sb-15.jpg" alt="Shot 15" />
-      <div class="sb-caption"><div class="sb-speaker">Narrator</div><div class="sb-vo">Start with hello. Everyone falls down sometimes, but we'll pick up every time. Don't wait. Call 988. By Baltimore, for Baltimore.</div></div>
+      <img class="sb-img" src="./sb-15.jpg" alt="End Plate" />
+      <div class="sb-caption"><div class="sb-speaker">End Plate</div><div class="sb-vo">Start with hello. Everyone feels down sometimes, but we'll pick up every time. Don't wait. Call 988. By Baltimore, for Baltimore.</div></div>
     </div>
   </div>
   <div class="sb-vo-block">
     <div class="slabel slabel-dark" style="margin-bottom:16px;">Full Voiceover</div>
     <p>
-      <strong>VO:</strong> Start with…<br>
-      <strong>Neighbors:</strong> ...a call.<br>
+      <strong>A Woman:</strong> Start with…<br>
+      <strong>Phone Dialing 988:</strong> ...a call.<br>
       <strong>Youth Sports Team:</strong> ...a text.<br>
       <strong>Young Student:</strong> ...a chat.<br>
       <strong>Veteran Couple:</strong> Start with…<br>
@@ -629,9 +633,8 @@ footer{background:var(--ink);padding:36px 64px;display:flex;align-items:center;j
       <strong>Restaurant Worker:</strong> ...you.<br>
       <strong>A Mother:</strong> ...me.<br>
       <strong>A Group:</strong> ...us.<br>
-      <strong>Veteran Couple:</strong> Start with…<br>
-      <strong>Person from Frame One:</strong> Hello?<br>
-      <strong>Narrator:</strong> Start with hello. Everyone falls down sometimes, but we'll pick up every time. Don't wait. Call 988. By Baltimore, for Baltimore.
+      <strong>A Woman:</strong> Start with… Hello?<br>
+      <strong>Narrator:</strong> Start with hello. Everyone feels down sometimes, but we'll pick up every time. Don't wait. Call 988. By Baltimore, for Baltimore.
     </p>
     <p style="margin-top:20px;font-size:13px;font-weight:600;letter-spacing:1px;color:var(--purple2);">Call or text 988 — 988helpline.org</p>
   </div>
@@ -735,6 +738,20 @@ footer{background:var(--ink);padding:36px 64px;display:flex;align-items:center;j
     </div>
   </div>
 
+  <div class="media-placements">
+    <div class="media-placements-label">Past Placements</div>
+    <div class="media-placements-grid">
+      <img src="./media-placement-01.jpg" alt="Ad placement example" class="media-placement-img" />
+      <img src="./media-placement-02.jpg" alt="Ad placement example" class="media-placement-img" />
+      <img src="./media-placement-03.jpg" alt="Ad placement example" class="media-placement-img" />
+    </div>
+  </div>
+
+  <div class="media-mockup-wrap">
+    <div class="media-placements-label">Example Placement</div>
+    <img src="./media-mockup.jpg" alt="Campaign mockup in Baltimore" class="media-mockup-img" />
+  </div>
+
   <div class="media-beyond">
     <div class="media-beyond-hed">Outreach Beyond the Paid Media Buys</div>
     <p class="media-beyond-intro">We also need trusted messengers to expand our media reach in non-traditional ways.</p>
@@ -814,7 +831,7 @@ footer{background:var(--ink);padding:36px 64px;display:flex;align-items:center;j
       <div class="ty-contact-label">
         <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="#00C832" stroke-width="2" style="display:inline-block;vertical-align:middle;margin-right:6px;"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>Email
       </div>
-      <div class="ty-contact-info"><a href="mailto:proposals@aptiveresources.com">proposals@aptiveresources.com</a></div>
+      <div class="ty-contact-info"><a href="/cdn-cgi/l/email-protection#9dedeff2edf2eefcf1eeddfcede9f4ebf8eff8eef2e8effef8eeb3fef2f0"><span class="__cf_email__" data-cfemail="5525273a253a26343926153425213c23302730263a20273630267b363a38">[email&#160;protected]</span></a></div>
     </div>
   </div>
 </section>
@@ -824,7 +841,7 @@ footer{background:var(--ink);padding:36px 64px;display:flex;align-items:center;j
   <div class="footer-sub">988 Baltimore — Campaign Proposal</div>
 </footer>
 
-<script>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
 function toggleAlts(trigger) {
   const body = trigger.nextElementSibling;
   const btn = trigger.querySelector('.alts-toggle-btn');
