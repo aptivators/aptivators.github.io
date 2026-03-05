@@ -150,7 +150,7 @@ body{padding-top:52px;}
 .aud-note p{font-size:12px;line-height:1.7;color:rgba(255,255,255,.65);font-style:italic;font-weight:300;}
 
 /* DESCRIPTORS */
-.descriptors{background:var(--purple3);padding:72px 64px;}
+.descriptors{background:var(--purple3);padding:72px 64px 56px;}
 .desc-hed{font-family:'Unbounded',sans-serif;font-weight:900;font-size:clamp(32px,4.5vw,60px);letter-spacing:-2.5px;color:var(--white);line-height:.9;margin-bottom:48px;}
 .desc-hed .dot{color:var(--lavender);}
 .desc-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:3px;}
@@ -234,6 +234,16 @@ body{padding-top:52px;}
 .community-list li{font-size:15px;line-height:1.65;color:#1a1a1a;font-weight:300;padding-left:16px;position:relative;}
 .community-list li::before{content:'';width:5px;height:5px;border-radius:50%;background:var(--purple2);position:absolute;left:0;top:8px;}
 .community-list li b{font-weight:600;}
+.community-layout-new{display:grid;grid-template-columns:1fr 380px;gap:56px;margin-top:8px;align-items:start;}
+.community-text-col{display:flex;flex-direction:column;}
+.community-image-col{position:sticky;top:80px;padding-left:24px;}
+.community-img-placeholder{width:100%;aspect-ratio:3/4;border-radius:4px;overflow:hidden;position:relative;background:rgba(107,63,160,.08);border:2px dashed rgba(107,63,160,.25);}
+.community-palm-img{width:100%;height:100%;object-fit:cover;display:block;}
+.community-img-fallback{display:flex;align-items:center;justify-content:center;width:100%;height:100%;position:absolute;inset:0;}
+.community-img-fallback-inner{text-align:center;padding:24px;}
+.community-img-label{font-size:10px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:var(--purple2);opacity:.5;margin-bottom:8px;}
+.community-img-filename{font-family:'Unbounded',sans-serif;font-size:13px;font-weight:700;color:var(--purple2);margin-bottom:8px;word-break:break-all;}
+.community-img-note{font-family:'Lora',serif;font-style:italic;font-size:12px;color:var(--purple2);opacity:.6;}
 
 /* SUMMARY */
 .summary-section{background:var(--purple4);padding:80px 64px;}
@@ -249,11 +259,12 @@ body{padding-top:52px;}
 .ty-contact-card{background:rgba(255,255,255,.06);padding:28px 24px;}
 .ty-contact-label{font-size:9px;font-weight:700;letter-spacing:3px;text-transform:uppercase;color:var(--lavender2);opacity:.7;margin-bottom:10px;}
 .ty-contact-name{font-family:'Unbounded',sans-serif;font-weight:700;font-size:13px;color:var(--white);margin-bottom:6px;letter-spacing:-.2px;}
-.ty-contact-info{font-size:14px;line-height:1.7;color:rgba(255,255,255,.55);font-weight:300;}
+.ty-contact-info{font-size:14px;line-height:1.7;color:rgba(255,255,255,1);font-weight:300;}
 .ty-contact-info a{color:var(--lavender2);text-decoration:none;}
 .ty-contact-info a:hover{color:var(--white);}
 
 footer{background:var(--ink);padding:36px 64px;display:flex;align-items:center;justify-content:center;flex-direction:column;gap:12px;}
+.ty-disclaimer{font-family:'Lora',serif;font-style:italic;font-size:12px;color:rgba(255,255,255,.5);margin-top:40px;max-width:60ch;line-height:1.7;}
 .footer-logo{height:28px;opacity:0.5;}
 .footer-sub{font-size:10px;color:rgba(255,255,255,.2);letter-spacing:2px;text-transform:uppercase;}
 .alts{background:var(--purple2);padding:72px 64px;}
@@ -309,13 +320,25 @@ footer{background:var(--ink);padding:36px 64px;display:flex;align-items:center;j
   .split-section{grid-template-columns:1fr;}
   .split-research,.split-audiences{padding:48px 28px;}
   .partners-inner{grid-template-columns:1fr;}
-  .sb-layout,.sb-grid,.act-grid,.desc-grid,.alts-grid,.team-grid,.campaign-layout,.media-three-col,.media-beyond-grid,.media-audacy-grid,.community-layout,.ty-contact{grid-template-columns:1fr;}
+  .sb-layout,.sb-grid,.act-grid,.desc-grid,.alts-grid,.team-grid,.campaign-layout,.media-three-col,.media-beyond-grid,.media-audacy-grid,.community-layout,.community-layout-new,.ty-contact{grid-template-columns:1fr;}
   .desc-cell.featured{grid-column:1;}
   .sb-vo-block{position:static;margin-top:3px;}
   footer{padding:28px;}
   .title-slide{padding:60px 28px;min-height:50vh;}
   .slide-nav{padding:0 16px;}
 }
+
+/* LANGUAGE TICKER */
+.lang-ticker-wrap{margin-top:40px;padding-top:24px;border-top:1px solid rgba(255,255,255,.08);overflow:hidden;}
+.lang-ticker{overflow:hidden;cursor:default;}
+.lang-ticker-track{display:flex;align-items:flex-start;gap:32px;width:max-content;animation:tickerScroll 40s linear infinite;}
+.lang-ticker:hover .lang-ticker-track{animation-play-state:paused;}
+@keyframes tickerScroll{0%{transform:translateX(0);}100%{transform:translateX(-50%);}}
+.lang-item{display:inline-flex;flex-direction:column;align-items:center;gap:6px;flex-shrink:0;}
+.lang-text{font-family:'Unbounded',sans-serif;font-size:clamp(13px,1.4vw,17px);font-weight:700;color:rgba(255,255,255,.85);letter-spacing:-.3px;white-space:nowrap;}
+.lang-tag{font-size:9px;font-weight:600;letter-spacing:2px;text-transform:uppercase;color:var(--green);opacity:.8;white-space:nowrap;transition:opacity .2s;}
+.lang-item:hover .lang-tag{opacity:1;}
+.lang-sep{font-size:20px;color:rgba(255,255,255,.2);flex-shrink:0;margin-top:2px;}
 </style>
 </head>
 <body>
@@ -350,8 +373,8 @@ footer{background:var(--ink);padding:36px 64px;display:flex;align-items:center;j
       <div class="team-name">Seth Niman</div>
       <div class="team-role">Paid Media Director, Aptive</div>
       <div class="team-bullets">
-        <div class="team-bullet">Proud Baltimore native</div>
-        <div class="team-bullet">20+ years experience, including extensive Baltimore-based campaigns and VA mental health campaigns</div>
+        <div class="team-bullet">Proud Baltimore native.</div>
+        <div class="team-bullet">20+ years experience, including extensive Baltimore-based campaigns and VA mental health campaigns.</div>
       </div>
     </div>
     <div class="team-card">
@@ -359,13 +382,16 @@ footer{background:var(--ink);padding:36px 64px;display:flex;align-items:center;j
       <div class="team-name">Taylor Grant</div>
       <div class="team-role">Creative Director, Aptive</div>
       <div class="team-bullets">
-        <div class="team-bullet">12+ years experience, including launching the PREVENTS Roadmap to End Veteran Suicide and REACH campaigns</div>
+        <div class="team-bullet">15+ years experience, including launching the PREVENTS Roadmap to End Veteran Suicide and REACH campaigns.</div>
       </div>
     </div>
     <div class="team-card">
       <div class="team-photo"><img src="./team-linda.jpg" alt="Linda Raines" onerror="this.style.display='none';this.parentElement.innerHTML='<div class=team-photo-initials>LR</div>';" /></div>
       <div class="team-name">Linda Raines</div>
       <div class="team-role">Chief Executive Officer, MHAMD</div>
+      <div class="team-bullets">
+        <div class="team-bullet">Through her MHAMD work, Linda has spent decades working to improve behavioral health systems, services, and public attitudes toward mental health needs.</div>
+      </div>
     </div>
   </div>
 </section>
@@ -394,10 +420,10 @@ footer{background:var(--ink);padding:36px 64px;display:flex;align-items:center;j
         <div class="partner-logo-placeholder" style="display:none;">logo-mhamd.png</div>
       </div>
       <div class="partner-bullets">
-        <div class="partner-bullet"><div class="partner-dot"></div><p><strong>110 years</strong> of mental health advocacy, community education and services oversight in MD</p></div>
-        <div class="partner-bullet"><div class="partner-dot"></div><p>Second oldest mental health citizen advocacy organization in the nation</p></div>
-        <div class="partner-bullet"><div class="partner-dot"></div><p>Active partnerships with key Baltimore stakeholders and over <strong>100 coalition partners</strong></p></div>
-        <div class="partner-bullet"><div class="partner-dot"></div><p>Dissemination pathways through Children's Mental Health Matters and Healthy New Moms Campaigns, Older Adult Training and Education, Mental Health First Aid and Consumer Quality Team</p></div>
+        <div class="partner-bullet"><div class="partner-dot"></div><p><strong>110 years</strong> of mental health advocacy, community education and services oversight in MD.</p></div>
+        <div class="partner-bullet"><div class="partner-dot"></div><p>Second oldest mental health citizen advocacy organization in the nation.</p></div>
+        <div class="partner-bullet"><div class="partner-dot"></div><p>Active partnerships with key Baltimore stakeholders and over <strong>100 coalition partners</strong>.</p></div>
+        <div class="partner-bullet"><div class="partner-dot"></div><p>Dissemination pathways through Children's Mental Health Matters and Healthy New Moms Campaigns, Older Adult Training and Education, Mental Health First Aid and Consumer Quality Team.</p></div>
       </div>
     </div>
   </div>
@@ -416,22 +442,22 @@ footer{background:var(--ink);padding:36px 64px;display:flex;align-items:center;j
     <div class="campaign-col">
       <div class="campaign-label">The Challenge</div>
       <div class="campaign-bullets">
-        <div class="campaign-bullet">Increase usage of the 988 Helpline by growing awareness, promoting the confidentiality of resources, and ensuring all Baltimoreans know where to start</div>
+        <div class="campaign-bullet">Increase usage of the 988 Helpline by growing awareness, promoting the confidentiality of resources, and ensuring all Baltimoreans know where to start.</div>
       </div>
       <div class="campaign-label" style="margin-top:24px;">Team Aptive's Solution</div>
       <div class="campaign-bullets">
         <div class="campaign-bullet">Design a multi-channel outreach campaign that is designed by Baltimore, for Baltimore.</div>
-        <div class="campaign-bullet">Focus broad messaging to dispel the myth that a resident's problems aren't "big enough" and convert hesitation to action</div>
-        <div class="campaign-bullet">Develop tailored campaigns for specific neighborhoods, populations, and situations</div>
+        <div class="campaign-bullet">Focus broad messaging to dispel the myth that a resident's problems aren't "big enough" and convert hesitation to action.</div>
+        <div class="campaign-bullet">Develop tailored campaigns for specific neighborhoods, populations, and situations.</div>
       </div>
     </div>
     <div class="campaign-col">
       <div class="campaign-label">Creative Approach</div>
       <div class="campaign-bullets">
-        <div class="campaign-bullet">Ground all visuals and messages in research</div>
-        <div class="campaign-bullet">Use colors, language, and typography that feels warm, encouraging, and authentic</div>
-        <div class="campaign-bullet">Include messaging to emphasize that 988 is available to everyone and is confidential and trustworthy</div>
-        <div class="campaign-bullet">Use supporting design elements (shapes, gradients, imagery) to engender feelings of hope, trust, and support</div>
+        <div class="campaign-bullet">Ground all visuals and messages in research.</div>
+        <div class="campaign-bullet">Use colors, language, and typography that feels warm, encouraging, and authentic.</div>
+        <div class="campaign-bullet">Include messaging to emphasize that 988 is available to everyone and is confidential and trustworthy.</div>
+        <div class="campaign-bullet">Use supporting design elements (shapes, gradients, imagery) to engender feelings of hope, trust, and support.</div>
       </div>
     </div>
   </div>
@@ -447,7 +473,7 @@ footer{background:var(--ink);padding:36px 64px;display:flex;align-items:center;j
   <div class="creative-divider-left">
     <div class="creative-divider-label">Creative Concept</div>
     <div class="creative-divider-hed">Start with<br><span class="lo">hello.</span></div>
-    <div class="creative-divider-sub">A preliminary campaign concept — grounded in research, designed for Baltimore.</div>
+    <div class="creative-divider-sub">A preliminary campaign concept, grounded in research, designed for Baltimore.</div>
   </div>
   <div class="creative-divider-right">
     <span class="hcta hcta-a">CALL 988</span>
@@ -469,7 +495,7 @@ footer{background:var(--ink);padding:36px 64px;display:flex;align-items:center;j
   <div class="slabel slabel-dark">The Big Picture</div>
   <div class="bi-body">
     <p>All it takes is hello. That's it.</p>
-    <p>Our concept is tied to research that suggests the people who need 988 most are often the people who don't think they qualify. Whether someone is experiencing a crisis or just carrying something they haven't told anyone, this campaign works to lower the stakes of just reaching out for help. Call, text, or chat — you don't have to have the right words, just say hello.</p>
+    <p>Our concept is tied to research that suggests the people who need 988 most are often the people who don't think they qualify. Whether someone is experiencing a crisis or just carrying something they haven't told anyone, this campaign works to lower the stakes of just reaching out for help. Call, text, or chat. You don't have to have the right words, just say hello.</p>
     <p>988 is here for all of it. For anxiety, grief, and hard days. For people experiencing a mental health emergency. For someone worried about a neighbor. For a parent scared for their kid. For a friend who doesn't know what else to do. Just start with "Hello."</p>
   </div>
 </section>
@@ -484,7 +510,7 @@ footer{background:var(--ink);padding:36px 64px;display:flex;align-items:center;j
   <div class="split-research">
     <div class="slabel slabel-cream">Grounded in Research</div>
     <div class="research-list">
-      <div class="rl-item"><div class="rl-dot"></div><p><strong>Lowering the stakes.</strong> BHSB's research shows that people don't call because they don't think their problem is big enough. This campaign highlights that no problem is too small — or too big — for 988 counselors.</p></div>
+      <div class="rl-item"><div class="rl-dot"></div><p><strong>Lowering the stakes.</strong> Research shows that a reason people don't call is because they don't think their problem is big enough. This campaign highlights that no problem is too small, or too big, for 988 counselors.</p></div>
       <div class="rl-item"><div class="rl-dot"></div><p><strong>No clinical language.</strong> Everyday words like "anxious," "grieving," and "overwhelmed" make 988 feel accessible to everyone.</p></div>
       <div class="rl-item"><div class="rl-dot"></div><p><strong>Always confidential.</strong> Across demographics surveyed, fear of being found out was a primary barrier. By emphasizing confidentiality, we elevate that concern immediately.</p></div>
       <div class="rl-item"><div class="rl-dot"></div><p><strong>Human, not institutional.</strong> Distrust of systems is heightened across Baltimore, particularly in communities already navigating other pressures. Our ads position 988 as a trusted resource, not a government program.</p></div>
@@ -503,16 +529,16 @@ footer{background:var(--ink);padding:36px 64px;display:flex;align-items:center;j
         <p>We focus on practical, stigma-reducing messages for men, with the phone number as the primary entry point.</p>
       </div>
       <div class="aud-para">
-        <div class="aud-para-label">LGBTQ+ Residents</div>
-        <p>Messaging will center affirming, culturally competent language. The dedicated 988 LGBTQ+ youth line is available 24/7 and featured prominently for this audience.</p>
+        <div class="aud-para-label">LGBTQIA+ Residents</div>
+        <p>Messaging will center affirming, culturally competent language. The dedicated 988 LGBTQIA+ youth line is available 24/7 and featured prominently for this audience.</p>
       </div>
       <div class="aud-para">
         <div class="aud-para-label">People in or Approaching a Mental Health Emergency</div>
-        <p>988 counselors are equipped to handle even the most serious of crises — we remind audiences that you should never hesitate to call when it matters most.</p>
+        <p>988 counselors are equipped to handle even the most serious of crises. We remind audiences that you should never hesitate to call when it matters most.</p>
       </div>
     </div>
     <div class="aud-note">
-      <p>Audience priorities and messaging approaches will be refined through community sessions and additional research prior to final creative development. Emerging community needs — including populations navigating heightened stress due to current events — will be incorporated as the campaign evolves.</p>
+      <p>Audience priorities and messaging approaches will be refined through community sessions and additional research prior to final creative development. Emerging community needs, including populations navigating heightened stress due to current events, will be incorporated as the campaign evolves.</p>
     </div>
   </div>
 </div>
@@ -554,6 +580,36 @@ footer{background:var(--ink);padding:36px 64px;display:flex;align-items:center;j
       <div class="desc-line">Llama o escribe al 988.</div>
     </div>
   </div>
+
+  <!-- LANGUAGE TICKER -->
+  <div class="lang-ticker-wrap">
+    <div class="lang-ticker" id="langTicker">
+      <div class="lang-ticker-track">
+        <span class="lang-item"><span class="lang-text">Start with Hello</span><span class="lang-tag" data-en="English">English</span></span>
+        <span class="lang-sep">·</span>
+        <span class="lang-item"><span class="lang-text">Empieza con Hola</span><span class="lang-tag" data-en="Spanish">Español</span></span>
+        <span class="lang-sep">·</span>
+        <span class="lang-item"><span class="lang-text">Commencez par Bonjour</span><span class="lang-tag" data-en="French">Français</span></span>
+        <span class="lang-sep">·</span>
+        <span class="lang-item"><span class="lang-text">안녕하세요로 시작하세요</span><span class="lang-tag" data-en="Korean">한국어</span></span>
+        <span class="lang-sep">·</span>
+        <span class="lang-item"><span class="lang-text">ابدأ بقول مرحباً</span><span class="lang-tag" data-en="Arabic">العربية</span></span>
+        <span class="lang-sep">·</span>
+        <!-- Exact duplicate for seamless loop -->
+        <span class="lang-item"><span class="lang-text">Start with Hello</span><span class="lang-tag" data-en="English">English</span></span>
+        <span class="lang-sep">·</span>
+        <span class="lang-item"><span class="lang-text">Empieza con Hola</span><span class="lang-tag" data-en="Spanish">Español</span></span>
+        <span class="lang-sep">·</span>
+        <span class="lang-item"><span class="lang-text">Commencez par Bonjour</span><span class="lang-tag" data-en="French">Français</span></span>
+        <span class="lang-sep">·</span>
+        <span class="lang-item"><span class="lang-text">안녕하세요로 시작하세요</span><span class="lang-tag" data-en="Korean">한국어</span></span>
+        <span class="lang-sep">·</span>
+        <span class="lang-item"><span class="lang-text">ابدأ بقول مرحباً</span><span class="lang-tag" data-en="Arabic">العربية</span></span>
+        <span class="lang-sep">·</span>
+      </div>
+    </div>
+  </div>
+
 </section>
 
 <!-- STORYBOARD / PSA -->
@@ -588,11 +644,11 @@ footer{background:var(--ink);padding:36px 64px;display:flex;align-items:center;j
     </div>
     <div class="sb-cell">
       <img class="sb-img" src="./sb-07.jpg" alt="Shot 7" />
-      <div class="sb-caption"><div class="sb-speaker">Couple</div><div class="sb-vo">Admitting anxiety shouldn't overtake every day…</div></div>
+      <div class="sb-caption"><div class="sb-speaker">Man</div><div class="sb-vo">Admitting anxiety shouldn't overtake every day…</div></div>
     </div>
     <div class="sb-cell">
       <img class="sb-img" src="./sb-08.jpg" alt="Shot 8" />
-      <div class="sb-caption"><div class="sb-speaker">Man</div><div class="sb-vo">Understanding a better tomorrow is possible.</div></div>
+      <div class="sb-caption"><div class="sb-speaker">Couple</div><div class="sb-vo">Understanding a better tomorrow is possible.</div></div>
     </div>
     <div class="sb-cell">
       <img class="sb-img" src="./sb-09.jpg" alt="Shot 9" />
@@ -628,8 +684,8 @@ footer{background:var(--ink);padding:36px 64px;display:flex;align-items:center;j
       <strong>Young Student:</strong> ...a chat.<br>
       <strong>Veteran Couple:</strong> Start with…<br>
       <strong>Older Gentleman:</strong> Realizing loneliness doesn't have to be so loud.<br>
-      <strong>Couple:</strong> Admitting anxiety shouldn't overtake every day…<br>
-      <strong>Man:</strong> Understanding a better tomorrow is possible.<br>
+      <strong>Man:</strong> Admitting anxiety shouldn't overtake every day…<br>
+      <strong>Couple:</strong> Understanding a better tomorrow is possible.<br>
       <strong>Teacher:</strong> Start with…<br>
       <strong>Restaurant Worker:</strong> ...you.<br>
       <strong>A Mother:</strong> ...me.<br>
@@ -637,7 +693,6 @@ footer{background:var(--ink);padding:36px 64px;display:flex;align-items:center;j
       <strong>A Woman:</strong> Start with… Hello?<br>
       <strong>Narrator:</strong> Everyone feels down sometimes, but we'll pick up every time. Don't wait. Call 988. By Baltimore, for Baltimore.
     </p>
-    <p style="margin-top:20px;font-size:13px;font-weight:600;letter-spacing:1px;color:var(--purple2);">Call or text 988 — 988helpline.org</p>
   </div>
   </div>
 </section>
@@ -676,7 +731,7 @@ footer{background:var(--ink);padding:36px 64px;display:flex;align-items:center;j
       </div>
       <div class="alt-body">
         <p>Three executions, one platform. <strong>Don't Wait. Call. 988. / Don't Wait. Text. 988. / Don't Wait. Chat. 988.</strong> Each version targets a different entry point.</p>
-        <p style="margin-top:10px;">There is an opportunity for this concept to be a jingle or memorable audio. BGE's downed wire campaign is a useful reference — a serious public safety message that stuck with people because it was set to music.</p>
+        <p style="margin-top:10px;">There is an opportunity for this concept to be a jingle or memorable audio. BGE's downed wire campaign is a useful reference: a serious public safety message that stuck with people because it was set to music.</p>
         <div class="alt-why" style="margin-top:12px;"><p>Grounded in BHSB's finding that people don't call because they don't think their problem is big enough. Strongest for audiences who need a push more than a permission slip.</p></div>
       </div>
     </div>
@@ -684,9 +739,9 @@ footer{background:var(--ink);padding:36px 64px;display:flex;align-items:center;j
       <div class="alt-bar"></div>
       <div class="alt-num">Alternate 02</div>
       <h3 class="alt-hed">YOU<br>GOOD<span class="gr">?</span></h3>
-      <p class="alt-tag">For when the answer is no — call, text, or chat 988.</p>
+      <p class="alt-tag">For when the answer is no. Call, text, or chat 988.</p>
       <div class="alt-body">
-        <p><strong>"You good? For when the answer is no — call, text, or chat 988."</strong> Leverages a phrase already in daily use. Carries BHSB's existing "Because we all need help sometimes" forward with new energy and local specificity.</p>
+        <p><strong>"You good? For when the answer is no. Call, text, or chat 988."</strong> Leverages a phrase already in daily use. Carries BHSB's existing "Because we all need help sometimes" forward with new energy and local specificity.</p>
         <div class="alt-why"><p>Trusted community voices asking the question outperform institutional messaging. Strongest for social and community activation channels.</p></div>
       </div>
     </div>
@@ -710,16 +765,16 @@ footer{background:var(--ink);padding:36px 64px;display:flex;align-items:center;j
       <h4>Always-On High Awareness</h4>
       <p class="media-pillar-context">Digital media can be geotargeted across several channels using advanced targeting tactics. Our tools have sophisticated data segments that can serve this message to people who might most be in need to see it.</p>
       <div class="media-tactic-list">
-        <div class="media-tactic-item">Connected TV / Online Video</div>
-        <div class="media-tactic-item">Streaming Audio</div>
-        <div class="media-tactic-item">High Impact Display Ad Units</div>
-        <div class="media-tactic-item">Paid Search and Social</div>
+        <div class="media-tactic-item">Connected TV / online video</div>
+        <div class="media-tactic-item">Streaming audio</div>
+        <div class="media-tactic-item">High impact display ad units</div>
+        <div class="media-tactic-item">Paid search and social</div>
       </div>
     </div>
     <div class="media-pillar">
       <div class="media-pillar-num">02</div>
-      <h4>High-Visibility Out of Home</h4>
-      <p class="media-pillar-context">High visibility out of home can reinforce the online message across the Baltimore market.</p>
+      <h4>High-Visibility Out-of-Home</h4>
+      <p class="media-pillar-context">High visibility out-of-home can reinforce the online message across the Baltimore market.</p>
       <div class="media-tactic-list">
         <div class="media-tactic-item">Billboards, transit shelters and buses</div>
         <div class="media-tactic-item">PSA on local cable systems</div>
@@ -766,11 +821,11 @@ footer{background:var(--ink);padding:36px 64px;display:flex;align-items:center;j
   </div>
 
   <div class="media-audacy">
-    <p class="media-audacy-intro">Our radio partner Audacy has purpose-built platforms that hit key target audiences including:</p>
+    <p class="media-audacy-intro">Our radio partner, Audacy, has purpose-built platforms that hit key target audiences including:</p>
     <div class="media-audacy-grid">
       <div class="media-audacy-card">
         <div class="media-audacy-name">Channel Q</div>
-        <p>Connects with LGBTQ+ audiences through inclusive, affirming content.</p>
+        <p>Connects with LGBTQIA+ audiences through inclusive, affirming content.</p>
       </div>
       <div class="media-audacy-card">
         <div class="media-audacy-name">Connecting Vets</div>
@@ -778,7 +833,7 @@ footer{background:var(--ink);padding:36px 64px;display:flex;align-items:center;j
       </div>
       <div class="media-audacy-card">
         <div class="media-audacy-name">I'm Listening</div>
-        <p>Audacy's national mental health initiative — a proven platform for stigma reduction, storytelling, and help-seeking conversations that can be localized to Baltimore through on-air integrations, digital content, and community engagement.</p>
+        <p>Audacy's national mental health initiative: a proven platform for stigma reduction, storytelling, and help-seeking conversations that can be localized to Baltimore through on-air integrations, digital content, and community engagement.</p>
       </div>
     </div>
   </div>
@@ -788,24 +843,38 @@ footer{background:var(--ink);padding:36px 64px;display:flex;align-items:center;j
 <!-- MHAMD ROLE IN COMMUNITY ENGAGEMENT -->
 <section class="community-section fade-in" id="outreach">
   <div class="slabel slabel-cream">MHAMD Role in Community Engagement</div>
-  <div class="community-layout">
-    <div class="community-col">
-      <h3>Dissemination Pathways</h3>
-      <ul class="community-list">
-        <li>Maryland Behavioral Health Coalition, Children's Behavioral Health Coalition, and Mental Health and Aging Coalition</li>
-        <li>Children's Mental Health Matters Campaign (<b>700+</b> partner schools, organizations and champions)</li>
-        <li>Older Adult Training and Education</li>
-        <li>MHFA – <b>300+ instructors</b> train approximately <b>10,000 individuals</b> annually</li>
-        <li>Consumer Quality Team interviews <b>3,000+</b> individuals in the public behavioral health system annually</li>
-      </ul>
+  <div class="community-layout-new">
+    <div class="community-text-col">
+      <div class="community-col">
+        <h3>Dissemination Pathways</h3>
+        <ul class="community-list">
+          <li>Maryland Behavioral Health Coalition, Children's Behavioral Health Coalition, and Mental Health and Aging Coalition.</li>
+          <li>Children's Mental Health Matters Campaign (<b>700+</b> partner schools, organizations and champions).</li>
+          <li>Older Adult Training and Education.</li>
+          <li>MHFA: <b>300+ instructors</b> train approximately <b>10,000 individuals</b> annually.</li>
+          <li>Consumer Quality Team interviews <b>3,000+</b> individuals in the public behavioral health system annually.</li>
+        </ul>
+      </div>
+      <div class="community-col" style="margin-top:32px;">
+        <h3>Direct Community Engagement in Baltimore</h3>
+        <ul class="community-list">
+          <li>CMHM community events engaging the public are held year round, with a primary focus during Mental Health Month in May.</li>
+          <li><em>Light Up Green</em> Campaign conducted in May in partnership with the Maryland Health Department Office of Suicide Prevention — partnerships with <b>88 businesses</b>, schools, colleges, government agencies, etc.</li>
+          <li>Opportunities to gather feedback and/or conduct focus groups through community networks including: Schools, Family and Consumer Organizations, Childcare Providers, Faith Communities, Service Providers, and more.</li>
+        </ul>
+      </div>
     </div>
-    <div class="community-col">
-      <h3>Direct Community Engagement in Baltimore</h3>
-      <ul class="community-list">
-        <li>CMHM community events engaging the public are held year round, with a primary focus during Mental Health Month in May</li>
-        <li>Light Up Green Campaign conducted in May in partnership with the Maryland Health Department Office of Suicide Prevention — partnerships with <b>88 businesses</b>, schools, colleges, government agencies, etc.</li>
-        <li>Opportunities to gather feedback and/or conduct focus groups through community networks including: Schools, Family and Consumer Organizations, Childcare Providers, Faith Communities, Service Providers, and more</li>
-      </ul>
+    <div class="community-image-col">
+      <div class="community-img-placeholder">
+        <img src="./community-palmcard.jpg" alt="Start with Hello palm card" class="community-palm-img" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';" />
+        <div class="community-img-fallback">
+          <div class="community-img-fallback-inner">
+            <div class="community-img-label">Upload to GitHub as:</div>
+            <div class="community-img-filename">community-palmcard.jpg</div>
+            <div class="community-img-note">Start with Hello palm card mockup</div>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </section>
@@ -832,17 +901,18 @@ footer{background:var(--ink);padding:36px 64px;display:flex;align-items:center;j
       <div class="ty-contact-label">
         <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="#00C832" stroke-width="2" style="display:inline-block;vertical-align:middle;margin-right:6px;"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>Email
       </div>
-      <div class="ty-contact-info">proposals@aptiveresources.com<br><span style="font-size:11px;opacity:.5;letter-spacing:1px;text-transform:uppercase;display:block;margin-top:8px;">Backup</span>taylor.wood@aptiveresources.com</div>
+      <div class="ty-contact-info"><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="bbcbc9d4cbd4c8dad7c8fbdacbcfd2cddec9dec8d4cec9d8dec895d8d4d6">[email&#160;protected]</a><br><span style="font-size:11px;opacity:.5;letter-spacing:1px;text-transform:uppercase;display:block;margin-top:8px;">Backup</span><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="84f0e5fde8ebf6aaf3ebebe0c4e5f4f0edf2e1f6e1f7ebf1f6e7e1f7aae7ebe9">[email&#160;protected]</a></div>
     </div>
   </div>
+  <p class="ty-disclaimer">This material is the property of Aptive and is provided solely for evaluation purposes. Please do not copy, distribute, or use without prior written consent.</p>
 </section>
 
 <footer>
   <img class="footer-logo" src="logo-aptive-white.png" alt="Aptive Resources" />
-  <div class="footer-sub">988 Baltimore — Campaign Proposal</div>
+  <div class="footer-sub">Baltimore City's 988 Public Education Campaign</div>
 </footer>
 
-<script>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
 function toggleAlts(trigger) {
   const body = trigger.nextElementSibling;
   const btn = trigger.querySelector('.alts-toggle-btn');
@@ -871,6 +941,14 @@ window.addEventListener('scroll', () => {
   navLinks.forEach(link => {
     link.classList.toggle('active', link.getAttribute('href') === '#' + current);
   });
+});
+
+// Language tag hover translate
+document.querySelectorAll('.lang-tag[data-en]').forEach(tag => {
+  const native = tag.textContent;
+  const english = tag.getAttribute('data-en');
+  tag.addEventListener('mouseenter', () => { tag.textContent = english; });
+  tag.addEventListener('mouseleave', () => { tag.textContent = native; });
 });
 </script>
 </body>
