@@ -230,9 +230,10 @@ body{padding-top:52px;}
 .community-section{background:var(--mist);padding:80px 64px;color:var(--ink);}
 .community-layout{display:grid;grid-template-columns:1fr 1fr;gap:48px;margin-top:8px;}
 .community-col h3{font-family:'Unbounded',sans-serif;font-weight:700;font-size:11px;letter-spacing:.5px;text-transform:uppercase;color:var(--purple2);margin-bottom:16px;}
-.community-bullets{display:flex;flex-direction:column;gap:10px;}
-.community-bullet{display:flex;gap:10px;align-items:flex-start;font-size:15px;line-height:1.65;color:#1a1a1a;font-weight:300;}
-.community-bullet::before{content:'';width:5px;height:5px;border-radius:50%;background:var(--purple2);flex-shrink:0;margin-top:9px;}
+.community-list{display:flex;flex-direction:column;gap:10px;padding:0;margin:0;list-style:none;}
+.community-list li{font-size:15px;line-height:1.65;color:#1a1a1a;font-weight:300;padding-left:16px;position:relative;}
+.community-list li::before{content:'';width:5px;height:5px;border-radius:50%;background:var(--purple2);position:absolute;left:0;top:8px;}
+.community-list li b{font-weight:600;}
 
 /* SUMMARY */
 .summary-section{background:var(--purple4);padding:80px 64px;}
@@ -383,7 +384,7 @@ footer{background:var(--ink);padding:36px 64px;display:flex;align-items:center;j
         <div class="partner-bullet"><div class="partner-dot"></div><p>More than a decade of experience creating research-informed outreach and awareness campaigns that drive audiences to action.</p></div>
         <div class="partner-bullet"><div class="partner-dot"></div><p>Mental health, substance use, and suicide prevention messaging and outreach expertise among hard-to-reach and underserved populations.</p></div>
         <div class="partner-bullet"><div class="partner-dot"></div><p>Conduct SAMHSA's evaluation of the national 988 Lifeline and provide paid media and community outreach for VA's Homeless Programs Office, ChooseVA campaign, and PREVENTS Suicide Prevention initiative.</p></div>
-        <div class="partner-bullet"><div class="partner-dot"></div><p>Placed more than <strong>$150 million in media</strong>, with campaigns generating over <strong>40 billion impressions</strong>, along with 101.6 million click-throughs and 24.9 million site visits.</p></div>
+        <div class="partner-bullet"><div class="partner-dot"></div><p>Placed more than <strong>$150 million in media</strong>, with campaigns generating over <strong>40 billion impressions</strong>, along with <strong>101.6 million click-throughs</strong> and <strong>24.9 million site visits</strong>.</p></div>
         <div class="partner-bullet"><div class="partner-dot"></div><p>Emmy, Hermes, and MarCom award-winning creative and video production.</p></div>
       </div>
     </div>
@@ -393,7 +394,7 @@ footer{background:var(--ink);padding:36px 64px;display:flex;align-items:center;j
         <div class="partner-logo-placeholder" style="display:none;">logo-mhamd.png</div>
       </div>
       <div class="partner-bullets">
-        <div class="partner-bullet"><div class="partner-dot"></div><p>110 years of mental health advocacy, community education and services oversight in MD</p></div>
+        <div class="partner-bullet"><div class="partner-dot"></div><p><strong>110 years</strong> of mental health advocacy, community education and services oversight in MD</p></div>
         <div class="partner-bullet"><div class="partner-dot"></div><p>Second oldest mental health citizen advocacy organization in the nation</p></div>
         <div class="partner-bullet"><div class="partner-dot"></div><p>Active partnerships with key Baltimore stakeholders and over <strong>100 coalition partners</strong></p></div>
         <div class="partner-bullet"><div class="partner-dot"></div><p>Dissemination pathways through Children's Mental Health Matters and Healthy New Moms Campaigns, Older Adult Training and Education, Mental Health First Aid and Consumer Quality Team</p></div>
@@ -699,7 +700,7 @@ footer{background:var(--ink);padding:36px 64px;display:flex;align-items:center;j
   <div class="slabel slabel-cream">Media Approach</div>
 
   <div class="media-lead">
-    <p>Establish an always-on high awareness campaign to reach Greater Baltimore</p>
+    <p>Establish an always-on, high-awareness campaign to reach Greater Baltimore</p>
     <p class="media-flight-note">Our campaign flights will be ongoing, with emphasis on key times during the year, including "988 Day" and in the winter months following the holidays.</p>
   </div>
 
@@ -790,21 +791,21 @@ footer{background:var(--ink);padding:36px 64px;display:flex;align-items:center;j
   <div class="community-layout">
     <div class="community-col">
       <h3>Dissemination Pathways</h3>
-      <div class="community-bullets">
-        <div class="community-bullet">Maryland Behavioral Health Coalition, Children's Behavioral Health Coalition, and Mental Health and Aging Coalition</div>
-        <div class="community-bullet">Children's Mental Health Matters Campaign (500+ partner schools, organizations and champions)</div>
-        <div class="community-bullet">Older Adult Training and Education</div>
-        <div class="community-bullet">MHFA – 700 instructors train approximately 8,000 individuals annually</div>
-        <div class="community-bullet">Consumer Quality Team interviews 3,000+ individuals in the public behavioral health system annually</div>
-      </div>
+      <ul class="community-list">
+        <li>Maryland Behavioral Health Coalition, Children's Behavioral Health Coalition, and Mental Health and Aging Coalition</li>
+        <li>Children's Mental Health Matters Campaign (<b>700+</b> partner schools, organizations and champions)</li>
+        <li>Older Adult Training and Education</li>
+        <li>MHFA – <b>300+ instructors</b> train approximately <b>10,000 individuals</b> annually</li>
+        <li>Consumer Quality Team interviews <b>3,000+</b> individuals in the public behavioral health system annually</li>
+      </ul>
     </div>
     <div class="community-col">
       <h3>Direct Community Engagement in Baltimore</h3>
-      <div class="community-bullets">
-        <div class="community-bullet">CMHM community events engaging the public are held year round, with a primary focus during Mental Health Month in May</div>
-        <div class="community-bullet">Light Up Green Campaign conducted in May in partnership with the Maryland Health Department Office of Suicide Prevention — partnerships with businesses, schools, colleges, government agencies, etc.</div>
-        <div class="community-bullet">Opportunities to gather feedback and/or conduct focus groups through community networks including: Schools, Family and Consumer Organizations, Childcare Providers, Faith Communities, Service Providers, and more</div>
-      </div>
+      <ul class="community-list">
+        <li>CMHM community events engaging the public are held year round, with a primary focus during Mental Health Month in May</li>
+        <li>Light Up Green Campaign conducted in May in partnership with the Maryland Health Department Office of Suicide Prevention — partnerships with <b>88 businesses</b>, schools, colleges, government agencies, etc.</li>
+        <li>Opportunities to gather feedback and/or conduct focus groups through community networks including: Schools, Family and Consumer Organizations, Childcare Providers, Faith Communities, Service Providers, and more</li>
+      </ul>
     </div>
   </div>
 </section>
@@ -831,7 +832,7 @@ footer{background:var(--ink);padding:36px 64px;display:flex;align-items:center;j
       <div class="ty-contact-label">
         <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="#00C832" stroke-width="2" style="display:inline-block;vertical-align:middle;margin-right:6px;"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>Email
       </div>
-      <div class="ty-contact-info"><a href="/cdn-cgi/l/email-protection#9dedeff2edf2eefcf1eeddfcede9f4ebf8eff8eef2e8effef8eeb3fef2f0"><span class="__cf_email__" data-cfemail="5525273a253a26343926153425213c23302730263a20273630267b363a38">[email&#160;protected]</span></a></div>
+      <div class="ty-contact-info"><a href="mailto:proposals@aptiveresources.com">proposals@aptiveresources.com</a><br><span style="font-size:11px;opacity:.5;letter-spacing:1px;text-transform:uppercase;display:block;margin-top:8px;">Backup</span><a href="mailto:taylor.wood@aptiveresources.com">taylor.wood@aptiveresources.com</a></div>
     </div>
   </div>
 </section>
