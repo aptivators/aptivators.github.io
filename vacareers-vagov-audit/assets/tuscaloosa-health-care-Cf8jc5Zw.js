@@ -1,0 +1,17 @@
+var e=`# Content Audit: Tuscaloosa Health Care
+
+## Summary
+The Tuscaloosa Health Care facility provides comprehensive recruitment support for a variety of professional and training opportunities including jobs, internships, fellowships, residencies, and training programs. Clear contact information for Human Resources and specific program personnel is provided, such as emails and phone numbers. Application guidance is detailed especially for residencies and internships, with explicit requirements, deadlines, and submission instructions including external systems like PhorCAS and APPIC. Job-related content directs candidates to USAJOBS and the VA careers page but does not explicitly link to vacareers.va.gov, somewhat limiting navigation to broader VA career resources. There is a good level of cross-linking among education programs and to job resources, and actionable next steps such as applying or contacting HR are present on job and education pages. Recruitment messaging is solid for programs like the optometry residency and pharmacy residencies, emphasizing career development and training benefits. However, inclusion of more prominent vacareers.va.gov links would better integrate the content with VA-wide career pathways.
+
+## Highlights
+- **How to Apply** ([link](https://www.va.gov/tuscaloosa-health-care/work-with-us/internships-and-fellowships/pharmacy-residency-programs/)) — Provides detailed application instructions for pharmacy residencies including required documents, deadlines, system links (PhorCAS), and match codes which empower candidates to act decisively.
+- **Application Procedures** ([link](https://www.va.gov/tuscaloosa-health-care/work-with-us/internships-and-fellowships/psychology-internship-program/)) — Comprehensive guidance for psychology internships including eligibility, required materials, use of the APPIC system, and linking to external authoritative sources like natmatch.com for the match process.
+- **Contact us** ([link](https://www.va.gov/tuscaloosa-health-care/work-with-us/jobs-and-careers/)) — Clear contact details for Human Resources with phone number, physical location, and office hours provide candidates with direct support for job inquiries.
+- **Optometry Residency Application Process and Program Completion Criteria** ([link](https://www.va.gov/tuscaloosa-health-care/work-with-us/internships-and-fellowships/tvamc-optometry-residency-overview/)) — Thorough admission criteria and next steps for optometry residency applicants, including degree requirements, GPA, licensure exams, and interview process, helping candidates understand readiness and application expectations.
+- **VISN 7 is hiring** ([link](https://www.va.gov/tuscaloosa-health-care/work-with-us/jobs-and-careers/)) — Recruitment messaging encourages healthcare professionals to join, provides HR contact, and directs candidates to USAJOBS and VA careers page to explore openings, facilitating candidate engagement.
+
+## Gaps & Recommendations
+### vacareers.va.gov links
+The content references the VA careers page and USAJOBS but does not include direct links to vacareers.va.gov or clearly route candidates to the official VA career portal. Adding explicit and prominent links to vacareers.va.gov would improve candidate navigation to VA-wide career opportunities and resources.
+> 💡 **Best example from another facility:** [Apply for a job at the VA West Palm Beach Healthcare System](https://www.va.gov/west-palm-beach-health-care/work-with-us/jobs-and-careers/) at west-palm-beach-health-care
+`;export{e as default};

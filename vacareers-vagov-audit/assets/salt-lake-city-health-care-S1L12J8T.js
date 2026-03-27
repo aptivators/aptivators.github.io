@@ -1,0 +1,15 @@
+var e=`# Content Audit: Salt Lake City Health Care
+
+## Summary
+Salt Lake City Health Care offers an extensive range of recruitment-ready content covering jobs, internships, residencies, fellowships, and training programs, with clear application guidance, detailed program descriptions, and multiple contacts for each opportunity. There are direct links to VA job listings, including USAJOBS and vacareers.va.gov, enhancing navigability for candidates. The facility provides in-depth application instructions and requirements for pharmacy residencies, dental residencies, nurse practitioner residencies, psychology training, recreation therapy internships, and nursing residencies. Contact emails and phone numbers are consistently provided for program directors and coordinators to facilitate candidate engagement. Recruitment messaging highlights the value of working at the facility for diverse clinical roles, with many sections including actionable next steps such as applying online or contacting personnel. Cross-linking between programs and related opportunity pages is generally available, supporting candidate exploration of multiple paths.
+
+## Highlights
+- **PGY1 core rotations** ([link](https://www.va.gov/salt-lake-city-health-care/work-with-us/internships-and-fellowships/pgy1-pharmacy-residency/)) — Provides comprehensive rotation details with clear application process notes, contact information, and extensive program information supporting candidate understanding and engagement.
+- **Application process** ([link](https://www.va.gov/salt-lake-city-health-care/work-with-us/internships-and-fellowships/pgy1-pharmacy-residency/)) — Explicit directions for submitting PGY1 pharmacy residency applications with deadline and matching system codes, enhancing application readiness.
+- **Dental General Practice Residency - Application policies and procedures** ([link](https://www.va.gov/salt-lake-city-health-care/work-with-us/internships-and-fellowships/dental-general-practice-residency/)) — Details the complete dental residency application process, including external systems (PASS), required documents, interview procedures, and contact info for questions.
+- **Volunteer or donate** ([link](https://www.va.gov/salt-lake-city-health-care/work-with-us/volunteer-or-donate/)) — Clear instructions on how to become a volunteer including eligibility and required steps; supports recruitment for volunteer opportunities with contact details.
+- **Apply for a job at the VA Salt Lake City Healthcare System** ([link](https://www.va.gov/salt-lake-city-health-care/work-with-us/jobs-and-careers/)) — Strong guidance for job applicants including how to apply, required documents, and agency contact info, supporting recruitment conversion for jobs.
+
+## Gaps & Recommendations
+(None identified.)
+`;export{e as default};

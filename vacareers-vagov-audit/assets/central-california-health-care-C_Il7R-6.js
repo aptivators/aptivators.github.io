@@ -1,0 +1,21 @@
+var e=`# Content Audit: Central California Health Care
+
+## Summary
+Central California Health Care provides comprehensive support for recruitment across jobs and various educational programs including internships, residencies, and fellowships. The site includes multiple detailed program pages with thorough application guidance, eligibility criteria, deadlines, and clear contact information including phone numbers and email addresses for program directors and coordinators. For jobs, applicants are directed to USAJOBS for current openings, and contact details for the HR office are prominently provided. Cross-linking between opportunities such as different pharmacy residencies and nurse residencies is present though somewhat limited. Links to vacareers.va.gov are mentioned as part of directional guidance to VA career pages but are not directly linked in most opportunity pages. Actionable next steps like applying through PhORCAS or APPIC for internships, submitting applications by specified deadlines, and calling/emailing program staff are included, supporting strong recruitment conversion readiness.
+
+## Highlights
+- **Internships and fellowships** ([link](https://www.va.gov/central-california-health-care/work-with-us/internships-and-fellowships/)) — Comprehensive overview page linking to various internship and fellowship programs with introductory recruitment messaging and invitation to explore detailed opportunities.
+- **PGY2 Psychiatric Pharmacy Residency Program - How to Apply** ([link](https://www.va.gov/central-california-health-care/work-with-us/internships-and-fellowships/pgy2-psychiatric-pharmacy-residency-program/)) — Clear and detailed application instructions with eligibility, required documents, deadlines, and specific program codes for PhORCAS and NMS.
+- **Point of Contact** ([link](https://www.va.gov/central-california-health-care/work-with-us/internships-and-fellowships/post-baccalaureate-registered-nurse-residency-pb-rnr-program/)) — Provides direct contact information for the nurse residency program director including phone and email, enabling candidates to easily get personalized help.
+- **Apply for a job at the VA Central California health care** ([link](https://www.va.gov/central-california-health-care/work-with-us/jobs-and-careers/)) — Contains instructions on application processes, emphasizes the importance of completing online applications, and lists contact information for HR, enabling straightforward next steps for employment.
+- **Psychology Internship Program - Application & Selection Procedures** ([link](https://www.va.gov/central-california-health-care/work-with-us/internships-and-fellowships/pgy2-psychiatric-pharmacy-residency-program/psychology-internship-program/)) — Highly detailed application process and eligibility section referencing APPIC Match codes and clear direction on application tools and deadlines.
+
+## Gaps & Recommendations
+### vacareers.va.gov links
+The content refers candidates to the general VA careers page and USAJOBS, but does not provide direct hyperlinks to vacareers.va.gov or specify vacareers-specific application pathways for education programs or jobs. Adding direct vacareers.va.gov links would improve routing to official VA career resources.
+> 💡 **Best example from another facility:** [Apply for a job at the VA West Palm Beach Healthcare System](https://www.va.gov/west-palm-beach-health-care/work-with-us/jobs-and-careers/) at west-palm-beach-health-care
+
+### Cross-linking
+While some cross-referencing to related pharmacy residencies and nursing opportunities exists, broader and more explicit internal linking among jobs, internships, residencies, and training opportunities would help candidates easily discover all relevant opportunities without needing to search separately.
+> 💡 **Best example from another facility:** [How to Apply - Cardiovascular and Pulmonary Physical Therapy Residency Program](https://www.va.gov/cincinnati-health-care/work-with-us/internships-and-fellowships/cardiovascular-and-pulmonary-physical-therapy-residency-program/) at cinciinatti-health-care
+`;export{e as default};

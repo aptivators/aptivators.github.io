@@ -1,0 +1,21 @@
+var e=`# Content Audit: Central Arkansas Health Care
+
+## Summary
+Central Arkansas Health Care offers extensive recruitment content supporting a wide range of opportunities including jobs, internships, residencies, fellowships, and training programs. The facility provides detailed program descriptions, clear application deadlines, eligibility criteria, and uses centralized systems like PhORCAS and ASHP Resident Matching for pharmacy residencies. Psychology and pharmacy programs highlight APA accreditations and offer informational webinars with join links. Job seekers are guided to USAJOBS and VA careers pages, with explicit instructions on completing online applications and links to external VA career resources such as vacareers.va.gov. Contact information, particularly for Human Resources and nursing recruitment, is clearly provided with phone numbers and office hours. Cross-linking between internship and fellowship pages is evident, and actionable next steps like applying, attending webinars, or contacting Human Resources are consistently presented, supporting strong conversion readiness for both program applicants and job seekers.
+
+## Highlights
+- **Apply for a job at the VA Central Arkansas Healthcare System** ([link](https://www.va.gov/central-arkansas-health-care/work-with-us/jobs-and-careers/)) — This section clearly instructs candidates on how to apply for jobs, emphasizes the importance of fully completing online applications, and provides contact information for help, facilitating easy recruitment conversion.
+- **Psychology training programs** ([link](https://www.va.gov/central-arkansas-health-care/work-with-us/internships-and-fellowships/neuropsychology-postdoctoral-fellowship/)) — Provides detailed program information, eligibility, and upcoming informational webinars with live join links, helping interested candidates take immediate next steps.
+- **Application information** ([link](https://www.va.gov/central-arkansas-health-care/work-with-us/internships-and-fellowships/pharmacy-residency-program/)) — This content offers clear application deadlines, eligibility criteria, requirements, and points to centralized application services and veteran-specific checklists, guiding residency applicants precisely.
+- **Contact us** ([link](https://www.va.gov/central-arkansas-health-care/work-with-us/jobs-and-careers/)) — Explicit contact details for Human Resources with phone, address, and hours supports candidates who need direct help or inquiries.
+- **Explore VA careers** ([link](https://www.va.gov/central-arkansas-health-care/work-with-us/jobs-and-careers/)) — Links candidates to the VA careers page and USAJOBS for broadly searching job openings, offering easy access to current vacancies.
+
+## Gaps & Recommendations
+### vacareers.va.gov links
+While there are some references and links to vacareers.va.gov within nursing education and job sections, vacareers.va.gov is not consistently integrated or prominently linked in all job or program application pages. Adding explicit, easy-to-find vacareers.va.gov links on all recruitment pages would better guide candidates to official VA career tools.
+> 💡 **Best example from another facility:** [Apply for a job at the VA West Palm Beach Healthcare System](https://www.va.gov/west-palm-beach-health-care/work-with-us/jobs-and-careers/) at west-palm-beach-health-care
+
+### Cross-linking
+Although related internship and fellowship programs are somewhat cross-linked, job pages and program pages mostly operate in silos. Introducing stronger internal links between jobs, internships, residencies, and training opportunities will help candidates navigate the full spectrum of career pathways at this facility.
+> 💡 **Best example from another facility:** [How to Apply - Cardiovascular and Pulmonary Physical Therapy Residency Program](https://www.va.gov/cincinnati-health-care/work-with-us/internships-and-fellowships/cardiovascular-and-pulmonary-physical-therapy-residency-program/) at cinciinatti-health-care
+`;export{e as default};

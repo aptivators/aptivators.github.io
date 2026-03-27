@@ -1,0 +1,21 @@
+var e=`# Content Audit: Martinsburg Health Care
+
+## Summary
+Martinsburg Health Care offers a comprehensive and well-structured recruitment and training ecosystem spanning jobs, internships, residencies, and fellowships. The site provides detailed application guidance for pharmacy residencies, general dentistry residency, psychology internships, and associated health/GME resident programs, including deadlines, required documents, and stepwise processes. Contact information is prominently shared for Human Resources, residency program directors, and affiliation coordinators, facilitating candidate inquiries. Strong actionable next steps are present with clear instructions to apply through external portals such as USAJOBS, PhORCAS, ADEA PASS, APPI, and direct email links, increasing conversion readiness. While cross-linking between related opportunity pages is somewhat limited, the site directs candidates effectively to related pages within Martinsburg Health Care and external VA careers destinations. However, explicit links or references to vacareers.va.gov could be more prominent to aid navigation to the broader VA career portal.
+
+## Highlights
+- **Apply for a job at the Martinsburg VA Medical Center** ([link](https://www.va.gov/martinsburg-health-care/work-with-us/jobs-and-careers/)) — Provides clear guidance on the application process, emphasizes importance of completing online applications, and points where applicants can get help or contact recruiters. Includes phone/email contacts and references USAJOBS and VA careers page.
+- **Advanced Education in General Dentistry Residency Program** ([link](https://www.va.gov/martinsburg-health-care/work-with-us/internships-and-fellowships/advanced-education-in-general-dentistry-residency-program/)) — Well-structured program description with application guidance including use of ADEA PASS, deadlines, interview process, eligibility criteria, and contact phone and mailing address.
+- **Pharmacy Residency Programs** ([link](https://www.va.gov/martinsburg-health-care/work-with-us/internships-and-fellowships/pharmacy-residency-programs/)) — Comprehensive overview of program structure, benefits, position details, application instructions through PhORCAS including required documents, and direct contact information for Residency Program Director.
+- **Associated Health/GME Residents** ([link](https://www.va.gov/martinsburg-health-care/work-with-us/internships-and-fellowships/associated-healthgme-residents/)) — Detailed step-by-step instructions for affiliation agreement, rotation requests, credential verification, onboarding, and specific contact email for affiliation coordination helping applicants navigate complex processes.
+- **Contact us** ([link](https://www.va.gov/martinsburg-health-care/work-with-us/jobs-and-careers/)) — Human Resources contact information with phone number, office location, and hours are clearly provided to enable direct candidate engagement.
+
+## Gaps & Recommendations
+### vacareers.va.gov links
+The content does not prominently link to vacareers.va.gov or explicitly direct candidates to the official VA career portal beyond a passing mention of the VA careers page. Adding visible, direct vacareers.va.gov links or clear navigation pathways to this destination would improve candidate access to the broader VA opportunities.
+> 💡 **Best example from another facility:** [Apply for a job at the VA West Palm Beach Healthcare System](https://www.va.gov/west-palm-beach-health-care/work-with-us/jobs-and-careers/) at west-palm-beach-health-care
+
+### Cross-linking
+There is limited internal cross-linking between various recruitment and program pages (jobs, internships, residencies, fellowships), which could confuse candidates exploring multiple opportunity types. Providing direct links among related pages or a hub page summarizing all opportunities would enhance user navigation and conversion.
+> 💡 **Best example from another facility:** [How to Apply - Cardiovascular and Pulmonary Physical Therapy Residency Program](https://www.va.gov/cincinnati-health-care/work-with-us/internships-and-fellowships/cardiovascular-and-pulmonary-physical-therapy-residency-program/) at cinciinatti-health-care
+`;export{e as default};

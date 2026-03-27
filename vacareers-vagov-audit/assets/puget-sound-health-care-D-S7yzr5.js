@@ -1,0 +1,33 @@
+var e=`# Content Audit: Puget Sound Health Care
+
+## Summary
+VA Puget Sound Health Care System offers a comprehensive and well-detailed set of recruitment content covering jobs, internships, residencies, fellowships, and other educational and training opportunities. Job seekers are provided guidance to apply primarily via USAJOBS and the VA careers page, with contact details for nurse recruiters and HR staff readily available. Internship and residency programs include detailed eligibility requirements, application instructions with email contacts, deadlines, stipend information, and program descriptions. Many program pages feature direct email contacts for program directors and staff, specific application package requirements, and important dates, ensuring candidates have actionable next steps. There is strong internal referencing and cross-linking among internship and fellowship programs, along with explicit links to application portals such as RF-PTCAS for physical therapy residency. However, the content lacks direct explicit links to vacareers.va.gov or parallel VA-wide career resources, and outside of jobs content, some program pages contain complex technical structures with limited easily clickable apply links. Overall, Puget Sound Health Care's content supports recruitment conversion effectively through thorough application guidance and contact info, though addition of direct VA career portal links and simplified apply actions would further enhance candidate engagement.
+
+## Highlights
+- **Apply for a job at the VA Puget Sound Healthcare System** ([link](https://www.va.gov/puget-sound-health-care/work-with-us/jobs-and-careers/)) — Clear job application instructions with emphasis on fully completing online applications, plus contact info for HR and nurse recruiter.
+- **Mental Health Nurse Practitioner Residency - How to apply** ([link](https://www.va.gov/puget-sound-health-care/work-with-us/internships-and-fellowships/mental-health-nurse-practitioner-residency/)) — Specific email contact provided, detailed application package and essay questions guidance with deadline and stipend info for conversion.
+- **Neurologic Physical Therapy Residency - How to apply** ([link](https://www.va.gov/puget-sound-health-care/work-with-us/internships-and-fellowships/neurologic-physical-therapy-residency/)) — Features a direct link to the centralized application service (RF-PTCAS), clear submission deadlines, interview timing, and named program contacts with emails.
+- **VA Puget Sound - American Lake Psychology Doctoral Internship Program - Application & Selection Procedures** ([link](https://www.va.gov/puget-sound-health-care/work-with-us/internships-and-fellowships/va-puget-sound-american-lake-psychology-doctoral-internship-program/)) — Detailed application timeline, eligibility, procedures, and information about the APPIC system with useful contacts and virtual interview details.
+- **Program director: Sarah Frankel, DNP, PMHNP-BC (Mental Health Nurse Practitioner Residency)** ([link](https://www.va.gov/puget-sound-health-care/work-with-us/internships-and-fellowships/mental-health-nurse-practitioner-residency/)) — Explicit program director contact email is provided for candidate questions and application submission, supporting direct engagement.
+
+## Gaps & Recommendations
+### Job links
+The jobs page offers general guidance and contact numbers but lacks direct clickable links to specific current job listings or openings within Puget Sound Health Care. Including direct links to active job announcements or a searchable listing on the jobs page would facilitate easier job discovery for candidates.
+> 💡 **Best example from another facility:** [Apply for a job at the VA Central Arkansas Healthcare System](https://www.va.gov/central-arkansas-health-care/work-with-us/jobs-and-careers/) at central-arkansas-health-care
+
+### Contact information
+While many programs provide direct email addresses for program directors or contacts, some educational opportunity pages (e.g., Primary Care Nurse Practitioner Residency, Advanced Fellowships) lack prominently displayed contact details, which could cause hesitation for potential applicants. Including clear and consistent contact info on all recruitment pages would enhance communication.
+> 💡 **Best example from another facility:** [Advanced Education in General Dentistry (AEGD) Residency Program](https://www.va.gov/bay-pines-health-care/work-with-us/internships-and-fellowships/) at bay-pines-health-care
+
+### vacareers.va.gov links
+While VA career pages and USAJOBS are mentioned, there are no direct links to vacareers.va.gov or explicit information guiding candidates to the official VA careers portal, which could provide a more integrated VA job search experience. Adding direct vacareers.va.gov links or references would improve navigation to VA-wide job resources.
+> 💡 **Best example from another facility:** [Apply for a job at the VA West Palm Beach Healthcare System](https://www.va.gov/west-palm-beach-health-care/work-with-us/jobs-and-careers/) at west-palm-beach-health-care
+
+### Cross-linking
+Although some cross-linking exists within internship and fellowship programs, there is limited interconnection between different educational categories (e.g., nursing residencies to advanced fellowships) and from educational opportunities to job listings or broader career resources. Improving internal linking to related programs and job openings would help candidates explore full career pathways.
+> 💡 **Best example from another facility:** [How to Apply - Cardiovascular and Pulmonary Physical Therapy Residency Program](https://www.va.gov/cincinnati-health-care/work-with-us/internships-and-fellowships/cardiovascular-and-pulmonary-physical-therapy-residency-program/) at cinciinatti-health-care
+
+### Actionable next steps
+Many program pages, such as the Primary Care Nurse Practitioner Residency and some advanced fellowships, lack clear, easily identifiable 'Apply Now' prompts or buttons linking directly to application portals or downloadable application packets. Adding explicit calls to action with direct links to apply or download application materials would improve recruitment conversion.
+> 💡 **Best example from another facility:** [To Apply](https://www.va.gov/battle-creek-health-care/work-with-us/internships-and-fellowships/post-baccalaureate-registered-nurse-residency-program/) at battle-creek-health-care
+`;export{e as default};

@@ -1,0 +1,25 @@
+var e=`# Content Audit: Bedford Health Care
+
+## Summary
+VA Bedford Health Care provides a comprehensive range of recruitment content for both employment and educational opportunities. Job seekers are directed to USAJOBS for application processes, with explicit contact information provided for nurse recruiting, enhancing accessibility for candidates. The education section offers detailed information on multiple internship, fellowship, residency, and training programs including application requirements, deadlines, and contacts, such as the Geriatrics Nurse Practitioner Residency Program with specific program contacts and email addresses. The content includes thorough application guidance with eligibility criteria, deadlines, and document submission instructions for key programs. While some program pages link internally within VA Bedford, there is limited explicit linking to the centralized VA career portal at vacareers.va.gov. Actionable next steps are present mostly in educational program contexts but could be clearer on job pages beyond directing to USAJOBS. Volunteer and donation opportunities provide clear contact details and application procedures, supporting recruitment for volunteers. Overall, recruitment conversion readiness is strong on application guidance and contact information for educational programs, moderate for jobs due to reliance on USAJOBS, and has limited integration with broader VA career resources like vacareers.va.gov.
+
+## Highlights
+- **Apply for a job at VA Bedford Healthcare System** ([link](https://www.va.gov/bedford-health-care/work-with-us/jobs-and-careers/)) — Provides clear instructions on applying for jobs via USAJOBS with emphasis on required documents and where to get help, including a recruiting contact phone number for nursing.
+- **Geriatrics and Extended Care Nurse Practitioner Residency Program (GEC NPR)** ([link](https://www.va.gov/bedford-health-care/work-with-us/internships-and-fellowships/geriatrics-and-extended-care-nurse-practitioner-residency-program-gec-npr/)) — Very detailed program page with clear application requirements, deadline, contact information including email addresses, benefits, and program structure supporting strong recruitment conversion.
+- **Hospital-based Medical Laboratory Science Program** ([link](https://www.va.gov/bedford-health-care/work-with-us/internships-and-fellowships/hospital-based-medical-laboratory-science-program/)) — Comprehensive training program details including eligibility, prerequisites, application process with list of required documents and contacts, supporting candidate understanding and next steps.
+- **Mental Health Nurse Practitioner Residency - Eligibility and Application Information** ([link](https://www.va.gov/bedford-health-care/work-with-us/internships-and-fellowships/mental-health-nurse-practitioner-residency/)) — Clear eligibility requirements and role qualifications explained, enhancing candidate understanding of readiness for this residency program.
+- **Volunteer or donate** ([link](https://www.va.gov/bedford-health-care/work-with-us/volunteer-or-donate/)) — Includes clear volunteer application process steps, benefits, duties, and multiple contact options encouraging recruitment for volunteers and donors.
+
+## Gaps & Recommendations
+### vacareers.va.gov links
+The facility's recruitment content lacks explicit links to the central vacareers.va.gov portal or clear routing from job and program pages to this official VA career site, which would improve applicant navigation to broader VA opportunities.
+> 💡 **Best example from another facility:** [Apply for a job at the VA West Palm Beach Healthcare System](https://www.va.gov/west-palm-beach-health-care/work-with-us/jobs-and-careers/) at west-palm-beach-health-care
+
+### Cross-linking
+There is minimal cross-linking between related jobs, internships, fellowships, residencies, scholarships, and training opportunities within VA Bedford’s content. Adding internal navigational links between these related opportunities would help candidates discover all relevant openings.
+> 💡 **Best example from another facility:** [How to Apply - Cardiovascular and Pulmonary Physical Therapy Residency Program](https://www.va.gov/cincinnati-health-care/work-with-us/internships-and-fellowships/cardiovascular-and-pulmonary-physical-therapy-residency-program/) at cinciinatti-health-care
+
+### Actionable next steps
+Many job-related pages direct candidates to USAJOBS but do not provide immediate apply buttons or a clear call to action directly on the VA Bedford site; adding explicit apply-now links or steps on these pages would enhance recruitment conversion.
+> 💡 **Best example from another facility:** [To Apply](https://www.va.gov/battle-creek-health-care/work-with-us/internships-and-fellowships/post-baccalaureate-registered-nurse-residency-program/) at battle-creek-health-care
+`;export{e as default};
