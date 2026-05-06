@@ -1,0 +1,3786 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.110416,
+          42.326922
+        ]
+      },
+      "properties": {
+        "id": "b6d091b2-6979-4edf-afd4-4fd1420d5202",
+        "title": "VA Boston Health Care System",
+        "locationName": "Boston, MA",
+        "displayName": "Jessica Ash",
+        "email": "jessica.ash2@va.gov",
+        "phoneNumber": "774-826-1201",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.441016,
+          43.012555
+        ]
+      },
+      "properties": {
+        "id": "55797830-346f-478e-95a6-2fd06f67687a",
+        "title": "VA Medical Center Manchester, NH",
+        "locationName": "Manchester, NH",
+        "displayName": "Melissa Brough",
+        "email": "melissa.brough@va.gov",
+        "phoneNumber": "603-624-4366",
+        "ext": "6072"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.110416,
+          42.326922
+        ]
+      },
+      "properties": {
+        "id": "d491fb5f-c8a7-48e8-a78d-ff2482e5ac3b",
+        "title": "VA Boston Health Care System",
+        "locationName": "Boston, MA",
+        "displayName": "Tracy Busa",
+        "email": "tracy.busa@va.gov",
+        "phoneNumber": "774-826-3636",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.682096,
+          42.351034
+        ]
+      },
+      "properties": {
+        "id": "43e34b9f-315d-40b9-a876-702fbbbe8a8e",
+        "title": "VA Central Western MA HCS: Northhampton VAMC",
+        "locationName": "Leeds, MA",
+        "displayName": "Briana P Durham",
+        "email": "briana.durham@va.gov",
+        "phoneNumber": "413-584-4040",
+        "ext": "2931"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.110416,
+          42.326922
+        ]
+      },
+      "properties": {
+        "id": "fcc931bf-471d-4104-96d1-130880a77e92",
+        "title": "VA Boston Health Care System",
+        "locationName": "Boston, MA",
+        "displayName": "Casey Hightower",
+        "email": "casey.hightower@va.gov",
+        "phoneNumber": "508-521-3798",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.704506,
+          44.280418
+        ]
+      },
+      "properties": {
+        "id": "193806bf-5af9-4126-a34c-f4b4a637821c",
+        "title": "VA Maine Health Care System",
+        "locationName": "Augusta, ME",
+        "displayName": "Melissa G Lasley",
+        "email": "melissa.lasley@va.gov",
+        "phoneNumber": "207-387-3870",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.273333,
+          42.504813
+        ]
+      },
+      "properties": {
+        "id": "58f2519f-844d-4fe5-88f5-83655e359d68",
+        "title": "VA Bedford Healthcare System",
+        "locationName": "Bedford, MA",
+        "displayName": "Vacant",
+        "email": "VACANT",
+        "phoneNumber": "",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.110416,
+          42.326922
+        ]
+      },
+      "properties": {
+        "id": "7bedce32-c2a6-4faf-964e-24b5bb0beaa3",
+        "title": "VA Boston Health Care System",
+        "locationName": "Boston, MA",
+        "displayName": "Laikyn Nadeau",
+        "email": "laikyn.nadeau@va.gov",
+        "phoneNumber": "774-826-3622",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.961104,
+          41.281949
+        ]
+      },
+      "properties": {
+        "id": "7d2e67a7-f3d8-452f-bcec-6f0dadf295b8",
+        "title": "VA Connecticut Healthcare System",
+        "locationName": "West Haven, CT",
+        "displayName": "Suzanne F Tortora",
+        "email": "suzanne.tortora@va.gov",
+        "phoneNumber": "203-932-5711",
+        "ext": "4027"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.342843,
+          43.648211
+        ]
+      },
+      "properties": {
+        "id": "1e4b507b-7f86-4154-ad28-96f3087a8eaf",
+        "title": "VA Medical Center White River Jct, VT",
+        "locationName": "White River Junction, VT",
+        "displayName": "Debra Winslow",
+        "email": "debra.winslow@va.gov",
+        "phoneNumber": "802-295-9363",
+        "ext": "6195"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.433003,
+          41.832163
+        ]
+      },
+      "properties": {
+        "id": "c1e928cd-8dad-4206-9ad7-dae186703ab3",
+        "title": "VA Medical Center Providence, RI",
+        "locationName": "Providence, RI",
+        "displayName": "Vacant",
+        "email": "VACANT",
+        "phoneNumber": "",
+        "ext": "14427"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.024327,
+          40.60883
+        ]
+      },
+      "properties": {
+        "id": "3f94b317-856f-47d8-8f11-2d21f405384a",
+        "title": "VA New York Harbor Health Care System",
+        "locationName": "Brooklyn, NY",
+        "displayName": "Britta Jennings",
+        "email": "britta.jennings@va.gov",
+        "phoneNumber": "212-686-7500",
+        "ext": "7564"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.269322,
+          42.901329
+        ]
+      },
+      "properties": {
+        "id": "99f675fc-b311-49fc-a82f-54160276d520",
+        "title": "VA Medical Center Finger Lakes, NY",
+        "locationName": "Canandaigua, NY",
+        "displayName": "Vacant",
+        "email": "VACANT",
+        "phoneNumber": "",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.236093,
+          40.75256
+        ]
+      },
+      "properties": {
+        "id": "60aaf1e1-22e3-4fa3-a16e-bd7e0ce78f5a",
+        "title": "VA New Jersey Healthcare System",
+        "locationName": "East Orange, NJ",
+        "displayName": "Rebecca M Nagy",
+        "email": "rebecca.nagy@va.gov",
+        "phoneNumber": "908-647-0180",
+        "ext": "214049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.308712,
+          40.893666
+        ]
+      },
+      "properties": {
+        "id": "ab566c35-b55d-4a9a-afe2-900d1dd065e7",
+        "title": "VA Medical Center Northport",
+        "locationName": "Northport, NY",
+        "displayName": "Maggie O'Neill",
+        "email": "maggie.oneill@va.gov",
+        "phoneNumber": "631-261-4400",
+        "ext": "7631"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.139043,
+          43.038425
+        ]
+      },
+      "properties": {
+        "id": "7fc1551a-c1b4-4a92-b10a-137174758302",
+        "title": "VA Medical Center Syracuse, NY",
+        "locationName": "Syracuse, NY",
+        "displayName": "Megan Queary",
+        "email": "megan.queary@va.gov",
+        "phoneNumber": "315-425-4400",
+        "ext": "54672"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.771879,
+          42.65071
+        ]
+      },
+      "properties": {
+        "id": "80d33b53-8af9-4c81-b25f-50b9b91b7e37",
+        "title": "VA Medical Center Albany, NY: Samuel S. Stratton",
+        "locationName": "Albany, NY",
+        "displayName": "Carolyn Scott",
+        "email": "carolyn.scott4@va.gov",
+        "phoneNumber": "518-626-6172",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.81342,
+          42.95118
+        ]
+      },
+      "properties": {
+        "id": "0d15ff50-fbf6-4e97-90e9-c2748e6a69fe",
+        "title": "VA Western New York Healthcare System",
+        "locationName": "Buffalo, NY",
+        "displayName": "Micki Santa Maria",
+        "email": "micki.santamaria@va.gov",
+        "phoneNumber": "716-862-8808",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.925806,
+          41.245084
+        ]
+      },
+      "properties": {
+        "id": "ce41270d-6b79-4a6a-9096-bd58de8466f5",
+        "title": "VA Hudson Valley Healthcare System",
+        "locationName": "Montrose, NY",
+        "displayName": "Caroline Vogel",
+        "email": "caroline.vogel@va.gov",
+        "phoneNumber": "845-831-2000",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.024327,
+          40.60883
+        ]
+      },
+      "properties": {
+        "id": "09cb20bd-4f0f-4d3e-8823-53cdbad943bc",
+        "title": "VA New York Harbor Health Care System",
+        "locationName": "Brooklyn, NY",
+        "displayName": "Karen M Wharton",
+        "email": "karen.wharton@va.gov",
+        "phoneNumber": "718-836-6600",
+        "ext": "1346"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.906634,
+          40.867382
+        ]
+      },
+      "properties": {
+        "id": "e971c874-526a-44f7-8c45-caf92db7f855",
+        "title": "VA Medical Center Bronx, NY: James J. Peters",
+        "locationName": "Bronx, NY",
+        "displayName": "Michaelle Williams",
+        "email": "michaelle.williams@va.gov",
+        "phoneNumber": "718-584-9000",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.39715,
+          40.317409
+        ]
+      },
+      "properties": {
+        "id": "a3b188d3-943a-4abc-9166-3aa00d23a538",
+        "title": "VA Medical Center Lebanon, PA",
+        "locationName": "Lebanon, PA",
+        "displayName": "Angela Barbeito",
+        "email": "angela.barbeito@va.gov",
+        "phoneNumber": "717-272-6621",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.396364,
+          40.488515
+        ]
+      },
+      "properties": {
+        "id": "c5d11072-f7dd-4311-8dc9-d62094713de4",
+        "title": "VA Medical Center Altoona, PA: James E. Van Zandt",
+        "locationName": "Altoona, PA",
+        "displayName": "Beth Bradley",
+        "email": "beth.bradley@va.gov",
+        "phoneNumber": "814-943-8164",
+        "ext": "14250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.246152,
+          39.962009
+        ]
+      },
+      "properties": {
+        "id": "dd86a86c-b12d-4b64-aeff-849b54714ff2",
+        "title": "VA Medical Center Philadelphia, PA",
+        "locationName": "Philadelphia, PA",
+        "displayName": "Elizabeth Corkery",
+        "email": "elizabeth.corkery@va.gov",
+        "phoneNumber": "215-823-5800",
+        "ext": "202122"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.246152,
+          39.962009
+        ]
+      },
+      "properties": {
+        "id": "3399479d-d3b3-486b-bf49-92ea29333735",
+        "title": "VA Medical Center Philadelphia, PA",
+        "locationName": "Philadelphia, PA",
+        "displayName": "Dominique Davis",
+        "email": "dominique.davis@va.gov",
+        "phoneNumber": "215-823-5800",
+        "ext": "4024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.959796,
+          40.447397
+        ]
+      },
+      "properties": {
+        "id": "de0e2296-d380-423b-853e-3faa2d5e086f",
+        "title": "VA Pittsburgh Healthcare System",
+        "locationName": "Pittsburgh, PA",
+        "displayName": "Kiya Ficklin",
+        "email": "kiya.ficklin@va.gov",
+        "phoneNumber": "412-822-3566",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.606547,
+          39.74019
+        ]
+      },
+      "properties": {
+        "id": "6a15f689-8ad2-4d03-98a6-78860ab7859f",
+        "title": "VA Medical Center Wilmington",
+        "locationName": "Wilmington, DE",
+        "displayName": "Michelle R Hailey",
+        "email": "michelle.hailey@va.gov",
+        "phoneNumber": "302-994-2511",
+        "ext": "4020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.959796,
+          40.447397
+        ]
+      },
+      "properties": {
+        "id": "06bcbc51-1156-49da-a34f-1c1df6e497ae",
+        "title": "VA Pittsburgh Healthcare System",
+        "locationName": "Pittsburgh, PA",
+        "displayName": "April K Herron",
+        "email": "april.herron@va.gov",
+        "phoneNumber": "412-689-2863",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.835978,
+          41.248103
+        ]
+      },
+      "properties": {
+        "id": "4db75971-d3fc-4d3e-9a6b-7e902413288f",
+        "title": "VA Medical Center Wilkes Barre, PA",
+        "locationName": "Wilkes-Barre, PA",
+        "displayName": "Jamie Price (accardi)",
+        "email": "jamie.price1@va.gov",
+        "phoneNumber": "570-824-3521",
+        "ext": "24348"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.959796,
+          40.447397
+        ]
+      },
+      "properties": {
+        "id": "53e979b6-5b56-4877-a752-0e67313de64b",
+        "title": "VA Pittsburgh Healthcare System",
+        "locationName": "Pittsburgh, PA",
+        "displayName": "Melinda Rodgers",
+        "email": "melinda.rodgers@va.gov",
+        "phoneNumber": "412-606-2076",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.79656,
+          39.99793
+        ]
+      },
+      "properties": {
+        "id": "0b4a3021-9d73-4d4c-9565-78bea9661bce",
+        "title": "VA Medical Center Coatesville, PA",
+        "locationName": "Coatesville, PA",
+        "displayName": "Nancy Holmes",
+        "email": "HOLMES, NANCY",
+        "phoneNumber": "610-384-7711",
+        "ext": "6123"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.39715,
+          40.317409
+        ]
+      },
+      "properties": {
+        "id": "d744c265-de99-4836-acfd-ee8347062eff",
+        "title": "VA Medical Center Lebanon, PA",
+        "locationName": "Lebanon, PA",
+        "displayName": "Michelle Shuey",
+        "email": "michelle.shuey2@va.gov",
+        "phoneNumber": "717-272-6621",
+        "ext": "5511"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.39715,
+          40.317409
+        ]
+      },
+      "properties": {
+        "id": "96b445d6-7883-42d6-8b38-b3f767a21361",
+        "title": "VA Medical Center Lebanon, PA",
+        "locationName": "Lebanon, PA",
+        "displayName": "Michelle Svenson",
+        "email": "michelle.svenson@va.gov",
+        "phoneNumber": "717-272-6621",
+        "ext": "5948"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.944992,
+          40.872409
+        ]
+      },
+      "properties": {
+        "id": "85810da1-ce60-443d-b301-bc294dd8a412",
+        "title": "VA Medical Center Butler, PA",
+        "locationName": "Butler, PA",
+        "displayName": "Nicole Thompson",
+        "email": "nicole.thompson3@va.gov",
+        "phoneNumber": "878-271-6713",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.063042,
+          42.102089
+        ]
+      },
+      "properties": {
+        "id": "11a3dd94-d7d8-43bc-95b9-87fba3b5fb6a",
+        "title": "VA Medical Center Erie, PA",
+        "locationName": "Erie, PA",
+        "displayName": "Vacant",
+        "email": "VACANT",
+        "phoneNumber": "",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.624284,
+          39.289855
+        ]
+      },
+      "properties": {
+        "id": "8fbaffe8-b8a3-4a1f-9ede-da9df6c48d94",
+        "title": "VA Maryland Health Care System",
+        "locationName": "Baltimore, MD",
+        "displayName": "Bridgett Barefoot-Welch",
+        "email": "Bridgett.barefoot-welch@va.gov",
+        "phoneNumber": "443-829-6874",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36189,
+          39.270293
+        ]
+      },
+      "properties": {
+        "id": "c7d9540f-feb7-4dfa-ac06-bc81b25efe4c",
+        "title": "VA Medical Center Clarksburg, WV: Louis A. Johnson",
+        "locationName": "Clarksburg, WV",
+        "displayName": "Ashton Carder",
+        "email": "ashton.carder@va.gov",
+        "phoneNumber": "304-623-3461",
+        "ext": "4031"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.193097,
+          37.765087
+        ]
+      },
+      "properties": {
+        "id": "91e86cc9-bf09-48f4-a3a9-f642f6adc22c",
+        "title": "VA Medical Center Beckley, WV",
+        "locationName": "Beckley, WV",
+        "displayName": "Angela Coleman",
+        "email": "angela.coleman3@va.gov",
+        "phoneNumber": "304-255-2121",
+        "ext": "4527"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.010563,
+          38.92909
+        ]
+      },
+      "properties": {
+        "id": "fadb87e5-95ec-45af-9384-58a3fa9b37e3",
+        "title": "VA Medical Center Washington, DC",
+        "locationName": "Washington, DC",
+        "displayName": "Catherine Davelli",
+        "email": "catherine.davelli@va.gov",
+        "phoneNumber": "202-518-4754",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.44266,
+          38.41725
+        ]
+      },
+      "properties": {
+        "id": "04ca3f7e-1f50-4dda-8c4a-73e353272466",
+        "title": "VA Medical Center Huntington",
+        "locationName": "Huntington, WV",
+        "displayName": "Michelle D Marcum",
+        "email": "michelle.marcum@va.gov",
+        "phoneNumber": "304-429-6741",
+        "ext": "3119"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.91126,
+          39.417514
+        ]
+      },
+      "properties": {
+        "id": "c7a53be6-5081-49a8-b3ba-c87a48f1ac1a",
+        "title": "VA Medical Center Martinsburg, WV",
+        "locationName": "Martinsburg, WV",
+        "displayName": "Kayla N Raines",
+        "email": "kayla.raines@va.gov",
+        "phoneNumber": "304-263-0811",
+        "ext": "3708"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.010563,
+          38.92909
+        ]
+      },
+      "properties": {
+        "id": "bdbbeaf0-6886-4892-a3d4-384dd3c08740",
+        "title": "VA Medical Center Washington, DC",
+        "locationName": "Washington, DC",
+        "displayName": "Sadisu Zachari",
+        "email": "sadisu.zachari@va.gov",
+        "phoneNumber": "202-745-8000",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.010563,
+          38.92909
+        ]
+      },
+      "properties": {
+        "id": "e2886e27-793e-4693-9e0a-0ea17fcb2a6c",
+        "title": "VA Medical Center Washington, DC",
+        "locationName": "Washington, DC",
+        "displayName": "Vacant",
+        "email": "VANCANT",
+        "phoneNumber": "",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.484049,
+          35.588496
+        ]
+      },
+      "properties": {
+        "id": "eed2f11d-1650-49db-a1f0-28f486b3a7f5",
+        "title": "VA Medical Center Asheville, NC",
+        "locationName": "Asheville, NC",
+        "displayName": "Tina K Barnes",
+        "email": "tina.barnes@va.gov",
+        "phoneNumber": "828-298-7911",
+        "ext": "15598"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.467061,
+          37.498085
+        ]
+      },
+      "properties": {
+        "id": "6bfc939a-a08a-406b-b977-9b2430409ab7",
+        "title": "VA Medical Center Richmond, VA: Central Virginia",
+        "locationName": "Richmond, VA",
+        "displayName": "Nichelle Bush-Brooks",
+        "email": "nichelle.bushbrooks@va.gov",
+        "phoneNumber": "804-675-5000",
+        "ext": "3521"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.487966,
+          35.684298
+        ]
+      },
+      "properties": {
+        "id": "d2a8418d-dcdf-479f-9214-f15c0ac9e640",
+        "title": "VAMC Salisbury, NC: W.G. (Bill) Hefner",
+        "locationName": "Salisbury, NC",
+        "displayName": "Manalle Earnhardt",
+        "email": "manalle.earnhardt@va.gov",
+        "phoneNumber": "704-638-9000",
+        "ext": "13969"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.938526,
+          36.009142
+        ]
+      },
+      "properties": {
+        "id": "b98764ff-b861-43ec-b84e-04421cf50428",
+        "title": "VA Medical Center Durham, NC",
+        "locationName": "Durham, NC",
+        "displayName": "Claudette Forrest",
+        "email": "claudette.forrest@va.gov",
+        "phoneNumber": "919-286-6858",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.467061,
+          37.498085
+        ]
+      },
+      "properties": {
+        "id": "538e3d5e-8cf2-4b48-a72c-df6cc5d13afc",
+        "title": "VA Medical Center Richmond, VA:  Central Virginia",
+        "locationName": "Richmond, VA",
+        "displayName": "Eric Grunwald",
+        "email": "eric.grunwald@va.gov",
+        "phoneNumber": "804-675-5000",
+        "ext": "4517"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.487966,
+          35.684298
+        ]
+      },
+      "properties": {
+        "id": "ecdd7b56-3fb7-414d-9775-71f16e7ecfbb",
+        "title": "VAMC Salisbury, NC: W.G. (Bill) Hefner",
+        "locationName": "Salisbury, NC",
+        "displayName": "Vacant",
+        "email": "VACANT",
+        "phoneNumber": "",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.331983,
+          37.015231
+        ]
+      },
+      "properties": {
+        "id": "f5bc82fb-5478-47af-a2f7-025e30f0eaf3",
+        "title": "VA Medical Center Hampton VA",
+        "locationName": "Hampton, VA",
+        "displayName": "James D Hudson",
+        "email": "james.hudson2@va.gov",
+        "phoneNumber": "757-772-9961",
+        "ext": "13291"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.938526,
+          36.009142
+        ]
+      },
+      "properties": {
+        "id": "b99b63c0-23bb-4d3e-b278-22323308449d",
+        "title": "VA Medical Center Durham, NC",
+        "locationName": "Durham, NC",
+        "displayName": "Mary Johnson",
+        "email": "mary.johnson2@va.gov",
+        "phoneNumber": "919-286-0411",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.467061,
+          37.498085
+        ]
+      },
+      "properties": {
+        "id": "96c23479-af0c-45a0-ad29-af91ef6a01e7",
+        "title": "VA Medical Center Richmond, VA:  Central Virginia",
+        "locationName": "Richmond, VA",
+        "displayName": "Vacant",
+        "email": "VACANT",
+        "phoneNumber": "",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.876881,
+          35.087983
+        ]
+      },
+      "properties": {
+        "id": "0f7f9df8-cbea-4e98-b7b0-00034d3a2cf6",
+        "title": "VA Medical Center Fayetteville, NC",
+        "locationName": "Fayetteville, NC",
+        "displayName": "Pamela S Taylor",
+        "email": "pamela.taylor10@va.gov",
+        "phoneNumber": "910-973-2991",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.018512,
+          37.274419
+        ]
+      },
+      "properties": {
+        "id": "fe40157f-1940-4f6b-97ac-db9d9e4fae77",
+        "title": "Salem VA Health Care System",
+        "locationName": "Salem, VA",
+        "displayName": "Dyana Williams",
+        "email": "dyana.williams@va.gov",
+        "phoneNumber": "540-982-2463",
+        "ext": "2514"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.943256,
+          32.536489
+        ]
+      },
+      "properties": {
+        "id": "b58a26e0-ffd4-481f-bfe4-b0acba63cdfc",
+        "title": "VA Medical Center Dublin, GA: Carl Vinson",
+        "locationName": "Dublin, GA",
+        "displayName": "Mary (sparks) Allen",
+        "email": "mary.allen@va.gov",
+        "phoneNumber": "478-272-1210",
+        "ext": "2756"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.243781,
+          32.377134
+        ]
+      },
+      "properties": {
+        "id": "4ecd8102-c832-4f0c-8357-ec84300b1331",
+        "title": "Central Alabama Veterans Health Care System",
+        "locationName": "Montgomery, AL",
+        "displayName": "April Pierrie-Louis",
+        "email": "April Pierrie-Louis",
+        "phoneNumber": "334-727-0550",
+        "ext": "53410"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0258,
+          33.467753
+        ]
+      },
+      "properties": {
+        "id": "75644969-9467-4fa0-9fe7-29bc1b1129a7",
+        "title": "VA Medical Center Augusta, GA",
+        "locationName": "Augusta, GA",
+        "displayName": "Phoebe M Burda",
+        "email": "phoebe.burda@va.gov",
+        "phoneNumber": "706-733-0188",
+        "ext": "32440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.79956,
+          33.502659
+        ]
+      },
+      "properties": {
+        "id": "5d8e6bfa-252d-4924-9b95-4e1814b54338",
+        "title": "VA Medical Center Birmingham, AL",
+        "locationName": "Birmingham, AL",
+        "displayName": "Kyla Higgins",
+        "email": "kyla.higgins@va.gov",
+        "phoneNumber": "205-933-8101",
+        "ext": "336817"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.79956,
+          33.502659
+        ]
+      },
+      "properties": {
+        "id": "597e5df2-dc02-48f9-a3f1-b7500cac8e13",
+        "title": "VA Medical Center Birmingham, AL",
+        "locationName": "Birmingham, AL",
+        "displayName": "Jaci Hogeland",
+        "email": "jaci.hogeland@va.gov",
+        "phoneNumber": "205-558-4706",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.485953,
+          33.191286
+        ]
+      },
+      "properties": {
+        "id": "0242bf60-ea43-481a-bde0-b82cc64ab94c",
+        "title": "VA Medical Center Tuscaloosa, AL",
+        "locationName": "Tuscaloosa, AL",
+        "displayName": "Vacant",
+        "email": "VACANT",
+        "phoneNumber": "",
+        "ext": "4253"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.311745,
+          33.801936
+        ]
+      },
+      "properties": {
+        "id": "48c0e86b-dc47-4903-a6fc-804e8ecdc0a9",
+        "title": "VA Medical Center Atlanta, GA",
+        "locationName": "Atlanta, GA",
+        "displayName": "Nivia Lindsey",
+        "email": "nivia.lindsey@va.gov",
+        "phoneNumber": "404-321-6111",
+        "ext": "207630"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.311745,
+          33.801936
+        ]
+      },
+      "properties": {
+        "id": "c8c1ca96-e2bd-4d48-ae2d-38451cea60a8",
+        "title": "VA Medical Center Atlanta, GA",
+        "locationName": "Atlanta, GA",
+        "displayName": "Vacant",
+        "email": "VACANT",
+        "phoneNumber": "",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.954135,
+          32.784211
+        ]
+      },
+      "properties": {
+        "id": "80f6f5f9-517f-4a72-a632-0b89a810c44f",
+        "title": "VA Medical Center Charleston, SC: Ralph H. Johnson",
+        "locationName": "Charleston, SC",
+        "displayName": "Kirstin K Pennington",
+        "email": "kirstin.pennington@va.gov",
+        "phoneNumber": "843-789-6416",
+        "ext": "206416"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.954135,
+          32.784211
+        ]
+      },
+      "properties": {
+        "id": "a2c22eba-54c0-45bd-8463-1530b404b2d8",
+        "title": "VA Medical Center Charleston, SC: Ralph H. Johnson",
+        "locationName": "Charleston, SC",
+        "displayName": "Stanisha Vick",
+        "email": "stanisha.vick@va.gov",
+        "phoneNumber": "843-789-7646",
+        "ext": "207646"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.775466,
+          27.808691
+        ]
+      },
+      "properties": {
+        "id": "fc747abd-d6d2-4419-ba2a-1ef1d90d1a59",
+        "title": "VA Medical Center Bay Pines, FL",
+        "locationName": "Bay Pines, FL",
+        "displayName": "Susan Amerman",
+        "email": "susan.amerman@va.gov",
+        "phoneNumber": "727-262-9610",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.113021,
+          26.78679
+        ]
+      },
+      "properties": {
+        "id": "bf98269f-5002-4306-8a0b-a44ae211f0a0",
+        "title": "VA Medical Center West Palm Beach, FL",
+        "locationName": "West Palm Beach, FL",
+        "displayName": "Peaches Clarke",
+        "email": "peaches.clarke@va.gov",
+        "phoneNumber": "561-484-4985",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.274575,
+          28.365065
+        ]
+      },
+      "properties": {
+        "id": "d3a1b719-28da-4746-916d-9fe31fa01894",
+        "title": "VA Medical Center Orlando, FL",
+        "locationName": "Orlando, FL",
+        "displayName": "Rebecca Coty",
+        "email": "rebecca.coty@va.gov",
+        "phoneNumber": "407-631-4785",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.216571,
+          25.791584
+        ]
+      },
+      "properties": {
+        "id": "a2fabc06-5099-4803-934e-18d3899f599b",
+        "title": "Miami VA Health Care System",
+        "locationName": "Miami, FL",
+        "displayName": "Bethania Delucien",
+        "email": "bethania.delucien@va.gov",
+        "phoneNumber": "305-575-7000",
+        "ext": "3546"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.775466,
+          27.808691
+        ]
+      },
+      "properties": {
+        "id": "34707dfd-6889-4fc4-bac2-a02a0fe7202b",
+        "title": "VA Medical Center Bay Pines, FL",
+        "locationName": "Bay Pines, FL",
+        "displayName": "Adrian L Griffin",
+        "email": "adrian.griffin@va.gov",
+        "phoneNumber": "727-398-6117",
+        "ext": "10619"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.42955,
+          28.064428
+        ]
+      },
+      "properties": {
+        "id": "3f63727f-94ad-4518-a317-38d17b89ef06",
+        "title": "VA Medical Center Tampa, FL: James A. Haley",
+        "locationName": "Tampa, FL",
+        "displayName": "Kristen L Leili",
+        "email": "kristen.leili@va.gov",
+        "phoneNumber": "813-972-2000",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.42955,
+          28.064428
+        ]
+      },
+      "properties": {
+        "id": "c8d59524-0df7-4f3e-a828-a7cc1feb1455",
+        "title": "VA Medical Center Tampa, FL: James A. Haley",
+        "locationName": "Tampa, FL",
+        "displayName": "Tracy Williams",
+        "email": "Williams, TRACY",
+        "phoneNumber": "720-857-5683",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.07225,
+          18.362496
+        ]
+      },
+      "properties": {
+        "id": "14df72c2-a7f1-4659-9b39-70222248fdb5",
+        "title": "VA Medical Center San Juan, PR: VA Caribbean Healthcare System",
+        "locationName": "San Juan, PR",
+        "displayName": "Joanna Lopez-Garcia",
+        "email": "joanna.lopez-garcia@va.gov",
+        "phoneNumber": "787-641-7582",
+        "ext": "35952"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.274575,
+          28.365065
+        ]
+      },
+      "properties": {
+        "id": "75b02323-31f4-47ad-9220-1499c2fef88b",
+        "title": "VA Medical Center Orlando, FL",
+        "locationName": "Orlando, FL",
+        "displayName": "Katrina Mclean",
+        "email": "katrina.mclean@va.gov",
+        "phoneNumber": "407-793-7993",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.36921,
+          29.60327
+        ]
+      },
+      "properties": {
+        "id": "e344a756-83c6-4e8b-a894-3d9dd72f511c",
+        "title": "North Florida-South Georgia Veterans Health System",
+        "locationName": "Gainesville, FL",
+        "displayName": "Barbara Minor",
+        "email": "barbara.minor@va.gov",
+        "phoneNumber": "352-548-6000",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.216571,
+          25.791584
+        ]
+      },
+      "properties": {
+        "id": "22241567-818d-4e2b-8de5-4a1c37bed037",
+        "title": "Miami VA Health Care System",
+        "locationName": "Miami, FL",
+        "displayName": "Vacant",
+        "email": "VACANT",
+        "phoneNumber": "",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.216571,
+          25.791584
+        ]
+      },
+      "properties": {
+        "id": "bed04971-76c6-4756-9a51-85e809923175",
+        "title": "Miami VA Health Care System",
+        "locationName": "Miami, FL",
+        "displayName": "Bethania Delucien",
+        "email": "bethania.delucien@va.gov",
+        "phoneNumber": "305-575-7000",
+        "ext": "3546"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.07225,
+          18.362496
+        ]
+      },
+      "properties": {
+        "id": "48c67e49-c2ed-405b-b021-4c68f75f8946",
+        "title": "VA Medical Center San Juan, PR: VA Caribbean Healthcare System",
+        "locationName": "San Juan, PR",
+        "displayName": "Laura Rivera-Cotty",
+        "email": "laura.rivera-cotty@va.gov",
+        "phoneNumber": "787-741-7582",
+        "ext": "135961"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.36921,
+          29.60327
+        ]
+      },
+      "properties": {
+        "id": "4a969d27-5a59-4625-bfa9-63450e42cb34",
+        "title": "North Florida-South Georgia Veterans Health System",
+        "locationName": "Gainesville, FL",
+        "displayName": "Diana Simon",
+        "email": "diana.simon@va.gov",
+        "phoneNumber": "352-548-6000",
+        "ext": "411768"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.113021,
+          26.78679
+        ]
+      },
+      "properties": {
+        "id": "047f6952-2d19-4656-ae90-15c0cb610c28",
+        "title": "VA Medical Center West Palm Beach, FL",
+        "locationName": "West Palm Beach, FL",
+        "displayName": "Keri Taylor",
+        "email": "keri.taylor@va.gov",
+        "phoneNumber": "561-887-1977",
+        "ext": "2254"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.274575,
+          28.365065
+        ]
+      },
+      "properties": {
+        "id": "3771d008-0d8f-4405-9254-7f24dcc95228",
+        "title": "VA Medical Center Orlando, FL",
+        "locationName": "Orlando, FL",
+        "displayName": "Christina Yeazel",
+        "email": "christina.yeazel@va.gov",
+        "phoneNumber": "407-631-4781",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.69726,
+          38.270573
+        ]
+      },
+      "properties": {
+        "id": "0cdefeda-fc03-412e-9e4b-d5093a1adb99",
+        "title": "VA Medical Center Louisville",
+        "locationName": "Louisville, KY",
+        "displayName": "Michelle Branam",
+        "email": "MICHELLE.BRANAM@VA.GOV",
+        "phoneNumber": "859-281-3961",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.69726,
+          38.270573
+        ]
+      },
+      "properties": {
+        "id": "4771e09c-df97-42c8-bbba-d3000097d5dd",
+        "title": "VA Medical Center Louisville",
+        "locationName": "Louisville, KY",
+        "displayName": "Steven Armstrong",
+        "email": "steven.armstrong2@va.gov",
+        "phoneNumber": "502-287-6168",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.027379,
+          35.143695
+        ]
+      },
+      "properties": {
+        "id": "810b70b4-019c-4a4f-93c5-a1dd8187f4aa",
+        "title": "VA Medical Center Memphis",
+        "locationName": "Memphis, TN",
+        "displayName": "Lori Christion",
+        "email": "lori.christion@va.gov",
+        "phoneNumber": "901-285-4824",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.80396,
+          36.141297
+        ]
+      },
+      "properties": {
+        "id": "8e58d6d7-a398-4c03-b7a7-aa60e6305141",
+        "title": "VA Tennessee Valley Healthcare System",
+        "locationName": "Nashville, TN",
+        "displayName": "Nicole M Crum",
+        "email": "nicole.crum@va.gov",
+        "phoneNumber": "615-873-6721",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.538379,
+          38.073826
+        ]
+      },
+      "properties": {
+        "id": "e867a892-bac3-4ddc-b33e-c8b9dd53b42e",
+        "title": "VA Medical Center Lexington",
+        "locationName": "Lexington, KY",
+        "displayName": "Elizabeth A Ison",
+        "email": "elizabeth.ison@va.gov",
+        "phoneNumber": "859-281-3961",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.538379,
+          38.073826
+        ]
+      },
+      "properties": {
+        "id": "bdace239-30e5-4c47-a766-4a4a52e9ff9f",
+        "title": "VA Medical Center Lexington",
+        "locationName": "Lexington, KY",
+        "displayName": "Curtis W King",
+        "email": "curtis.king@va.gov",
+        "phoneNumber": "859-281-3961",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.80396,
+          36.141297
+        ]
+      },
+      "properties": {
+        "id": "05d9b896-6e44-4ed0-ab87-4f8c5a648e84",
+        "title": "VA Tennessee Valley Healthcare System",
+        "locationName": "Nashville, TN",
+        "displayName": "Melissa F Littman",
+        "email": "melissa.littman@va.gov",
+        "phoneNumber": "615-225-3608",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.373095,
+          36.31118
+        ]
+      },
+      "properties": {
+        "id": "1c82274e-3a96-4297-afd6-acdf169a52c8",
+        "title": "VA Medical Center Mountain Home",
+        "locationName": "Mountain Home, TN",
+        "displayName": "Angela J White",
+        "email": "angela.white9@va.gov",
+        "phoneNumber": "423-926-1171",
+        "ext": "7744"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.613746,
+          41.513262
+        ]
+      },
+      "properties": {
+        "id": "b7c02ea5-cf2b-4e65-a9c7-2dada039e6c0",
+        "title": "VA Medical Center Cleveland, OH: Louis Stokes",
+        "locationName": "Cleveland, OH",
+        "displayName": "Michelle Campbell",
+        "email": "michelle.campbell3@va.gov",
+        "phoneNumber": "216-791-2300",
+        "ext": "45997"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.715113,
+          42.28609
+        ]
+      },
+      "properties": {
+        "id": "85a3727d-7a12-473d-88cc-f36080ffa38e",
+        "title": "VA Ann Arbor Health Care System",
+        "locationName": "Ann Arbor, MI",
+        "displayName": "Julia Stoecke",
+        "email": "JULIA STOECKLE",
+        "phoneNumber": "734-272-6819",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.020921,
+          39.388
+        ]
+      },
+      "properties": {
+        "id": "75add537-66d4-4c69-a46d-1e5a1155dec6",
+        "title": "VA Medical Center Chillicothe, OH",
+        "locationName": "Chillicothe, OH",
+        "displayName": "Stephanie Conkel",
+        "email": "stephanie.conkel@va.gov",
+        "phoneNumber": "740-773-1141",
+        "ext": "17289"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.264851,
+          39.74268
+        ]
+      },
+      "properties": {
+        "id": "7c73947c-4698-483b-a813-43a6a8792cb6",
+        "title": "VA Medical Center Dayton, OH",
+        "locationName": "Dayton, OH",
+        "displayName": "Elizabeth Eickman",
+        "email": "elizabeth.eickman@va.gov",
+        "phoneNumber": "937-268-6511",
+        "ext": "4251"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.715113,
+          42.28609
+        ]
+      },
+      "properties": {
+        "id": "2563fa45-d91d-4b6c-b733-f32ad79f56bd",
+        "title": "VA Ann Arbor Health Care System",
+        "locationName": "Ann Arbor, MI",
+        "displayName": "Sharon Hall",
+        "email": "sharon.hall5@va.gov",
+        "phoneNumber": "734-845-5714",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.613746,
+          41.513262
+        ]
+      },
+      "properties": {
+        "id": "7ae0d0de-42db-4118-91e8-253c6f02198c",
+        "title": "VA Medical Center Cleveland, OH: Louis Stokes",
+        "locationName": "Cleveland, OH",
+        "displayName": "Leanne Kaminski",
+        "email": "leanne.kaminski@va.gov",
+        "phoneNumber": "216-791-2300",
+        "ext": "45112"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.613746,
+          41.513262
+        ]
+      },
+      "properties": {
+        "id": "c5db3804-ef7c-4369-9f57-846ac0ed5429",
+        "title": "VA Medical Center Cleveland, OH: Louis Stokes",
+        "locationName": "Cleveland, OH",
+        "displayName": "Katrina Kelley",
+        "email": "katrina.kelley@va.gov",
+        "phoneNumber": "216-791-2300",
+        "ext": "45834"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.613746,
+          41.513262
+        ]
+      },
+      "properties": {
+        "id": "7414eba7-e514-4afe-8f3c-a9a193618bc1",
+        "title": "VA Medical Center Cleveland, OH: Louis Stokes",
+        "locationName": "Cleveland, OH",
+        "displayName": "Suzi Matic",
+        "email": "suzi.matic@va.gov",
+        "phoneNumber": "216-791-2300",
+        "ext": "45108"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.715113,
+          42.28609
+        ]
+      },
+      "properties": {
+        "id": "3287e9fd-ea16-41a8-a9bf-080935dc7103",
+        "title": "VA Ann Arbor Health Care System",
+        "locationName": "Ann Arbor, MI",
+        "displayName": "Autumn M Mckinney",
+        "email": "autumn.mckinney@va.gov",
+        "phoneNumber": "734-222-4270",
+        "ext": "24270"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.291423,
+          42.34352
+        ]
+      },
+      "properties": {
+        "id": "b58d877f-13ea-413d-87dd-46a9c50c7df4",
+        "title": "Battle Creek VA Medical Center",
+        "locationName": "Battle Creek, MI",
+        "displayName": "Jennifer G Newsome",
+        "email": "jennifer.newsome@va.gov",
+        "phoneNumber": "269-966-5600",
+        "ext": "35240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.508491,
+          39.139533
+        ]
+      },
+      "properties": {
+        "id": "3ebf40b3-d32d-47da-88f4-da2d4cc46c5d",
+        "title": "VA Medical Center Cincinnati, OH",
+        "locationName": "Cincinnati, OH",
+        "displayName": "Deborah Reese Dreher",
+        "email": "deborah.reesedreher1@va.gov",
+        "phoneNumber": "513-319-1295",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.109662,
+          41.090836
+        ]
+      },
+      "properties": {
+        "id": "329d14c2-0702-4bb4-a3e3-65deacd26311",
+        "title": "VA Northern Indiana Healthcare System",
+        "locationName": "Fort Wayne, IN",
+        "displayName": "Denise Richardson",
+        "email": "denise.richardson@va.gov",
+        "phoneNumber": "765-674-3321",
+        "ext": "73417"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.97204,
+          43.466555
+        ]
+      },
+      "properties": {
+        "id": "3cbfbdd2-abda-4e97-b8d6-46f9cb45768b",
+        "title": "Saginaw VA Medical Center",
+        "locationName": "Saginaw, MI",
+        "displayName": "Kristine Rodgers",
+        "email": "Kristine.Rodgers@va.gov",
+        "phoneNumber": "989-497-2500",
+        "ext": "11469"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.186847,
+          39.777868
+        ]
+      },
+      "properties": {
+        "id": "8645cfc4-37d2-41c0-b2bb-ab0a2efacd5e",
+        "title": "VA Medical Center Indianapolis, IN: Richard L. Roudebush",
+        "locationName": "Indianapolis, IN",
+        "displayName": "Kevin Shafer",
+        "email": "kevin.shafer@va.gov",
+        "phoneNumber": "317-988-2328",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.910259,
+          39.980789
+        ]
+      },
+      "properties": {
+        "id": "3afb746d-484d-4786-9f6d-fb070f1ed548",
+        "title": "Chalmers P. Wylie Ambulatory Care Center",
+        "locationName": "Columbus, OH",
+        "displayName": "Gregory A Shaffer",
+        "email": "gregory.shaffer@va.gov",
+        "phoneNumber": "614-965-9146",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.01538,
+          42.341903
+        ]
+      },
+      "properties": {
+        "id": "a2f8979c-ea94-4155-9160-926d2eda6c45",
+        "title": "Detroit VA Medical Center",
+        "locationName": "Detroit, MI",
+        "displayName": "Vacant",
+        "email": "VACANT",
+        "phoneNumber": "",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.061249,
+          45.810255
+        ]
+      },
+      "properties": {
+        "id": "f79294d9-0668-4b10-ab68-4db60dd2dd37",
+        "title": "VA Medical Center Iron Mountain, MI",
+        "locationName": "Iron Mountain, MI",
+        "displayName": "Michael J Baumgartner",
+        "email": "michael.baumgartner1@va.gov",
+        "phoneNumber": "906-774-3300",
+        "ext": "32509"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.976328,
+          43.020758
+        ]
+      },
+      "properties": {
+        "id": "9f2931a4-074d-44e7-b600-34b330a4bfff",
+        "title": "VA Medical Center Milwaukee, WI: Clement J. Zablocki",
+        "locationName": "Milwaukee, WI",
+        "displayName": "Vacant/ Abolished",
+        "email": "VACANT",
+        "phoneNumber": "",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.431202,
+          43.074836
+        ]
+      },
+      "properties": {
+        "id": "463bf7a0-4949-4a30-8260-c1dc64104474",
+        "title": "VA Medical Center Madison, WI: William S. Middleton",
+        "locationName": "Madison, WI",
+        "displayName": "Danielle Hunt",
+        "email": "danielle.hunt1@va.gov",
+        "phoneNumber": "608-256-1901",
+        "ext": "17657"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.493684,
+          44.004021
+        ]
+      },
+      "properties": {
+        "id": "477679d2-e85b-42e7-bd3d-8e484820145d",
+        "title": "VA Medical Center Tomah, WI",
+        "locationName": "Tomah, WI",
+        "displayName": "Samantha Knauer",
+        "email": "samantha.knauer@va.gov",
+        "phoneNumber": "608-372-3971",
+        "ext": "67732"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.677155,
+          41.87074
+        ]
+      },
+      "properties": {
+        "id": "34dedea5-faae-49e5-af48-09afced12a3e",
+        "title": "VA Medical Center Chicago, IL: Jesse Brown",
+        "locationName": "Chicago, IL",
+        "displayName": "Catherine Mullan",
+        "email": "catherine.mullan@va.gov",
+        "phoneNumber": "312-569-7132",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.58606,
+          40.124099
+        ]
+      },
+      "properties": {
+        "id": "d95f5853-d57e-4b9c-abb2-8e6490317e68",
+        "title": "VA Medical Center Illiana Health Care System, IL",
+        "locationName": "Danville, IL",
+        "displayName": "Carli Plunkett",
+        "email": "carli.plunkett@va.gov",
+        "phoneNumber": "217-554-3244",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.837589,
+          41.845964
+        ]
+      },
+      "properties": {
+        "id": "f9f485e1-a9b5-446a-8e48-9cc0ad52c2ed",
+        "title": "VA Medical Center Hines, IL: Edward Hines Jr",
+        "locationName": "Hines, IL",
+        "displayName": "Kimberley Richmond",
+        "email": "kimberley.richmond@va.gov",
+        "phoneNumber": "708-202-8387",
+        "ext": "22204"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.677155,
+          41.87074
+        ]
+      },
+      "properties": {
+        "id": "555526f6-81c5-4911-87f8-c006be30ac32",
+        "title": "VA Medical Center Chicago, IL: Jesse Brown",
+        "locationName": "Chicago, IL",
+        "displayName": "Lori Riley",
+        "email": "lori.riley@va.gov",
+        "phoneNumber": "312-569-8428",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.976328,
+          43.020758
+        ]
+      },
+      "properties": {
+        "id": "4788c6d3-213d-4192-ae36-947a3d416a15",
+        "title": "VA Medical Center Milwaukee, WI: Clement J. Zablocki",
+        "locationName": "Milwaukee, WI",
+        "displayName": "Vacant",
+        "email": "VACANT",
+        "phoneNumber": "",
+        "ext": "44962"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.860101,
+          42.307606
+        ]
+      },
+      "properties": {
+        "id": "3249e949-61bf-4cbb-8ba8-16fa300107eb",
+        "title": "Captain James A. Lovell Federal Health Care Facility",
+        "locationName": "North Chicago, IL",
+        "displayName": "Cecilia A Sherrod",
+        "email": "cecilia.sherrod@va.gov",
+        "phoneNumber": "224-610-3053",
+        "ext": "63053"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.493684,
+          44.004021
+        ]
+      },
+      "properties": {
+        "id": "4daa5892-c846-4869-b17e-cfdb33ff7a84",
+        "title": "VA Medical Center Tomah, WI",
+        "locationName": "Tomah, WI",
+        "displayName": "Vacant",
+        "email": "VACANT",
+        "phoneNumber": "",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.284604,
+          38.494779
+        ]
+      },
+      "properties": {
+        "id": "a6d5bbcc-93e8-42a9-b2a1-3bedb966712e",
+        "title": "Saint Louis Health Care System",
+        "locationName": "Saint Louis, MO",
+        "displayName": "Vacant",
+        "email": "VACANT",
+        "phoneNumber": "",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.722216,
+          39.025912
+        ]
+      },
+      "properties": {
+        "id": "c2319b3d-4870-40bd-997b-afc81e638228",
+        "title": "VA Eastern Kansas Healthcare System",
+        "locationName": "Leavenworth/Topeka, KS",
+        "displayName": "Kimberly A Dahmer",
+        "email": "kimberly.dahmer@va.gov",
+        "phoneNumber": "913-682-2000",
+        "ext": "61530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.526946,
+          39.063466
+        ]
+      },
+      "properties": {
+        "id": "7f593a55-3dd9-4a21-bd44-0f74ec0c35c9",
+        "title": "VA Kansas City, MO",
+        "locationName": "Kansas City, MO",
+        "displayName": "Anetra Hamilton",
+        "email": "anetra.hamilton@va.gov",
+        "phoneNumber": "816-922-2675",
+        "ext": "56551"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.328714,
+          38.93705
+        ]
+      },
+      "properties": {
+        "id": "208f9464-d040-4cfb-8af4-c029f1fb96fb",
+        "title": "Harry S Truman Memorial Veterans Hospital",
+        "locationName": "Columbia, MO",
+        "displayName": "Bethany M Harmon",
+        "email": "bethany.harmon@va.gov",
+        "phoneNumber": "573-963-2169",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.954845,
+          37.72442
+        ]
+      },
+      "properties": {
+        "id": "ff3d6bce-aa85-46ac-a56d-ac8e57a6751a",
+        "title": "VA Medical Center Marion, IL",
+        "locationName": "Marion, IL",
+        "displayName": "Jennifer Hazel",
+        "email": "jennifer.hazel@va.gov",
+        "phoneNumber": "618-997-5311",
+        "ext": "54241"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.416892,
+          36.772299
+        ]
+      },
+      "properties": {
+        "id": "311d6d42-db37-4d99-bfeb-e9c2f2e52510",
+        "title": "John J. Pershing VA",
+        "locationName": "Poplar Bluff, MO",
+        "displayName": "Ava Lampe",
+        "email": "ava.lampe@va.gov",
+        "phoneNumber": "573-686-4151",
+        "ext": "52034"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.526946,
+          39.063466
+        ]
+      },
+      "properties": {
+        "id": "2731cdf8-65d7-430c-8261-44917ba559c0",
+        "title": "VA Kansas City, MO",
+        "locationName": "Kansas City, MO",
+        "displayName": "Lauren Maus",
+        "email": "Lauren.Maus@va.gov",
+        "phoneNumber": "816-922-2675",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.274097,
+          37.681404
+        ]
+      },
+      "properties": {
+        "id": "c0bec623-54f6-4cd6-a216-5f55b5efe31b",
+        "title": "VA Medical Center Wichita, KS: Robert J. Dole",
+        "locationName": "Wichita, KS",
+        "displayName": "Vacant",
+        "email": "VACANT",
+        "phoneNumber": "",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.320588,
+          34.74651
+        ]
+      },
+      "properties": {
+        "id": "e6cb88c6-bbbb-48ca-889a-7495822187b8",
+        "title": "Central Arkansas Veterans Healthcare System",
+        "locationName": "Little Rock, AR",
+        "displayName": "Shelly L Berry",
+        "email": "shelly.berry@va.gov",
+        "phoneNumber": "501-257-2474",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.388819,
+          29.699994
+        ]
+      },
+      "properties": {
+        "id": "e72331b4-2a4b-4b42-afed-4d61a6ce8b0c",
+        "title": "VA Medical Center Houston, TX: Michael E. DeBakey",
+        "locationName": "Houston, TX",
+        "displayName": "Asmin R Brown",
+        "email": "asmin.brown@va.gov",
+        "phoneNumber": "713-791-1414",
+        "ext": "23466"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.320588,
+          34.74651
+        ]
+      },
+      "properties": {
+        "id": "bf654492-109a-42e6-8bf2-5421666856b1",
+        "title": "Central Arkansas Veterans Healthcare System",
+        "locationName": "Little Rock, AR",
+        "displayName": "Victoria Cathey",
+        "email": "victoria.cathey@va.gov",
+        "phoneNumber": "501-257-3744",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.437721,
+          31.355145
+        ]
+      },
+      "properties": {
+        "id": "e132fc04-e779-4931-ab86-8c023e9170d3",
+        "title": "VA Medical Center Alexandria, LA",
+        "locationName": "Alexandria, LA",
+        "displayName": "Laura Cearley",
+        "email": "CEARLEY, LAURA",
+        "phoneNumber": "318-473-0010",
+        "ext": "4558"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.158288,
+          36.079866
+        ]
+      },
+      "properties": {
+        "id": "8cbf58d3-0a4a-4274-ac63-e3fdeb49a1dc",
+        "title": "HCS of the Ozarks, Fayetteville, AR",
+        "locationName": "Fayetteville, AR",
+        "displayName": "Lane Prince",
+        "email": "LANE PRINCE",
+        "phoneNumber": "479-443-4301",
+        "ext": "65002"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.084672,
+          29.961832
+        ]
+      },
+      "properties": {
+        "id": "5a59c0bd-2733-4da8-b1df-b5809789b13b",
+        "title": "Southeast Louisiana Veterans Health Care System, New Orleans, LA",
+        "locationName": "New Orleans, LA",
+        "displayName": "Nikki Ledoux",
+        "email": "nikki.ledoux@va.gov",
+        "phoneNumber": "504-507-7651",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.942309,
+          30.415066
+        ]
+      },
+      "properties": {
+        "id": "4017ae7c-1e76-49e8-8396-ba52411b05b0",
+        "title": "VA Gulf Coast Veterans Health Care System",
+        "locationName": "Biloxi, MS",
+        "displayName": "Shelby Madere",
+        "email": "shelby.madere@va.gov",
+        "phoneNumber": "228-523-4643",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.942309,
+          30.415066
+        ]
+      },
+      "properties": {
+        "id": "81e1eb5b-7b63-404d-a610-c5c563fd7436",
+        "title": "VA Gulf Coast Veterans Health Care System",
+        "locationName": "Biloxi, MS",
+        "displayName": "Courtney S Nguyen",
+        "email": "courtney.sutton@va.gov",
+        "phoneNumber": "228-523-8353",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.167409,
+          32.328218
+        ]
+      },
+      "properties": {
+        "id": "f6188f79-3b18-4ce0-a8ab-03cedfa73ca8",
+        "title": "VA Medical Center Jackson, MS: G.V. (Sonny) Montgomery",
+        "locationName": "Jackson, MS",
+        "displayName": "Carmeshia Quinn",
+        "email": "carmeshia.quinn@va.gov",
+        "phoneNumber": "601-362-4471",
+        "ext": "55719"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.388819,
+          29.699994
+        ]
+      },
+      "properties": {
+        "id": "9134038b-bcd0-44e9-81cf-532f50c621eb",
+        "title": "VA Medical Center Houston, TX: Michael E. DeBakey",
+        "locationName": "Houston, TX",
+        "displayName": "Sybill Sheffield",
+        "email": "sybill.sheffield@va.gov",
+        "phoneNumber": "713-791-1414",
+        "ext": "24098"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.167409,
+          32.328218
+        ]
+      },
+      "properties": {
+        "id": "310c1b54-a74e-4367-81ec-6744e8be4c57",
+        "title": "VA Medical Center Jackson, MS: G.V. (Sonny) Montgomery",
+        "locationName": "Jackson, MS",
+        "displayName": "Terissa C Stewart",
+        "email": "Terissa.Stewart@va.gov",
+        "phoneNumber": "601-362-4471",
+        "ext": "54488"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.320588,
+          34.74651
+        ]
+      },
+      "properties": {
+        "id": "29917e2c-6b2e-4631-90e1-21bbeb7d4305",
+        "title": "Central Arkansas Veterans Healthcare System",
+        "locationName": "Little Rock, AR",
+        "displayName": "Denita Stroud",
+        "email": "denita.stroud@va.gov",
+        "phoneNumber": "501-257-1748",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.721373,
+          32.501204
+        ]
+      },
+      "properties": {
+        "id": "85aaeaa8-812a-4d2c-974a-3fb46f3e28eb",
+        "title": "VA Medical Center Shreveport, LA: Overton Brooks",
+        "locationName": "Shreveport, LA",
+        "displayName": "Xavier Wesley",
+        "email": "xavier.wesley@va.gov",
+        "phoneNumber": "318-221-8411",
+        "ext": "7526"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.791062,
+          32.693552
+        ]
+      },
+      "properties": {
+        "id": "8a65d54a-8f46-4b16-9ad2-7a3fea67007d",
+        "title": "North Texas Health Care System",
+        "locationName": "Dallas, TX",
+        "displayName": "Deandrea Billings",
+        "email": "deandrea.billings@va.gov",
+        "phoneNumber": "682-389-9929",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.791062,
+          32.693552
+        ]
+      },
+      "properties": {
+        "id": "b61e3382-a4ea-4b7c-8ab9-01d5053c58bc",
+        "title": "North Texas Health Care System",
+        "locationName": "Dallas, TX",
+        "displayName": "Gorya Brown",
+        "email": "gorya.brown@va.gov",
+        "phoneNumber": "682-532-0488",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.791062,
+          32.693552
+        ]
+      },
+      "properties": {
+        "id": "f394ef0f-3cf6-4c89-90c0-e322360ccfe7",
+        "title": "North Texas Health Care System",
+        "locationName": "Dallas, TX",
+        "displayName": "John Curry",
+        "email": "john.curry3@va.gov",
+        "phoneNumber": "903-583-1312",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.396429,
+          31.086499
+        ]
+      },
+      "properties": {
+        "id": "91393684-3162-4dcf-a11d-4fdc8075ef77",
+        "title": "Central Texas Veterans Health System",
+        "locationName": "Temple, TX",
+        "displayName": "Vacant",
+        "email": "",
+        "phoneNumber": "",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.791062,
+          32.693552
+        ]
+      },
+      "properties": {
+        "id": "613b75f1-3f3d-427c-9a96-c2cf452a9b34",
+        "title": "North Texas Health Care System",
+        "locationName": "Dallas, TX",
+        "displayName": "Jessica Gandia Sanchez",
+        "email": "jessica.gandia@va.gov",
+        "phoneNumber": "214-857-0622",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.462468,
+          31.820418
+        ]
+      },
+      "properties": {
+        "id": "fcb66f1f-4ea4-4ac7-b859-34d52e1fe7cd",
+        "title": "El Paso VA Health Care System",
+        "locationName": "El Paso, TX",
+        "displayName": "Kristi L Green",
+        "email": "kristi.green@va.gov",
+        "phoneNumber": "915-297-2784",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.580411,
+          29.506319
+        ]
+      },
+      "properties": {
+        "id": "504c03b7-0bb3-48b9-b557-58eb3a46acab",
+        "title": "South Texas Veterans Health Care System, San Antonio, TX",
+        "locationName": "San Antonio, TX",
+        "displayName": "Barbara Hale",
+        "email": "barbara.hale@va.gov",
+        "phoneNumber": "210-365-6083",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.791062,
+          32.693552
+        ]
+      },
+      "properties": {
+        "id": "cd5f42a6-928c-4676-bc49-944721410553",
+        "title": "North Texas Health Care System",
+        "locationName": "Dallas, TX",
+        "displayName": "Sheniqua S Mathis",
+        "email": "sheniquas.mathis@va.gov",
+        "phoneNumber": "214-857-2123",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.90643,
+          35.203909
+        ]
+      },
+      "properties": {
+        "id": "1f9d928a-7ffb-423a-bbd1-0c761525b61b",
+        "title": "Amarillo VA Health Care System",
+        "locationName": "Amarillo, TX",
+        "displayName": "Vacant",
+        "email": "VACANT",
+        "phoneNumber": "",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.791062,
+          32.693552
+        ]
+      },
+      "properties": {
+        "id": "a8147233-3a8d-4d2b-9a80-753e9cbf596e",
+        "title": "North Texas Health Care System",
+        "locationName": "Dallas, TX",
+        "displayName": "Ankita J Patel",
+        "email": "ankita.patel@va.gov",
+        "phoneNumber": "214-857-3064",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.791062,
+          32.693552
+        ]
+      },
+      "properties": {
+        "id": "a1ed3b1d-018f-47b8-acdd-d5037c6a9242",
+        "title": "North Texas Health Care System",
+        "locationName": "Dallas, TX",
+        "displayName": "Beverly S Phenix",
+        "email": "beverly.phenix@va.gov",
+        "phoneNumber": "214-857-2287",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.791062,
+          32.693552
+        ]
+      },
+      "properties": {
+        "id": "a22655b4-f0fc-45d2-aae7-4ee4ac951004",
+        "title": "North Texas Health Care System",
+        "locationName": "Dallas, TX",
+        "displayName": "Lindsay Pryor",
+        "email": "lindsay.pryor@va.gov",
+        "phoneNumber": "682-389-0099",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.47269,
+          32.23115
+        ]
+      },
+      "properties": {
+        "id": "580d8e28-5fc0-44d0-8dfb-a530dd21af03",
+        "title": "West Texas VA Health Care System",
+        "locationName": "Big Spring, TX",
+        "displayName": "Cynthia Schaffner",
+        "email": "cynthia.schaffner@va.gov",
+        "phoneNumber": "432-268-2501",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.396429,
+          31.086499
+        ]
+      },
+      "properties": {
+        "id": "ca4b0966-b039-458a-ac7e-1ed2e3c42be3",
+        "title": "Central Texas Veterans Health System",
+        "locationName": "Temple, TX",
+        "displayName": "Traci D Taylor",
+        "email": "traci.taylor3@va.gov",
+        "phoneNumber": "254-260-6056",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.667179,
+          26.170986
+        ]
+      },
+      "properties": {
+        "id": "06d896c5-c665-43c5-8867-81719ea6439f",
+        "title": "VA Texas Valley Coastal Bend Health Care System",
+        "locationName": "Harlingen, TX",
+        "displayName": "Oren Trevino",
+        "email": "oren.trevino@va.gov",
+        "phoneNumber": "956-430-9317",
+        "ext": "63917"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.791062,
+          32.693552
+        ]
+      },
+      "properties": {
+        "id": "7b123aec-ad36-41ec-a216-f9297de026d7",
+        "title": "North Texas Health Care System",
+        "locationName": "Dallas, TX",
+        "displayName": "Kelsey Viscariello",
+        "email": "kelsey.viscariello2@va.gov",
+        "phoneNumber": "682-364-1877",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.396429,
+          31.086499
+        ]
+      },
+      "properties": {
+        "id": "07101404-1438-463b-b30d-fbedcbf6a072",
+        "title": "Central Texas Veterans Health System",
+        "locationName": "Temple, TX",
+        "displayName": "Vacant",
+        "email": "VACANT",
+        "phoneNumber": "",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.838491,
+          40.75393
+        ]
+      },
+      "properties": {
+        "id": "5aa7960c-dd90-4190-b8e5-3068655baa0e",
+        "title": "VA Salt Lake City Health Care System, UT: George E. Wahlen",
+        "locationName": "Salt Lake City, UT",
+        "displayName": "Gordon Clifford",
+        "email": "gordon.clifford@va.gov",
+        "phoneNumber": "801-582-1565",
+        "ext": "1830"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.495993,
+          35.483026
+        ]
+      },
+      "properties": {
+        "id": "f19fbae2-aaf7-417a-88b1-173064a6828e",
+        "title": "Oklahoma City VA Healthcare System",
+        "locationName": "Oklahoma City, OK",
+        "displayName": "Angela Curran (peters)",
+        "email": "angela.curran2@va.gov",
+        "phoneNumber": "405-456-5607",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.414249,
+          35.765318
+        ]
+      },
+      "properties": {
+        "id": "3cf3f7b2-f391-4eb5-ae71-485b9c4ca513",
+        "title": "VA Medical Center Muskogee, OK: Jack C. Montgomery",
+        "locationName": "Muskogee, OK",
+        "displayName": "Leslie Davis",
+        "email": "leslie.davis6@va.gov",
+        "phoneNumber": "918-351-4895",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.830092,
+          39.741103
+        ]
+      },
+      "properties": {
+        "id": "96d112b7-37bf-4c2f-b06f-21b658bee802",
+        "title": "VA Eastern Colorado Health Care System",
+        "locationName": "Denver, CO",
+        "displayName": "Melissa (vsn19) Nickerson",
+        "email": "vhaatgnurseresumes@va.gov",
+        "phoneNumber": "720-723-3532",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1016,
+          46.617798
+        ]
+      },
+      "properties": {
+        "id": "1b3d804b-8335-4334-b179-d6cff8782d1f",
+        "title": "VA Montana Health Care System",
+        "locationName": "Fort Harrison, MT",
+        "displayName": "Robin Higley",
+        "email": "robin.higley@va.gov",
+        "phoneNumber": "406-447-7867",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.786699,
+          41.148002
+        ]
+      },
+      "properties": {
+        "id": "5acd2381-0501-485d-98a9-9ac2e8333e08",
+        "title": "VA Medical Center Cheyenne, WY",
+        "locationName": "Cheyenne, WY",
+        "displayName": "Whitney Peterson",
+        "email": "whitney.peterson@va.gov",
+        "phoneNumber": "307-778-7550",
+        "ext": "3911"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.984854,
+          44.82737
+        ]
+      },
+      "properties": {
+        "id": "fccf7fd2-9d09-4ec8-981b-efee6262bf8f",
+        "title": "VA Medical Center Sheridan, WY",
+        "locationName": "Sheridan, WY",
+        "displayName": "Scott Reichert",
+        "email": "scott.reichert@va.gov",
+        "phoneNumber": "307-675-3262",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.830092,
+          39.741103
+        ]
+      },
+      "properties": {
+        "id": "c511fea3-56f9-4579-96ce-3b9ea8e817f2",
+        "title": "VA Eastern Colorado Health Care System",
+        "locationName": "Denver, CO",
+        "displayName": "Madeline Bicknell",
+        "email": "madeline.bicknell@va.gov",
+        "phoneNumber": "720-229-7648",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.830092,
+          39.741103
+        ]
+      },
+      "properties": {
+        "id": "d58776be-2382-4273-a308-25f24100a834",
+        "title": "VA Eastern Colorado Health Care System",
+        "locationName": "Denver, CO",
+        "displayName": "Kelly Wills",
+        "email": "WILLS, KELLY",
+        "phoneNumber": "720-229-7648",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.838491,
+          40.75393
+        ]
+      },
+      "properties": {
+        "id": "da6bce7c-14a6-4610-8251-20f4e615496d",
+        "title": "VA Salt Lake City Health Care System, UT: George E. Wahlen",
+        "locationName": "Salt Lake City, UT",
+        "displayName": "Toni Smolka",
+        "email": "toni.smolka@va.gov",
+        "phoneNumber": "801-582-1565",
+        "ext": "3434"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.308258,
+          47.563017
+        ]
+      },
+      "properties": {
+        "id": "677adffe-39f2-48f3-921b-efe472d952ed",
+        "title": "VA Puget Sound Healthcare System, Seattle, WA",
+        "locationName": "Seattle, WA",
+        "displayName": "Christopher Diangco",
+        "email": "vhaatgnurseresumes@va.gov",
+        "phoneNumber": "206-277-6963",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.683495,
+          45.49684
+        ]
+      },
+      "properties": {
+        "id": "2e5ed661-4e13-4766-b8a9-d98d97c47687",
+        "title": "VA Portland Healthcare System",
+        "locationName": "Portland, OR",
+        "displayName": "Elizabeth Hollenbeck",
+        "email": "elizabeth.hollenbeck@va.gov",
+        "phoneNumber": "503-220-8262",
+        "ext": "56014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.367931,
+          43.224475
+        ]
+      },
+      "properties": {
+        "id": "353a9258-addb-49ec-8474-bd7c53e33633",
+        "title": "VA Healthcare System Roseburg, OR",
+        "locationName": "Roseburg, OR",
+        "displayName": "Holly R Hutchings",
+        "email": "holly.hutchings@va.gov",
+        "phoneNumber": "541-440-1000",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.403228,
+          47.654373
+        ]
+      },
+      "properties": {
+        "id": "ec49604f-66b8-4d28-8ef9-819e8a10f80a",
+        "title": "VA Medical Center Spokane, WA",
+        "locationName": "Spokane, WA",
+        "displayName": "Debra K Montano",
+        "email": "debra.montano@va.gov",
+        "phoneNumber": "509-434-7660",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.744389,
+          61.232708
+        ]
+      },
+      "properties": {
+        "id": "7263ee97-bd7c-4ef1-9629-c3aabb8e463c",
+        "title": "Alaska VA Health Care System",
+        "locationName": "Anchorage, AK",
+        "displayName": "Melody Quesenberry",
+        "email": "melody.quesenberry@va.gov",
+        "phoneNumber": "907-257-4957",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.195237,
+          43.620017
+        ]
+      },
+      "properties": {
+        "id": "733fc15f-5f6a-4949-9513-c0e5e8499695",
+        "title": "VA Medical Center Boise, ID",
+        "locationName": "Boise, ID",
+        "displayName": "Jennifer Snyder",
+        "email": "jennifer.snyder@va.gov",
+        "phoneNumber": "208-422-1000",
+        "ext": "4470"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.683495,
+          45.49684
+        ]
+      },
+      "properties": {
+        "id": "b385b0fe-749b-4080-997b-70f7c720d715",
+        "title": "VA Portland Healthcare System",
+        "locationName": "Portland, OR",
+        "displayName": "Stephenie R Stewart",
+        "email": "STEPHENIE.STEWART@VA.GOV",
+        "phoneNumber": "503-220-8262",
+        "ext": "56014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.308258,
+          47.563017
+        ]
+      },
+      "properties": {
+        "id": "9b758cfb-7eea-4c70-ac6b-428cbabd4da0",
+        "title": "VA Puget Sound Healthcare System, Seattle, WA",
+        "locationName": "Seattle, WA",
+        "displayName": "Robin Thrasher",
+        "email": "robin.thrasher@va.gov",
+        "phoneNumber": "206-277-3910",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.355715,
+          46.05351
+        ]
+      },
+      "properties": {
+        "id": "59628350-622a-4d5a-840e-15e4ff079b77",
+        "title": "VA Medical Center Walla Walla, WA: Jonathan M. Wainwright",
+        "locationName": "Walla Walla, WA",
+        "displayName": "Jen Zamora",
+        "email": "jennifer.zamora@va.gov",
+        "phoneNumber": "509-525-5200",
+        "ext": "26448"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.09421,
+          36.284853
+        ]
+      },
+      "properties": {
+        "id": "aa500876-e27e-445d-98e7-8c65c205ec05",
+        "title": "VA Southern Nevada Healthcare System: VAMC",
+        "locationName": "North Las Vegas, NV",
+        "displayName": "Trinette Broom",
+        "email": "trinette.broom@va.gov",
+        "phoneNumber": "702-791-9000",
+        "ext": "14573"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.504959,
+          37.782408
+        ]
+      },
+      "properties": {
+        "id": "dc0c7721-9c7e-48dc-8203-9df0650a6b39",
+        "title": "VA Health Care System Medical Center San Francisco, CA",
+        "locationName": "San Francisco, CA",
+        "displayName": "Jimmy Dalaigh",
+        "email": "jimmy.dalaigh@va.gov",
+        "phoneNumber": "415-221-4810",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.09421,
+          36.284853
+        ]
+      },
+      "properties": {
+        "id": "70a95dc2-af70-49af-9206-b20286d4b9ef",
+        "title": "VA Southern Nevada Healthcare System: VAMC",
+        "locationName": "North Las Vegas, NV",
+        "displayName": "Madonna Dellosa",
+        "email": "Madonna.Dellosa@va.gov",
+        "phoneNumber": "702-791-9000",
+        "ext": "14187"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.295269,
+          38.573292
+        ]
+      },
+      "properties": {
+        "id": "fa6697f6-92ca-4eb1-8e5b-9f257819e68b",
+        "title": "VA Northern California Healthcare System",
+        "locationName": "Mather, CA",
+        "displayName": "Derrick Hernandez",
+        "email": "derrick.hernandez@va.gov",
+        "phoneNumber": "916-843-9387",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.295269,
+          38.573292
+        ]
+      },
+      "properties": {
+        "id": "607cdf99-d128-47aa-8693-91949131c32b",
+        "title": "VA Northern California Healthcare System",
+        "locationName": "Mather, CA",
+        "displayName": "Eileen Jarvina",
+        "email": "eileen.jarvina@va.gov",
+        "phoneNumber": "909-765-8215",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.778948,
+          36.773377
+        ]
+      },
+      "properties": {
+        "id": "2552100c-49b3-4615-8ad9-fbffa8c81b0b",
+        "title": "VA Central CA Health Care System, Fresno, CA",
+        "locationName": "Fresno, CA",
+        "displayName": "Rajvir Ladhar",
+        "email": "rajvir.ladhar@va.gov",
+        "phoneNumber": "559-225-6100",
+        "ext": "6636"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.09421,
+          36.284853
+        ]
+      },
+      "properties": {
+        "id": "36b3bb4f-f683-4c72-8874-e01dec8272bc",
+        "title": "VA Southern Nevada Healthcare System: VAMC",
+        "locationName": "North Las Vegas, NV",
+        "displayName": "Ester Lian Lazaro-Mascardo",
+        "email": "esterlian.lazaro-mascardo@va.gov",
+        "phoneNumber": "702-791-9000",
+        "ext": "15824"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.140212,
+          37.405139
+        ]
+      },
+      "properties": {
+        "id": "4e42c802-c8f9-4a9c-861a-ebdc2614be6c",
+        "title": "Palo Alto Health Care System, Palo Alto, CA",
+        "locationName": "Palo Alto, CA",
+        "displayName": "Aimie Pak",
+        "email": "aimie.pak@va.gov",
+        "phoneNumber": "650-694-6000",
+        "ext": "15006"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.140212,
+          37.405139
+        ]
+      },
+      "properties": {
+        "id": "88da2348-b99c-4884-b7fc-6952441f72ce",
+        "title": "Palo Alto Health Care System, Palo Alto, CA",
+        "locationName": "Palo Alto, CA",
+        "displayName": "Cecil Peji",
+        "email": "cecil.peji@va.gov",
+        "phoneNumber": "650-694-6000",
+        "ext": "15002"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.889391,
+          21.361376
+        ]
+      },
+      "properties": {
+        "id": "95a3fbbe-0509-4d02-9373-5e316f74cdfe",
+        "title": "VA Pacific Islands Health Care System Honolulu, HI",
+        "locationName": "Honolulu, HI",
+        "displayName": "Kathleen Redding",
+        "email": "kathleen.redding@va.gov",
+        "phoneNumber": "808-838-6590",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.799008,
+          39.516035
+        ]
+      },
+      "properties": {
+        "id": "c5e2387f-0b6d-4237-930b-c3c1070cb4a3",
+        "title": "VA Healthcare System Sierra Nevada, Reno, NV",
+        "locationName": "Reno, NV",
+        "displayName": "Joanna Valdes",
+        "email": "joanna.valdes@va.gov",
+        "phoneNumber": "775-786-7200",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.014033,
+          33.452721
+        ]
+      },
+      "properties": {
+        "id": "06582046-71b4-4dd3-8d02-3f76b2c1c618",
+        "title": "Phoenix VA Health Care System",
+        "locationName": "Phoenix, AZ",
+        "displayName": "Vacant",
+        "email": "VACANT",
+        "phoneNumber": "",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.014033,
+          33.452721
+        ]
+      },
+      "properties": {
+        "id": "9bfda9a9-6aa0-437a-87df-bf1346182a72",
+        "title": "Phoenix VA Health Care System",
+        "locationName": "Phoenix, AZ",
+        "displayName": "Jacque Cushard",
+        "email": "Jacqueline.Cushard@va.gov",
+        "phoneNumber": "602-277-5551",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.581219,
+          35.055062
+        ]
+      },
+      "properties": {
+        "id": "10e4b76a-5ecb-4a52-9e71-40e408b3779b",
+        "title": "New Mexico VA Health Care System",
+        "locationName": "Albuquerque, NM",
+        "displayName": "Merri Irish",
+        "email": "merri.irish@va.gov",
+        "phoneNumber": "505-265-1711",
+        "ext": "7057"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.964562,
+          32.181266
+        ]
+      },
+      "properties": {
+        "id": "2d817d87-22ef-475a-8c25-bc03aa7cb576",
+        "title": "Southern Arizona VA Healthcare System",
+        "locationName": "Tucson, AZ",
+        "displayName": "Barbara O'Connor",
+        "email": "barbara.oconnor@va.gov",
+        "phoneNumber": "520-629-1781",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.581219,
+          35.055062
+        ]
+      },
+      "properties": {
+        "id": "7d864c82-684d-4dc6-bfec-e82065f0ac89",
+        "title": "New Mexico VA Health Care System",
+        "locationName": "Albuquerque, NM",
+        "displayName": "Heidi Orehek",
+        "email": "heidi.orehek@va.gov",
+        "phoneNumber": "505-265-1711",
+        "ext": "6030"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.452979,
+          34.052981
+        ]
+      },
+      "properties": {
+        "id": "a767d7c4-565d-4508-9a10-6c530541a083",
+        "title": "VA Greater Los Angeles Healthcare System",
+        "locationName": "Los Angeles, CA",
+        "displayName": "Trish R G Puleo",
+        "email": "trisha.puleo@va.gov",
+        "phoneNumber": "213-219-2872",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.23215,
+          32.875328
+        ]
+      },
+      "properties": {
+        "id": "34199319-421e-4cb1-a70d-662de5913f96",
+        "title": "VA San Diego Healthcare System (Jennifer Moreno VAMC)",
+        "locationName": "San Diego, CA",
+        "displayName": "Deanna Tresnak",
+        "email": "Deanna.Tresnak@va.gov",
+        "phoneNumber": "858-642-6320",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.118973,
+          33.776442
+        ]
+      },
+      "properties": {
+        "id": "03eaab4a-9842-4816-b847-82de111068c9",
+        "title": "VA Long Beach Healthcare System",
+        "locationName": "Long Beach, CA",
+        "displayName": "Vacant",
+        "email": "VACANT",
+        "phoneNumber": "",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.250067,
+          34.050275
+        ]
+      },
+      "properties": {
+        "id": "a7a4c5f8-d402-484d-8a5d-9aab38d8f38d",
+        "title": "VA Loma Linda Healthcare System: Jerry L. Pettis Memorial",
+        "locationName": "Loma Linda, CA",
+        "displayName": "Jann Mantuano",
+        "email": "jann.mantuano@va.gov",
+        "phoneNumber": "909-825-7084",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.755895,
+          43.531247
+        ]
+      },
+      "properties": {
+        "id": "7fbe778c-f2df-4c1c-9dfe-ea7b1cbac39b",
+        "title": "VA HCS SIOUX FALLS, SD",
+        "locationName": "Sioux Falls, SD",
+        "displayName": "Vacant",
+        "email": "VACANT",
+        "phoneNumber": "605-336-3230",
+        "ext": "5819"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.548259,
+          41.663518
+        ]
+      },
+      "properties": {
+        "id": "71a9f3b3-32fc-4246-a740-b74d9307edf1",
+        "title": "Iowa City VA Health Care System",
+        "locationName": "Iowa City, IA",
+        "displayName": "Vacant",
+        "email": "alicia.beanblossom2@va.gov",
+        "phoneNumber": "319-338-0581",
+        "ext": "636823"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.774656,
+          46.906172
+        ]
+      },
+      "properties": {
+        "id": "f7613596-1c75-42e1-a29f-c20af3f5e172",
+        "title": "VA Medical Center Fargo, ND",
+        "locationName": "Fargo, ND",
+        "displayName": "Kaley E Budge-Meyer",
+        "email": "kaley.budge-meyer@va.gov",
+        "phoneNumber": "701-239-3700",
+        "ext": "4325"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.204591,
+          44.90194
+        ]
+      },
+      "properties": {
+        "id": "a485891c-c8f1-4d3d-9b00-dcfbf5985ff2",
+        "title": "Minneapolis VA HCS",
+        "locationName": "Minneapolis, MN",
+        "displayName": "Amy Daly",
+        "email": "amy.daly@va.gov",
+        "phoneNumber": "612-467-4392",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.97529,
+          41.244755
+        ]
+      },
+      "properties": {
+        "id": "74e941fa-bde8-470c-9891-50adc8ad9c49",
+        "title": "VA Nebraska-Western Iowa Healthcare System, Omaha, NE",
+        "locationName": "Omaha, NE",
+        "displayName": "Victoria .a. Nelson",
+        "email": "Victoria.Nelson@va.gov",
+        "phoneNumber": "402-995-4159",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.218882,
+          45.567897
+        ]
+      },
+      "properties": {
+        "id": "886ffb7d-90ec-4f9a-a9ca-f7db0eb22752",
+        "title": "Saint Cloud MN Health Care System",
+        "locationName": "St Cloud, MN",
+        "displayName": "Vacant",
+        "email": "VACANT",
+        "phoneNumber": "",
+        "ext": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.470408,
+          44.412788
+        ]
+      },
+      "properties": {
+        "id": "ff730f25-fcf6-4b8a-9f68-c6b0de2f88c6",
+        "title": "VA Black Hills Health Care System, Fort Meade, SD",
+        "locationName": "Fort Meade, SD",
+        "displayName": "Viergets Rachel D",
+        "email": "Rachel.viergets@va.gov",
+        "phoneNumber": "605-720-6810",
+        "ext": ""
+      }
+    }
+  ]
+}
