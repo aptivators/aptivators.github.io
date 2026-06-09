@@ -76,9 +76,11 @@
     </nav>
     <section class="w-full h-screen overflow-hidden flex flex-col relative">
       <recruiters-map
-        geojson-url="nurse-recruiters.geojson"
+        geojson-url="recruiters.geojson"
         mapbox-token="pk.eyJ1IjoiY2hyaXN0b3BoZXJjb3NuZXIiLCJhIjoiY21kZGFoaXdsMDJ1ajJubjMxdjRzZTBsMyJ9.d4fDFXYKjga4Hhc_60jaqw"
         mapbox-style="mapbox://styles/christophercosner/cmaznmgy800lu01rf1ql0bzmf"
+        email-subject-template="VA nursing inquiry - {{title}}"
+        email-body-template="Hello {{displayName}}, I am interested in opportunities at {{title}} ({{locationName}})."
       >
       </recruiters-map>
     </section>

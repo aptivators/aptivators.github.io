@@ -34,6 +34,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -149.74439,
+          61.23271
+        ]
+      },
+      "properties": {
+        "id": "3555258ff3274bb94749f8df9983a47a",
+        "title": "VA Alaska Health Care System",
+        "locationName": "Anchorage, AK",
+        "displayName": "Eric Snipes",
+        "email": "eric.snipes@va.gov",
+        "phoneNumber": "707-628-0296",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Anchorage",
+        "state": "AK",
+        "visn": "20",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -117.40323,
           47.65437
         ]
@@ -55,6 +79,30 @@
         "nurseRecruiter": "MONTANO,DEBRA K",
         "role": "RN",
         "consortium": "4-WSNC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.40323,
+          47.65437
+        ]
+      },
+      "properties": {
+        "id": "99915e730a4dbae11410f33766075407",
+        "title": "VA Spokane Health Care System",
+        "locationName": "Spokane, WA",
+        "displayName": "Hank Laguatan",
+        "email": "henry.laguatan@va.gov",
+        "phoneNumber": "206-459-7927",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Spokane",
+        "state": "WA",
+        "visn": "20",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -120,6 +168,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.30826,
+          47.56302
+        ]
+      },
+      "properties": {
+        "id": "4dbb5159b72242422bd9bee44bedcb16",
+        "title": "VA Puget Sound Health Care System",
+        "locationName": "Seattle, WA",
+        "displayName": "Hank Laguatan",
+        "email": "henry.laguatan@va.gov",
+        "phoneNumber": "206-459-7927",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Seattle",
+        "state": "WA",
+        "visn": "20",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -96.77466,
           46.90617
         ]
@@ -141,6 +213,30 @@
         "nurseRecruiter": "BUDGE-MEYER,KALEY E",
         "role": "RN",
         "consortium": "3-MidCon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.77466,
+          46.90617
+        ]
+      },
+      "properties": {
+        "id": "22f5fbeae1e5707269d1dbb04b6e4294",
+        "title": "VA Fargo Health Care System",
+        "locationName": "Fargo, ND",
+        "displayName": "Shane Stults",
+        "email": "shane.stults@va.gov",
+        "phoneNumber": "407-319-8473",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Fargo",
+        "state": "ND",
+        "visn": "23",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -176,6 +272,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -112.1016,
+          46.6178
+        ]
+      },
+      "properties": {
+        "id": "25043dff79e1a08ef97c6693c78f2104",
+        "title": "VA Montana Health Care System",
+        "locationName": "Fort Harrison, MT",
+        "displayName": "Pat Haynes",
+        "email": "patrick.haynes@va.gov",
+        "phoneNumber": "406-447-7583",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Fort Harrison",
+        "state": "MT",
+        "visn": "19",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -118.35572,
           46.05351
         ]
@@ -197,6 +317,30 @@
         "nurseRecruiter": "ZAMORA, JEN",
         "role": "HSS",
         "consortium": "4-WSNC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.35572,
+          46.05351
+        ]
+      },
+      "properties": {
+        "id": "8aa5278b457bdad295a307a998d8d111",
+        "title": "VA Walla Walla Health Care System",
+        "locationName": "Walla Walla, WA",
+        "displayName": "Hank Laguatan",
+        "email": "henry.laguatan@va.gov",
+        "phoneNumber": "206-459-7927",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Walla Walla",
+        "state": "WA",
+        "visn": "20",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -232,6 +376,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -88.06125,
+          45.81026
+        ]
+      },
+      "properties": {
+        "id": "650fc36a687ae4ffaa13907884c97e08",
+        "title": "VA Iron Mountain Health Care System",
+        "locationName": "Iron Mountain, MI",
+        "displayName": "Kevin Buccola",
+        "email": "kevin.buccola@va.gov",
+        "phoneNumber": "985-634-5315",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Iron Mountain",
+        "state": "MI",
+        "visn": "12",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -94.21888,
           45.5679
         ]
@@ -253,6 +421,30 @@
         "nurseRecruiter": "VACANT",
         "role": "RN",
         "consortium": "3-MidCon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.21888,
+          45.5679
+        ]
+      },
+      "properties": {
+        "id": "0b0a9f1a6c0d96be833f6221aadee06a",
+        "title": "VA St Cloud Health Care System",
+        "locationName": "St Cloud, MN",
+        "displayName": "Eric Snipes",
+        "email": "eric.snipes@va.gov",
+        "phoneNumber": "707-628-0296",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "St Cloud",
+        "state": "MN",
+        "visn": "23",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -310,6 +502,30 @@
         "nurseRecruiter": "STEWART, STEPHENIE R.",
         "role": "RN",
         "consortium": "4-WSNC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6835,
+          45.49684
+        ]
+      },
+      "properties": {
+        "id": "787053e5d995ea36a12c1cdcb196dc60",
+        "title": "VA Portland Health Care System",
+        "locationName": "Portland, OR",
+        "displayName": "Hank Laguatan",
+        "email": "henry.laguatan@va.gov",
+        "phoneNumber": "206-459-7927",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Portland",
+        "state": "OR",
+        "visn": "20",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -375,6 +591,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -93.20459,
+          44.90194
+        ]
+      },
+      "properties": {
+        "id": "f0d729da258aada311d424176fccda52",
+        "title": "VA Minneapolis Health Care System",
+        "locationName": "Minneapolis, MN",
+        "displayName": "Eric Snipes",
+        "email": "eric.snipes@va.gov",
+        "phoneNumber": "707-628-0296",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visn": "23",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -106.98485,
           44.82737
         ]
@@ -396,6 +636,30 @@
         "nurseRecruiter": "REICHERT, SCOTT",
         "role": "HSS",
         "consortium": "4-WSNC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.98485,
+          44.82737
+        ]
+      },
+      "properties": {
+        "id": "f38cd595983a24d04539d54ac38ec38f",
+        "title": "VA Sheridan Health Care System",
+        "locationName": "Sheridan, WY",
+        "displayName": "Amber Guinotte",
+        "email": "amber.guinotte@va.gov",
+        "phoneNumber": "307-675-3512",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Sheridan",
+        "state": "WY",
+        "visn": "19",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -431,6 +695,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -103.47041,
+          44.41279
+        ]
+      },
+      "properties": {
+        "id": "ba472e0bf94bcadd516829607bd4e880",
+        "title": "VA Black Hills Health Care System",
+        "locationName": "Fort Meade, SD",
+        "displayName": "Jason Tafoya",
+        "email": "jason.tafoya@va.gov",
+        "phoneNumber": "925-270-6574",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Fort Meade",
+        "state": "SD",
+        "visn": "23",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -69.70451,
           44.28042
         ]
@@ -453,6 +741,30 @@
         "nurseRecruiter": "LASLEY, MELISSA G",
         "role": "RN",
         "consortium": "1-VANEC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.70451,
+          44.28042
+        ]
+      },
+      "properties": {
+        "id": "7c4a76f09128d6796cf93afd02f28f22",
+        "title": "VA Maine Health Care System",
+        "locationName": "Augusta, ME",
+        "displayName": "Chak Chaianong",
+        "email": "chakchai.chaianong@va.gov",
+        "phoneNumber": "774-826-1180",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Augusta",
+        "state": "ME",
+        "visn": "1",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -515,6 +827,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -90.49368,
+          44.00402
+        ]
+      },
+      "properties": {
+        "id": "638dfc9f5ab3b94d35cd24f55321d79d",
+        "title": "VA Tomah Health Care System",
+        "locationName": "Tomah, WI",
+        "displayName": "Michael Sprague",
+        "email": "michael.sprague1@va.gov",
+        "phoneNumber": "608-633-9648",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Tomah",
+        "state": "WI",
+        "visn": "12",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -72.34284,
           43.64821
         ]
@@ -536,6 +872,30 @@
         "nurseRecruiter": "WINSLOW, DEBRA",
         "role": "RN",
         "consortium": "1-VANEC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.34284,
+          43.64821
+        ]
+      },
+      "properties": {
+        "id": "e0dd0e81b5cac34bdad79124520378e5",
+        "title": "VA White River Junction Health Care System",
+        "locationName": "White River Junction, VT",
+        "displayName": "Chak Chaianong",
+        "email": "chakchai.chaianong@va.gov",
+        "phoneNumber": "774-826-1180",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "White River Junction",
+        "state": "VT",
+        "visn": "1",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -571,6 +931,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -116.19524,
+          43.62002
+        ]
+      },
+      "properties": {
+        "id": "ef24795c5ce300f041ee78d26cc26884",
+        "title": "VA Boise Health Care System",
+        "locationName": "Boise, ID",
+        "displayName": "Hank Laguatan",
+        "email": "henry.laguatan@va.gov",
+        "phoneNumber": "206-459-7927",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Boise",
+        "state": "ID",
+        "visn": "20",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -96.7559,
           43.53125
         ]
@@ -592,6 +976,30 @@
         "nurseRecruiter": "VACANT",
         "role": "RN",
         "consortium": "3-MidCon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7559,
+          43.53125
+        ]
+      },
+      "properties": {
+        "id": "00010eef6c02977a849f4c0358a7389c",
+        "title": "VA Sioux Falls Health Care System",
+        "locationName": "Sioux Falls, SD",
+        "displayName": "Jason Tafoya",
+        "email": "jason.tafoya@va.gov",
+        "phoneNumber": "925-270-6574",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Sioux Falls",
+        "state": "SD",
+        "visn": "23",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -627,6 +1035,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -83.97204,
+          43.46656
+        ]
+      },
+      "properties": {
+        "id": "d98511baec77ff153c101f75b5897e07",
+        "title": "VA Saginaw Health Care System",
+        "locationName": "Saginaw, MI",
+        "displayName": "Heathre VanRiper",
+        "email": "heathre.vanriper@va.gov",
+        "phoneNumber": "989-220-6208",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Saginaw",
+        "state": "MI",
+        "visn": "10",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -123.36793,
           43.22448
         ]
@@ -648,6 +1080,30 @@
         "nurseRecruiter": "HUTCHINGS, HOLLY R.",
         "role": "RN",
         "consortium": "4-WSNC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.36793,
+          43.22448
+        ]
+      },
+      "properties": {
+        "id": "c70c5597d4aeff1e502a2328acd560b4",
+        "title": "VA Roseburg Health Care System",
+        "locationName": "Roseburg, OR",
+        "displayName": "Eric Snipes",
+        "email": "eric.snipes@va.gov",
+        "phoneNumber": "707-628-0296",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Roseburg",
+        "state": "OR",
+        "visn": "20",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -683,6 +1139,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -89.4312,
+          43.07484
+        ]
+      },
+      "properties": {
+        "id": "55acbcd8802bd1d29be3c51fc5927d95",
+        "title": "VA Madison Health Care System",
+        "locationName": "Madison, WI",
+        "displayName": "Jason Tafoya",
+        "email": "jason.tafoya@va.gov",
+        "phoneNumber": "925-270-6574",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Madison",
+        "state": "WI",
+        "visn": "12",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -76.13904,
           43.03843
         ]
@@ -704,6 +1184,30 @@
         "nurseRecruiter": "QUEARY, MEGAN",
         "role": "RN",
         "consortium": "1-VANEC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.13904,
+          43.03843
+        ]
+      },
+      "properties": {
+        "id": "8aa4c490d6033fa28accff6b13345a4e",
+        "title": "VA Syracuse Health Care System",
+        "locationName": "Syracuse, NY",
+        "displayName": "John Holmes",
+        "email": "john.holmes1@va.gov",
+        "phoneNumber": "315-569-1577",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Syracuse",
+        "state": "NY",
+        "visn": "2",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -767,6 +1271,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -87.97633,
+          43.02076
+        ]
+      },
+      "properties": {
+        "id": "55f788bd4821e976895923a6bd95654a",
+        "title": "VA Milwaukee Health Care System",
+        "locationName": "Milwaukee, WI",
+        "displayName": "JP Pryan",
+        "email": "james.pryan@va.gov",
+        "phoneNumber": "785-221-0838",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Milwaukee",
+        "state": "WI",
+        "visn": "12",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -71.44102,
           43.01256
         ]
@@ -788,6 +1316,30 @@
         "nurseRecruiter": "BROUGH, MELISSA",
         "role": "RN",
         "consortium": "1-VANEC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.44102,
+          43.01256
+        ]
+      },
+      "properties": {
+        "id": "5071547ee025a040cbebbed734bcfd97",
+        "title": "VA Manchester Health Care System",
+        "locationName": "Manchester, NH",
+        "displayName": "Brian Samolyk",
+        "email": "brian.samolyk@va.gov",
+        "phoneNumber": "603-548-7830",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Manchester",
+        "state": "NH",
+        "visn": "1",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -823,6 +1375,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -78.81342,
+          42.95118
+        ]
+      },
+      "properties": {
+        "id": "b5e6ca951b753aff6e4dfe485d5741a1",
+        "title": "VA Western New York Health Care System",
+        "locationName": "Buffalo, NY",
+        "displayName": "Ken Mitchell",
+        "email": "kenneth.mitchell3@va.gov",
+        "phoneNumber": "734-660-0024",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Buffalo",
+        "state": "NY",
+        "visn": "2",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.26932,
           42.90133
         ]
@@ -844,6 +1420,30 @@
         "nurseRecruiter": "VACANT",
         "role": "RN",
         "consortium": "1-VANEC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.26932,
+          42.90133
+        ]
+      },
+      "properties": {
+        "id": "d588655faedcce803d77669cc284c367",
+        "title": "VA Finger Lakes Health Care System",
+        "locationName": "Canandaigua, NY",
+        "displayName": "Shane Stults",
+        "email": "shane.stults@va.gov",
+        "phoneNumber": "716-982-1949",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Canandaigua",
+        "state": "NY",
+        "visn": "2",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -879,6 +1479,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.77188,
+          42.65071
+        ]
+      },
+      "properties": {
+        "id": "08605608ae878d4e8d9995a7b601888c",
+        "title": "VA Albany Health Care System",
+        "locationName": "Albany, NY",
+        "displayName": "Suzanne Guzy",
+        "email": "suzanne.guzy@va.gov",
+        "phoneNumber": "585-282-9113",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Albany",
+        "state": "NY",
+        "visn": "2",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -71.27333,
           42.50481
         ]
@@ -900,6 +1524,54 @@
         "nurseRecruiter": "VACANT",
         "role": "RN",
         "consortium": "1-VANEC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.27333,
+          42.50481
+        ]
+      },
+      "properties": {
+        "id": "03f85dd9d89e8c4802cb62869e50d8e5",
+        "title": "VA Bedford Health Care System",
+        "locationName": "Bedford, MA",
+        "displayName": "Reesah Speller",
+        "email": "reesha.speller@va.gov",
+        "phoneNumber": "757-450-6661",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Bedford",
+        "state": "MA",
+        "visn": "1",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.858,
+          42.438
+        ]
+      },
+      "properties": {
+        "id": "a6d202e90db777283f0e42e9801774c5",
+        "title": "VA Southern Oregon Health Care System",
+        "locationName": "White City, OR",
+        "displayName": "Hank Laguatan",
+        "email": "henry.laguatan@va.gov",
+        "phoneNumber": "206-459-7927",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "White City",
+        "state": "OR",
+        "visn": "20",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -935,6 +1607,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -72.6821,
+          42.35103
+        ]
+      },
+      "properties": {
+        "id": "f04c9b81b36bbd7a8cc7c0cfb35e850a",
+        "title": "VA Central Western Massachusetts Health Care System",
+        "locationName": "Leeds, MA",
+        "displayName": "Reesah Speller",
+        "email": "reesha.speller@va.gov",
+        "phoneNumber": "757-450-6661",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Leeds",
+        "state": "MA",
+        "visn": "1",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.29142,
           42.34352
         ]
@@ -963,6 +1659,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.29142,
+          42.34352
+        ]
+      },
+      "properties": {
+        "id": "eb9f090826b9a2a51e96386f78cca107",
+        "title": "VA Battle Creek Health Care System",
+        "locationName": "Battle Creek, MI",
+        "displayName": "Heathre VanRiper",
+        "email": "heathre.vanriper@va.gov",
+        "phoneNumber": "989-220-6208",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Battle Creek",
+        "state": "MI",
+        "visn": "10",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -83.01538,
           42.3419
         ]
@@ -984,6 +1704,30 @@
         "nurseRecruiter": "VACANT",
         "role": "RN",
         "consortium": "3-MidCon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.01538,
+          42.3419
+        ]
+      },
+      "properties": {
+        "id": "a725e5986369d98982d75846e724521a",
+        "title": "VA Detroit Health Care System",
+        "locationName": "Detroit, MI",
+        "displayName": "Charles Long",
+        "email": "charles.long4@va.gov",
+        "phoneNumber": "781-589-1291",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Detroit",
+        "state": "MI",
+        "visn": "10",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -1103,6 +1847,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -71.11042,
+          42.32692
+        ]
+      },
+      "properties": {
+        "id": "2dc2f31164d3f9a57c4545d7c3942c75",
+        "title": "VA Boston Health Care System",
+        "locationName": "Boston, MA",
+        "displayName": "Tegan Baldwin",
+        "email": "tegan.baldwin@va.gov",
+        "phoneNumber": "207-694-9399",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Boston",
+        "state": "MA",
+        "visn": "1",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -87.8601,
           42.30761
         ]
@@ -1124,6 +1892,30 @@
         "nurseRecruiter": "SHERROD, CECILIA A",
         "role": "RN",
         "consortium": "3-MidCon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8601,
+          42.30761
+        ]
+      },
+      "properties": {
+        "id": "84bda1ff2dbd21da100e2a763e52a54a",
+        "title": "VA Lovell Federal Health Care Center",
+        "locationName": "North Chicago, IL",
+        "displayName": "Charles Long",
+        "email": "charles.long4@va.gov",
+        "phoneNumber": "781-589-1291",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "North Chicago",
+        "state": "IL",
+        "visn": "12",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -1212,6 +2004,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -83.71511,
+          42.28609
+        ]
+      },
+      "properties": {
+        "id": "4c4d52cc935363df415257740d3cb26c",
+        "title": "VA Ann Arbor Health Care System",
+        "locationName": "Ann Arbor, MI",
+        "displayName": "Ken Mitchell",
+        "email": "kenneth.mitchell3@va.gov",
+        "phoneNumber": "734-660-0024",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Ann Arbor",
+        "state": "MI",
+        "visn": "10",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.06304,
           42.10209
         ]
@@ -1233,6 +2049,30 @@
         "nurseRecruiter": "VACANT",
         "role": "RN",
         "consortium": "1-VANEC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.06304,
+          42.10209
+        ]
+      },
+      "properties": {
+        "id": "ffef5b8d03999325c2f432110c4abbba",
+        "title": "VA Eric Health Care System",
+        "locationName": "Erie, PA",
+        "displayName": "Hope Hossenlopp",
+        "email": "hope.hossenlopp@va.gov",
+        "phoneNumber": "215-847-4601",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Erie",
+        "state": "PA",
+        "visn": "4",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -1296,6 +2136,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -87.67716,
+          41.87074
+        ]
+      },
+      "properties": {
+        "id": "534f2cad1bd12020fd88b5e7f5328bc7",
+        "title": "VA Chicago Health Care System",
+        "locationName": "Chicago, IL",
+        "displayName": "Michael Sprague",
+        "email": "michael.sprague1@va.gov",
+        "phoneNumber": "608-633-9648",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Chicago",
+        "state": "IL",
+        "visn": "12",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -87.83759,
           41.84596
         ]
@@ -1318,6 +2182,30 @@
         "nurseRecruiter": "RICHMOND, KIMBERLEY",
         "role": "RN",
         "consortium": "3-MidCon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.83759,
+          41.84596
+        ]
+      },
+      "properties": {
+        "id": "5b5ab2d0e466748f59e535628862c499",
+        "title": "VA Hines Health Care System",
+        "locationName": "Hines, IL",
+        "displayName": "Charles Long",
+        "email": "charles.long4@va.gov",
+        "phoneNumber": "781-589-1291",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Hines",
+        "state": "IL",
+        "visn": "12",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -1353,6 +2241,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -71.433,
+          41.83216
+        ]
+      },
+      "properties": {
+        "id": "2ba51ba9686a8e91fb1b5cca110d72e7",
+        "title": "VA Providence Health Care System",
+        "locationName": "Providence, RI",
+        "displayName": "Michelle Todd",
+        "email": "michelle.todd2@va.gov",
+        "phoneNumber": "303-834-0007",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Providence",
+        "state": "RI",
+        "visn": "1",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -91.54826,
           41.66352
         ]
@@ -1374,6 +2286,54 @@
         "nurseRecruiter": "BEANBLOSSOM, ALICIA",
         "role": "RN",
         "consortium": "3-MidCon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.54826,
+          41.66352
+        ]
+      },
+      "properties": {
+        "id": "1b940c50f4347983b9a20e647bc723c4",
+        "title": "VA Iowa City Health Care System",
+        "locationName": "Iowa City, IA",
+        "displayName": "Kevin Buccola",
+        "email": "kevin.buccola@va.gov",
+        "phoneNumber": "985-634-5315",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Iowa City",
+        "state": "IA",
+        "visn": "23",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.62031,
+          41.58882
+        ]
+      },
+      "properties": {
+        "id": "073e44cf79f51d95e13979926e413cfd",
+        "title": "VA Central Iowa Health Care System",
+        "locationName": "Des Moines, IA",
+        "displayName": "Ken Mitchell",
+        "email": "kenneth.mitchell3@va.gov",
+        "phoneNumber": "734-660-0024",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Des Moines",
+        "state": "IA",
+        "visn": "23",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -1495,6 +2455,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.61375,
+          41.51326
+        ]
+      },
+      "properties": {
+        "id": "2a85f4287f7ecccffdb47e6c135b09a7",
+        "title": "VA Northeast Ohio Health Care System",
+        "locationName": "Cleveland, OH",
+        "displayName": "Terry Anderson",
+        "email": "terrance.anderson@va.gov",
+        "phoneNumber": "832-412-0937",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Cleveland",
+        "state": "OH",
+        "visn": "10",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -72.9611,
           41.28195
         ]
@@ -1516,6 +2500,30 @@
         "nurseRecruiter": "TORTORA, SUZANNE F.",
         "role": "RN",
         "consortium": "1-VANEC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9611,
+          41.28195
+        ]
+      },
+      "properties": {
+        "id": "69a1d30b281fd0670881495c9d143f9f",
+        "title": "VA Connecticut Health Care System",
+        "locationName": "West Haven, CT",
+        "displayName": "Debbie Feiereisen",
+        "email": "deborah.feiereisen@va.gov",
+        "phoneNumber": "",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "West Haven",
+        "state": "CT",
+        "visn": "1",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -1551,6 +2559,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -75.83598,
+          41.2481
+        ]
+      },
+      "properties": {
+        "id": "86554cfe8d14570137e0a2ff4431a0cf",
+        "title": "VA Wilkes-Barre Health Care System",
+        "locationName": "Wilkes-Barre, PA",
+        "displayName": "Catrina Foley",
+        "email": "catrina.foley@va.gov",
+        "phoneNumber": "302-994-2511",
+        "ext": "7460",
+        "recruiterType": "ppr",
+        "city": "Wilkes-Barre",
+        "state": "PA",
+        "visn": "4",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -73.92581,
           41.24508
         ]
@@ -1572,6 +2604,30 @@
         "nurseRecruiter": "VOGEL, CAROLINE",
         "role": "RN",
         "consortium": "1-VANEC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92581,
+          41.24508
+        ]
+      },
+      "properties": {
+        "id": "e7996320fb89731d5a670d451cccb099",
+        "title": "VA Hudson Valley Health Care System",
+        "locationName": "Montrose, NY",
+        "displayName": "Jeanne LaBarge",
+        "email": "jeanne.labarge@va.gov",
+        "phoneNumber": "914-758-9344",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Montrose",
+        "state": "NY",
+        "visn": "2",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -1607,6 +2663,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -95.97529,
+          41.24476
+        ]
+      },
+      "properties": {
+        "id": "2e0e7197a8c3b8c447469f768a8d3c32",
+        "title": "VA Nebraska-Western Iowa Health Care System",
+        "locationName": "Omaha, NE",
+        "displayName": "Kevin Buccola",
+        "email": "kevin.buccola@va.gov",
+        "phoneNumber": "985-634-5315",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Omaha",
+        "state": "NE",
+        "visn": "23",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -104.7867,
           41.148
         ]
@@ -1628,6 +2708,30 @@
         "nurseRecruiter": "PETERSON, WHITNEY",
         "role": "RN",
         "consortium": "4-WSNC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.7867,
+          41.148
+        ]
+      },
+      "properties": {
+        "id": "b55f716af99a76a8fb85ba5f2ebf7cb4",
+        "title": "VA Cheyenne Health Care System",
+        "locationName": "Cheyenne, WY",
+        "displayName": "Marti Kimmel",
+        "email": "martha.kimmel@va.gov",
+        "phoneNumber": "307-433-3744",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Cheyenne",
+        "state": "WY",
+        "visn": "19",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -1663,6 +2767,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.10966,
+          41.09084
+        ]
+      },
+      "properties": {
+        "id": "7208a3431ede556fbe7bb4dd702789c9",
+        "title": "VA Northern Indiana Health Care System",
+        "locationName": "Fort Wayne, IN",
+        "displayName": "Amy Ellis",
+        "email": "amy.ellis1@va.gov",
+        "phoneNumber": "217-304-5655",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Fort Wayne",
+        "state": "IN",
+        "visn": "10",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -73.30871,
           40.89367
         ]
@@ -1684,6 +2812,30 @@
         "nurseRecruiter": "O'NEILL, MAGGIE",
         "role": "RN",
         "consortium": "1-VANEC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.30871,
+          40.89367
+        ]
+      },
+      "properties": {
+        "id": "54081a5f40157511cdd398dde2b54b69",
+        "title": "VA Northport Health Care System",
+        "locationName": "Northport, NY",
+        "displayName": "Kevin Buccola",
+        "email": "kevin.buccola@va.gov",
+        "phoneNumber": "716-982-1949",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Northport",
+        "state": "NY",
+        "visn": "2",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -1719,6 +2871,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.94499,
+          40.87241
+        ]
+      },
+      "properties": {
+        "id": "8be90a3276a5a7a95732e4d548947cd0",
+        "title": "VA Butler Health Care System",
+        "locationName": "Butler, PA",
+        "displayName": "Daphne Binimelis",
+        "email": "daphne.binimelis@va.gov",
+        "phoneNumber": "215-847-4601",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Butler",
+        "state": "PA",
+        "visn": "4",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -73.90663,
           40.86738
         ]
@@ -1740,6 +2916,30 @@
         "nurseRecruiter": "WILLIAMS, MICHAELLE",
         "role": "RN",
         "consortium": "1-VANEC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90663,
+          40.86738
+        ]
+      },
+      "properties": {
+        "id": "b5400bc85dda272d135154f191d871df",
+        "title": "VA Bronx Health Care System",
+        "locationName": "Bronx, NY",
+        "displayName": "Charles Long",
+        "email": "charles.long4@va.gov",
+        "phoneNumber": "716-982-1949",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Bronx",
+        "state": "NY",
+        "visn": "2",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -1803,6 +3003,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -111.83849,
+          40.75393
+        ]
+      },
+      "properties": {
+        "id": "c3c638f121c8d5f009d84bd80c8c11ad",
+        "title": "VA Salt Lake City Health Care System",
+        "locationName": "Salt Lake City, UT",
+        "displayName": "Hank Laguatan",
+        "email": "henry.laguatan@va.gov",
+        "phoneNumber": "206-459-7927",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "visn": "19",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -74.23609,
           40.75256
         ]
@@ -1824,6 +3048,30 @@
         "nurseRecruiter": "NAGY, REBECCA M",
         "role": "RN",
         "consortium": "4-WSNC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.23609,
+          40.75256
+        ]
+      },
+      "properties": {
+        "id": "2d0ffe4f9f46ecb81031e2f5be147022",
+        "title": "VA New Jersey Health Care System",
+        "locationName": "East Orange, NJ",
+        "displayName": "Larisa Lemesevski",
+        "email": "larisa.lemesevski@va.gov",
+        "phoneNumber": "908-468-0839",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "East Orange",
+        "state": "NJ",
+        "visn": "2",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -1887,6 +3135,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -74.02433,
+          40.60883
+        ]
+      },
+      "properties": {
+        "id": "7afe967eb4ff7c391ba65b4df28f8942",
+        "title": "VA New York Harbor Health Care System",
+        "locationName": "Brooklyn, NY",
+        "displayName": "Mike Owens",
+        "email": "michael.owens4@va.gov",
+        "phoneNumber": "716-982-1949",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Brooklyn",
+        "state": "NY",
+        "visn": "2",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -78.39636,
           40.48852
         ]
@@ -1908,6 +3180,30 @@
         "nurseRecruiter": "BRADLEY, BETH",
         "role": "RN",
         "consortium": "1-VANEC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.39636,
+          40.48852
+        ]
+      },
+      "properties": {
+        "id": "ba432e38434fe18d2f5f92b7b2b2a1d7",
+        "title": "VA Altoona Health Care System",
+        "locationName": "Altoona, PA",
+        "displayName": "Catrina Foley",
+        "email": "catrina.foley@va.gov",
+        "phoneNumber": "302-994-2511",
+        "ext": "7460",
+        "recruiterType": "ppr",
+        "city": "Altoona",
+        "state": "PA",
+        "visn": "4",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -2000,6 +3296,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -79.9598,
+          40.4474
+        ]
+      },
+      "properties": {
+        "id": "3787fcf166b370724ef8665ec587d4a9",
+        "title": "VA Pittsburgh Health Care System",
+        "locationName": "Pittsburgh, PA",
+        "displayName": "Michael Hahn",
+        "email": "michael.hahn4@va.gov",
+        "phoneNumber": "412-689-2414",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "visn": "4",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -76.39715,
           40.31741
         ]
@@ -2084,6 +3404,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -76.39715,
+          40.31741
+        ]
+      },
+      "properties": {
+        "id": "78faa327bdee65f4603210049625e057",
+        "title": "VA Lebanon Health Care System",
+        "locationName": "Lebanon, PA",
+        "displayName": "Hope Hossenlopp",
+        "email": "hope.hossenlopp@va.gov",
+        "phoneNumber": "717-272-6621",
+        "ext": "4724",
+        "recruiterType": "ppr",
+        "city": "Lebanon",
+        "state": "PA",
+        "visn": "4",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -87.58606,
           40.1241
         ]
@@ -2105,6 +3449,30 @@
         "nurseRecruiter": "PLUNKETT, CARLI",
         "role": "RN",
         "consortium": "3-MidCon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.58606,
+          40.1241
+        ]
+      },
+      "properties": {
+        "id": "c0da8bf152a013b673780a0e8ea5b2bb",
+        "title": "VA Illiana Health Care System",
+        "locationName": "Danville, IL",
+        "displayName": "JP Pryan",
+        "email": "james.pryan@va.gov",
+        "phoneNumber": "785-221-0838",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Danville",
+        "state": "IL",
+        "visn": "12",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -2137,6 +3505,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -75.79656,
+          39.99793
+        ]
+      },
+      "properties": {
+        "id": "15ae70b50a212e5c30415787ffa1099e",
+        "title": "VA Coatesville Health Care System",
+        "locationName": "Coatesville, PA",
+        "displayName": "Hope Hossenlopp",
+        "email": "hope.hossenlopp@va.gov",
+        "phoneNumber": "717-272-6621",
+        "ext": "4724",
+        "recruiterType": "ppr",
+        "city": "Coatesville",
+        "state": "PA",
+        "visn": "4",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -82.91026,
           39.98079
         ]
@@ -2158,6 +3550,30 @@
         "nurseRecruiter": "SHAFFER, GREGORY A",
         "role": "RN",
         "consortium": "3-MidCon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.91026,
+          39.98079
+        ]
+      },
+      "properties": {
+        "id": "bbae03be70053bb054dfdd3191dc4dc2",
+        "title": "VA Central Ohio Health Care System",
+        "locationName": "Columbus, OH",
+        "displayName": "Gregory Shaffer",
+        "email": "gregory.shaffer@va.gov",
+        "phoneNumber": "614-965-9146",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Columbus",
+        "state": "OH",
+        "visn": "10",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -2221,6 +3637,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -75.24615,
+          39.96201
+        ]
+      },
+      "properties": {
+        "id": "1d76e8e009c59557da5b88af83c4116c",
+        "title": "VA Philadelphia Health Care System",
+        "locationName": "Philadelphia, PA",
+        "displayName": "Daphne Binimelis",
+        "email": "daphne.binimelis@va.gov",
+        "phoneNumber": "215-847-4601",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Philadelphia",
+        "state": "PA",
+        "visn": "4",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -86.18685,
           39.77787
         ]
@@ -2250,6 +3690,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -86.18685,
+          39.77787
+        ]
+      },
+      "properties": {
+        "id": "aea28175454a85698a3b6b7fd22897a0",
+        "title": "VA Indiana Health Care System",
+        "locationName": "Indianapolis, IN",
+        "displayName": "Candace Fitzgerald",
+        "email": "candace.fitzgerald@va.gov",
+        "phoneNumber": "317-982-2236",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Indianapolis",
+        "state": "IN",
+        "visn": "10",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -84.26485,
           39.74268
         ]
@@ -2271,6 +3735,30 @@
         "nurseRecruiter": "EICKMAN, ELIZABETH",
         "role": "RN",
         "consortium": "3-MidCon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.26485,
+          39.74268
+        ]
+      },
+      "properties": {
+        "id": "44e94b17edc11510555417bbb811ca1a",
+        "title": "VA Dayton Health Care System",
+        "locationName": "Dayton, OH",
+        "displayName": "Ken Mitchell",
+        "email": "kenneth.mitchell3@va.gov",
+        "phoneNumber": "734-660-0024",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Dayton",
+        "state": "OH",
+        "visn": "10",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -2360,6 +3848,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -104.83009,
+          39.7411
+        ]
+      },
+      "properties": {
+        "id": "880d9a44c26169bbf779233f537119f1",
+        "title": "VA Eastern Colorado Health Care System",
+        "locationName": "Denver, CO",
+        "displayName": "Mike Owens",
+        "email": "michael.owens4@va.gov",
+        "phoneNumber": "504-715-1339",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Denver",
+        "state": "CO",
+        "visn": "19",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -75.60655,
           39.74019
         ]
@@ -2381,6 +3893,30 @@
         "nurseRecruiter": "HAILEY, MICHELLE R",
         "role": "RN",
         "consortium": "1-VANEC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.60655,
+          39.74019
+        ]
+      },
+      "properties": {
+        "id": "98546a1db31cbd93e3a0ea559341bfaa",
+        "title": "VA Wilmington Health Care System",
+        "locationName": "Wilmington, DE",
+        "displayName": "Catrina Foley",
+        "email": "catrina.foley@va.gov",
+        "phoneNumber": "302-994-2511",
+        "ext": "7460",
+        "recruiterType": "ppr",
+        "city": "Wilmington",
+        "state": "DE",
+        "visn": "4",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -2416,6 +3952,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -119.79901,
+          39.51604
+        ]
+      },
+      "properties": {
+        "id": "e30d3649d2b34bcd54b7863e99d97f4b",
+        "title": "VA Sierra Nevada Health Care System",
+        "locationName": "Reno, NV",
+        "displayName": "Kelly DeBoer",
+        "email": "kelly.deboer@va.gov",
+        "phoneNumber": "775-223-5351",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Reno",
+        "state": "NV",
+        "visn": "21",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -77.91126,
           39.41751
         ]
@@ -2437,6 +3997,30 @@
         "nurseRecruiter": "RAINES, KAYLA N",
         "role": "RN",
         "consortium": "1-VANEC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.91126,
+          39.41751
+        ]
+      },
+      "properties": {
+        "id": "3352478f3d9b61bee6978f09a1a635de",
+        "title": "VA Martinsburg Health Care System",
+        "locationName": "Martinsburg, WV",
+        "displayName": "Nicole Carey",
+        "email": "nicole.carey@va.gov",
+        "phoneNumber": "304-620-4354",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Martinsburg",
+        "state": "WV",
+        "visn": "5",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -2472,6 +4056,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -83.02092,
+          39.388
+        ]
+      },
+      "properties": {
+        "id": "b217a29284f0a9f268f77bd8f5cc6498",
+        "title": "VA Chillicothe Health Care System",
+        "locationName": "Chillicothe, OH",
+        "displayName": "Ken Mitchell",
+        "email": "kenneth.mitchell3@va.gov",
+        "phoneNumber": "734-660-0024",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Chillicothe",
+        "state": "OH",
+        "visn": "10",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -76.62428,
           39.28986
         ]
@@ -2493,6 +4101,30 @@
         "nurseRecruiter": "BAREFOOT-WELCH, BRIDGETT",
         "role": "RN",
         "consortium": "1-VANEC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.62428,
+          39.28986
+        ]
+      },
+      "properties": {
+        "id": "6002bb798858be4239dd30254c5bd6c2",
+        "title": "VA Maryland Health Care System",
+        "locationName": "Baltimore, MD",
+        "displayName": "Darryl Washington",
+        "email": "darryl.washington2@va.gov",
+        "phoneNumber": "202-717-5366",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Baltimore",
+        "state": "MD",
+        "visn": "5",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -2528,6 +4160,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -80.36189,
+          39.27029
+        ]
+      },
+      "properties": {
+        "id": "a7ab5873619786e7646f9599ad8a54ae",
+        "title": "VA Clarksburg Health Care System",
+        "locationName": "Clarksburg, WV",
+        "displayName": "Jerome Peele",
+        "email": "jerome.peele@va.gov",
+        "phoneNumber": "202-391-4533",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Clarksburg",
+        "state": "WV",
+        "visn": "5",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -84.50849,
           39.13953
         ]
@@ -2550,6 +4206,54 @@
         "nurseRecruiter": "REESE DREHER, DEBORAH",
         "role": "RN",
         "consortium": "3-MidCon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.50849,
+          39.13953
+        ]
+      },
+      "properties": {
+        "id": "82f153149d6121a2653719526dfcc922",
+        "title": "VA Cincinnati Health Care System",
+        "locationName": "Cincinnati, OH",
+        "displayName": "Ken Mitchell",
+        "email": "kenneth.mitchell3@va.gov",
+        "phoneNumber": "734-660-0024",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Cincinnati",
+        "state": "OH",
+        "visn": "10",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.551,
+          39.0639
+        ]
+      },
+      "properties": {
+        "id": "ceac8ff896ce8a8fab99213a5b34b9ac",
+        "title": "VA Western Colorado Health Care System",
+        "locationName": "Grand Junction, CO",
+        "displayName": "Karen Jefferson",
+        "email": "karen.jefferson2@va.gov",
+        "phoneNumber": "970-261-5107",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Grand Junction",
+        "state": "CO",
+        "visn": "19",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -2615,6 +4319,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -94.52695,
+          39.06347
+        ]
+      },
+      "properties": {
+        "id": "ad16bbfa0914b0bb0408939859e1dc08",
+        "title": "VA Kansas City Health Care System",
+        "locationName": "Kansas City, MO",
+        "displayName": "Daniel Woods",
+        "email": "daniel.woods@va.gov",
+        "phoneNumber": "207-432-4960",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Kansas City",
+        "state": "MO",
+        "visn": "15",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -95.72222,
           39.02591
         ]
@@ -2643,6 +4371,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -95.72222,
+          39.02591
+        ]
+      },
+      "properties": {
+        "id": "cfd35c77ee105d819a5f7bc0f8a41ccc",
+        "title": "VA Eastern Kansas Health Care System",
+        "locationName": "Leavenworth, KS",
+        "displayName": "Jeffrey Richter",
+        "email": "jeffrey.richter5@va.gov",
+        "phoneNumber": "913-731-9960",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Leavenworth",
+        "state": "KS",
+        "visn": "15",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -92.32871,
           38.93705
         ]
@@ -2664,6 +4416,30 @@
         "nurseRecruiter": "HARMON, BETHANY M",
         "role": "RN",
         "consortium": "3-MidCon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32871,
+          38.93705
+        ]
+      },
+      "properties": {
+        "id": "b171b91d8924173322e67de00a8fc71f",
+        "title": "VA Columbia Missouri Health Care System",
+        "locationName": "Columbia, MO",
+        "displayName": "Tracy Sheppard",
+        "email": "tracy.sheppard@va.gov",
+        "phoneNumber": "573-300-5592",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Columbia",
+        "state": "MO",
+        "visn": "15",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -2752,6 +4528,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -77.01056,
+          38.92909
+        ]
+      },
+      "properties": {
+        "id": "2b31430ac1db267f7c7a94f757644bcd",
+        "title": "VA Washington DC Health Care System",
+        "locationName": "Washington, DC",
+        "displayName": "Jerome Peele",
+        "email": "jerome.peele@va.gov",
+        "phoneNumber": "202-391-4533",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Washington",
+        "state": "DC",
+        "visn": "5",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -121.29527,
           38.57329
         ]
@@ -2808,6 +4608,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -121.29527,
+          38.57329
+        ]
+      },
+      "properties": {
+        "id": "d884d8abb9fd28a9a0082820837dd768",
+        "title": "VA Northern California Health Care System",
+        "locationName": "Mather, CA",
+        "displayName": "Kelly DeBoer",
+        "email": "kelly.deboer@va.gov",
+        "phoneNumber": "775-223-5351",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Mather",
+        "state": "CA",
+        "visn": "21",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -90.2846,
           38.49478
         ]
@@ -2829,6 +4653,30 @@
         "nurseRecruiter": "VACANT",
         "role": "RN",
         "consortium": "3-MidCon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2846,
+          38.49478
+        ]
+      },
+      "properties": {
+        "id": "d48b0ca53b1619bd4dc42981501585c7",
+        "title": "VA Saint Louis Health Care System",
+        "locationName": "Saint Louis, MO",
+        "displayName": "Brandy Molitor",
+        "email": "brandy.molitor@va.gov",
+        "phoneNumber": "314-487-0400",
+        "ext": "66323",
+        "recruiterType": "ppr",
+        "city": "Saint Louis",
+        "state": "MO",
+        "visn": "15",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -2858,6 +4706,30 @@
         "nurseRecruiter": "MARCUM, MICHELLE D.",
         "role": "RN",
         "consortium": "1-VANEC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.44266,
+          38.41725
+        ]
+      },
+      "properties": {
+        "id": "dfca4560cc1baa2951d8e29e35f3abd6",
+        "title": "VA Huntington Health Care System",
+        "locationName": "Huntington, WV",
+        "displayName": "Darryl Washington",
+        "email": "darryl.washington2@va.gov",
+        "phoneNumber": "202-717-5366",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Huntington",
+        "state": "WV",
+        "visn": "5",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -2911,6 +4783,30 @@
         "nurseRecruiter": "ARMSTRONG, STEVEN",
         "role": "RN",
         "consortium": "2-SSNC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.69726,
+          38.27057
+        ]
+      },
+      "properties": {
+        "id": "413907f29e31a349f7af0067884e0225",
+        "title": "VA Louisville Health Care System",
+        "locationName": "Louisville, KY",
+        "displayName": "JP Pryan",
+        "email": "james.pryan@va.gov",
+        "phoneNumber": "785-221-0838",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Louisville",
+        "state": "KY",
+        "visn": "9",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -2976,6 +4872,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -84.53838,
+          38.07383
+        ]
+      },
+      "properties": {
+        "id": "0d098e9bbf6a7c231a571362c34abd52",
+        "title": "VA Lexington Health Care System",
+        "locationName": "Lexington, KY",
+        "displayName": "Andrew Ford",
+        "email": "andrew.ford2@va.gov",
+        "phoneNumber": "859-556-5881",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Lexington",
+        "state": "KY",
+        "visn": "9",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.50496,
           37.78241
         ]
@@ -2997,6 +4917,30 @@
         "nurseRecruiter": "DALAIGH, JIMMY",
         "role": "RN",
         "consortium": "4-WSNC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.50496,
+          37.78241
+        ]
+      },
+      "properties": {
+        "id": "6f147ff17efeb249ffa65fe89b0dcddc",
+        "title": "VA San Francisco Health Care System",
+        "locationName": "San Francisco, CA",
+        "displayName": "David Martinez",
+        "email": "david.martinez16@va.gov",
+        "phoneNumber": "650-643-9856",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "San Francisco",
+        "state": "CA",
+        "visn": "21",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -3032,6 +4976,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.1931,
+          37.76509
+        ]
+      },
+      "properties": {
+        "id": "5872d51a896d20478a15d49a1e84c652",
+        "title": "VA Beckley Health Care System",
+        "locationName": "Beckley, WV",
+        "displayName": "Darryl Washington",
+        "email": "darryl.washington2@va.gov",
+        "phoneNumber": "202-717-5366",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Beckley",
+        "state": "WV",
+        "visn": "5",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -88.95485,
           37.72442
         ]
@@ -3060,6 +5028,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -88.95485,
+          37.72442
+        ]
+      },
+      "properties": {
+        "id": "483be825359d3ac8bd77dd35b4d384f3",
+        "title": "VA Marion Health Care System",
+        "locationName": "Marion, IL",
+        "displayName": "Joanne Miller",
+        "email": "joanne.miller2@va.gov",
+        "phoneNumber": "618-694-5945",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Marion",
+        "state": "IL",
+        "visn": "15",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -97.2741,
           37.6814
         ]
@@ -3081,6 +5073,30 @@
         "groupEmail": "v15ssurp-wic@va.gov",
         "nurseRecruiter": "VACANT",
         "consortium": "3-MidCon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2741,
+          37.6814
+        ]
+      },
+      "properties": {
+        "id": "fb7e327d673cc262f603cd8104b6a5d8",
+        "title": "VA Wichita Health Care System",
+        "locationName": "Wichita, KS",
+        "displayName": "Christopher Cordes",
+        "email": "christopher.cordes@va.gov",
+        "phoneNumber": "316-685-2221",
+        "ext": "54647",
+        "recruiterType": "ppr",
+        "city": "Wichita",
+        "state": "KS",
+        "visn": "15",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -3175,6 +5191,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -77.46706,
+          37.49809
+        ]
+      },
+      "properties": {
+        "id": "52cc94b010b7f6281f48a79527dc28ad",
+        "title": "VA Richmond Health Care System",
+        "locationName": "Richmond, VA",
+        "displayName": "Eric Snipes",
+        "email": "eric.snipes@va.gov",
+        "phoneNumber": "707-628-0296",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Richmond",
+        "state": "VA",
+        "visn": "6",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.14021,
           37.40514
         ]
@@ -3233,6 +5273,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.14021,
+          37.40514
+        ]
+      },
+      "properties": {
+        "id": "ba78df8d9dd560fb0e3d237b10eff7a8",
+        "title": "VA Palo Alto Health Care System",
+        "locationName": "Palo Alto, CA",
+        "displayName": "David Martinez",
+        "email": "david.martinez16@va.gov",
+        "phoneNumber": "925-270-6574",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Palo Alto",
+        "state": "CA",
+        "visn": "21",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.01851,
           37.27442
         ]
@@ -3254,6 +5318,30 @@
         "nurseRecruiter": "WILLIAMS, DYANA",
         "role": "RN",
         "consortium": "2-SSNC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.01851,
+          37.27442
+        ]
+      },
+      "properties": {
+        "id": "02574df8fa2fb5fbfac8464fb2982adc",
+        "title": "VA Salem Health Care System",
+        "locationName": "Salem, VA",
+        "displayName": "Mike Owens",
+        "email": "michael.owens4@va.gov",
+        "phoneNumber": "716-982-1949",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Salem",
+        "state": "VA",
+        "visn": "6",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -3289,6 +5377,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -76.33198,
+          37.01523
+        ]
+      },
+      "properties": {
+        "id": "db36f286e16056938438c2d3631164ba",
+        "title": "VA Hampton Health Care System",
+        "locationName": "Hampton, VA",
+        "displayName": "Hillary Garcia",
+        "email": "hillary.garcia@va.gov",
+        "phoneNumber": "816-548-8803",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Hampton",
+        "state": "VA",
+        "visn": "6",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -119.77895,
           36.77338
         ]
@@ -3310,6 +5422,30 @@
         "nurseRecruiter": "LADHAR, RAJVIR",
         "role": "RN",
         "consortium": "4-WSNC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.77895,
+          36.77338
+        ]
+      },
+      "properties": {
+        "id": "e0d89d2682d6566507e09def9171fc55",
+        "title": "VA Central California Health Care System",
+        "locationName": "Fresno, CA",
+        "displayName": "Greg Salmon",
+        "email": "gregory.salmon@va.gov",
+        "phoneNumber": "321-689-7080",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Fresno",
+        "state": "CA",
+        "visn": "21",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -3345,6 +5481,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -90.41689,
+          36.7723
+        ]
+      },
+      "properties": {
+        "id": "614d4d5b2e0dbc9fe009f72775108285",
+        "title": "VA Poplar Bluff Health Care System",
+        "locationName": "Poplar Bluff, MO",
+        "displayName": "Tracy Sheppard",
+        "email": "tracy.sheppard@va.gov",
+        "phoneNumber": "573-300-5592",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Poplar Bluff",
+        "state": "MO",
+        "visn": "15",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -82.3731,
           36.31118
         ]
@@ -3366,6 +5526,30 @@
         "nurseRecruiter": "WHITE, ANGELA J",
         "role": "RN",
         "consortium": "2-SSNC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3731,
+          36.31118
+        ]
+      },
+      "properties": {
+        "id": "bbfca407d9d54a4c3f40cd9f82680660",
+        "title": "VA Mountain Home Health Care System",
+        "locationName": "Mountain Home, TN",
+        "displayName": "JP Pryan",
+        "email": "james.pryan@va.gov",
+        "phoneNumber": "785-221-0838",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Mountain Home",
+        "state": "TN",
+        "visn": "9",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -3460,6 +5644,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -115.09421,
+          36.28485
+        ]
+      },
+      "properties": {
+        "id": "6c3095d5459c53e741f6389b67ba0f29",
+        "title": "VA Southern Nevada Health Care System",
+        "locationName": "North Las Vegas, NV",
+        "displayName": "Kelly DeBoer",
+        "email": "kelly.deboer@va.gov",
+        "phoneNumber": "775-223-5351",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "North Las Vegas",
+        "state": "NV",
+        "visn": "21",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -86.80396,
           36.1413
         ]
@@ -3516,6 +5724,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -86.80396,
+          36.1413
+        ]
+      },
+      "properties": {
+        "id": "e7c13e4d0282b2bb4b894f03aaa12e16",
+        "title": "VA Tennessee Valley Health Care System",
+        "locationName": "Nashville, TN",
+        "displayName": "Jason Tafoya",
+        "email": "jason.tafoya@va.gov",
+        "phoneNumber": "925-270-6574",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Nashville",
+        "state": "TN",
+        "visn": "9",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -94.15829,
           36.07987
         ]
@@ -3537,6 +5769,30 @@
         "nurseRecruiter": "PRINCE, LANE",
         "role": "RN",
         "consortium": "2-SSNC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.15829,
+          36.07987
+        ]
+      },
+      "properties": {
+        "id": "f374c5b3c3e74f78a0264bc4bbfc6ee4",
+        "title": "VA Fayetteville Arkansas Health Care System",
+        "locationName": "Fayetteville, AR",
+        "displayName": "Bradly Cargill",
+        "email": "bradly.cargill@va.gov",
+        "phoneNumber": "479-435-5542",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Fayetteville",
+        "state": "AR",
+        "visn": "16",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -3600,6 +5856,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -78.93853,
+          36.00914
+        ]
+      },
+      "properties": {
+        "id": "048c91388e3ec4052594d3336d1f2a43",
+        "title": "VA Durham Health Care System",
+        "locationName": "Durham, NC",
+        "displayName": "Melissa Acuna-Huerbana",
+        "email": "melissa.acuna-huerbana@va.gov",
+        "phoneNumber": "910-627-5805",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Durham",
+        "state": "NC",
+        "visn": "6",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -95.41425,
           35.76532
         ]
@@ -3621,6 +5901,30 @@
         "nurseRecruiter": "DAVIS, LESLIE",
         "role": "RN",
         "consortium": "4-WSNC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.41425,
+          35.76532
+        ]
+      },
+      "properties": {
+        "id": "3d575acfb9cd34f4a2c0e83946299288",
+        "title": "VA Eastern Oklahoma Health Care System",
+        "locationName": "Muskogee, OK",
+        "displayName": "Ratisha Brown",
+        "email": "ratishia.brown@va.gov",
+        "phoneNumber": "918-577-3602",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Muskogee",
+        "state": "OK",
+        "visn": "19",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -3684,6 +5988,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -80.48797,
+          35.6843
+        ]
+      },
+      "properties": {
+        "id": "3d072a5104320b97c089ee05919e8580",
+        "title": "VA Salisbury Health Care System",
+        "locationName": "Salisbury, NC",
+        "displayName": "Annie Luckey",
+        "email": "annie.luckey@va.gov",
+        "phoneNumber": "704-638-9000",
+        "ext": "17305",
+        "recruiterType": "ppr",
+        "city": "Salisbury",
+        "state": "NC",
+        "visn": "6",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -82.48405,
           35.5885
         ]
@@ -3705,6 +6033,30 @@
         "nurseRecruiter": "BARNES, TINA K",
         "role": "RN",
         "consortium": "2-SSNC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.48405,
+          35.5885
+        ]
+      },
+      "properties": {
+        "id": "747fc40f463d2bc8d85bbab066079f84",
+        "title": "VA Asheville Health Care System",
+        "locationName": "Asheville, NC",
+        "displayName": "Lisa Sheffield",
+        "email": "lisa.sheffield@va.gov",
+        "phoneNumber": "704-638-9000",
+        "ext": "12204",
+        "recruiterType": "ppr",
+        "city": "Asheville",
+        "state": "NC",
+        "visn": "6",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -3740,6 +6092,54 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -97.49599,
+          35.48303
+        ]
+      },
+      "properties": {
+        "id": "eea06a999eee1c68e7bab7e7b11d96fb",
+        "title": "VA Oklahoma City Health Care System (1 of 2)",
+        "locationName": "Oklahoma City, OK",
+        "displayName": "Alex Ajisope",
+        "email": "gbolahan.ajisope@va.gov",
+        "phoneNumber": "405-887-6969",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "visn": "19",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.49599,
+          35.48303
+        ]
+      },
+      "properties": {
+        "id": "b54e38a935eb2e79354fc11314f1c077",
+        "title": "VA Oklahoma City Health Care System (2 of 2)",
+        "locationName": "Oklahoma City, OK",
+        "displayName": "David Billingsley",
+        "email": "david.billingsleyjr@va.gov",
+        "phoneNumber": "405-456-3653",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "visn": "19",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -101.90643,
           35.20391
         ]
@@ -3761,6 +6161,30 @@
         "nurseRecruiter": "VACANT",
         "role": "RN",
         "consortium": "4-WSNC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.90643,
+          35.20391
+        ]
+      },
+      "properties": {
+        "id": "a28ee90ba1bb8b2eddeaf1faff8eb8e0",
+        "title": "VA Amarillo Health Care System",
+        "locationName": "Amarillo, TX",
+        "displayName": "Jason Tafoya",
+        "email": "jason.tafoya@va.gov",
+        "phoneNumber": "925-270-6574",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Amarillo",
+        "state": "TX",
+        "visn": "17",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -3796,6 +6220,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -90.02738,
+          35.1437
+        ]
+      },
+      "properties": {
+        "id": "1a81a357a11b0e8cae380d922dd7e5f9",
+        "title": "VA Memphis Health Care System",
+        "locationName": "Memphis, TN",
+        "displayName": "Carla Lang",
+        "email": "carla.lang@va.gov",
+        "phoneNumber": "",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Memphis",
+        "state": "TN",
+        "visn": "9",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -78.87688,
           35.08798
         ]
@@ -3818,6 +6266,30 @@
         "nurseRecruiter": "TAYLOR, PAMELA S.",
         "role": "RN",
         "consortium": "2-SSNC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.87688,
+          35.08798
+        ]
+      },
+      "properties": {
+        "id": "93f69119c2d6079059ee457147c64fbc",
+        "title": "VA Fayetteville Coastal Health Care System",
+        "locationName": "Fayetteville, NC",
+        "displayName": "Mike Owens",
+        "email": "michael.owens4@va.gov",
+        "phoneNumber": "716-982-1949",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Fayetteville",
+        "state": "NC",
+        "visn": "6",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -3874,6 +6346,30 @@
         "nurseRecruiter": "OREHEK, HEIDI",
         "role": "RN",
         "consortium": "4-WSNC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.58122,
+          35.05506
+        ]
+      },
+      "properties": {
+        "id": "7726e4d0eb1ae13ec89a5e552699f029",
+        "title": "VA New Mexico Health Care System",
+        "locationName": "Albuquerque, NM",
+        "displayName": "Matthew Corrales",
+        "email": "matthew.corrales@va.gov",
+        "phoneNumber": "505-934-0047",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Albuquerque",
+        "state": "NM",
+        "visn": "22",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -3968,6 +6464,102 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -92.32059,
+          34.74651
+        ]
+      },
+      "properties": {
+        "id": "03e62973ec14f36be740f8c37791c9f5",
+        "title": "VA Central Arkansas Health Care System (1 of 3)",
+        "locationName": "Little Rock, AR",
+        "displayName": "Christina Graggs",
+        "email": "christina.graggs@va.gov",
+        "phoneNumber": "501-909-7523",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Little Rock",
+        "state": "AR",
+        "visn": "16",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32059,
+          34.74651
+        ]
+      },
+      "properties": {
+        "id": "3400977a7e4b5a8d22ecc1842e75ceb1",
+        "title": "VA Central Arkansas Health Care System (2 of 3)",
+        "locationName": "Little Rock, AR",
+        "displayName": "Michael Legate",
+        "email": "michael.legate@va.gov",
+        "phoneNumber": "501-246-1898",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Little Rock",
+        "state": "AR",
+        "visn": "16",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.32059,
+          34.74651
+        ]
+      },
+      "properties": {
+        "id": "d9a8d5bad16d27effcc0688eacc8e2a3",
+        "title": "VA Central Arkansas Health Care System (3 of 3)",
+        "locationName": "Little Rock, AR",
+        "displayName": "Ruby Wallace",
+        "email": "ruby.wallace@va.gov",
+        "phoneNumber": "501-257-7760",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Little Rock",
+        "state": "AR",
+        "visn": "16",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.31572,
+          34.61002
+        ]
+      },
+      "properties": {
+        "id": "1d0346cb46d0b0deba35ffca5ebd4d13",
+        "title": "VA Northern Arizona Health Care System",
+        "locationName": "Prescott, AZ",
+        "displayName": "Timothy Bernau",
+        "email": "timothy.bernau@va.gov",
+        "phoneNumber": "623-920-1304",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Prescott",
+        "state": "AZ",
+        "visn": "22",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -118.45298,
           34.05298
         ]
@@ -3997,6 +6589,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -118.45298,
+          34.05298
+        ]
+      },
+      "properties": {
+        "id": "6a80c2e8c902780adb8467213e9cab39",
+        "title": "VA Greater Los Angeles Health Care System",
+        "locationName": "Los Angeles, CA",
+        "displayName": "Lawana Palmer",
+        "email": "lawana.palmer@va.gov",
+        "phoneNumber": "424-450-5151",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Los Angeles",
+        "state": "CA",
+        "visn": "22",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -117.25007,
           34.05028
         ]
@@ -4019,6 +6635,54 @@
         "nurseRecruiter": "MANTUANO, JANN",
         "role": "RN",
         "consortium": "4-WSNC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.25007,
+          34.05028
+        ]
+      },
+      "properties": {
+        "id": "30aef67ee1c13e0b52e7e94e66333f55",
+        "title": "VA Loma Linda Health Care System",
+        "locationName": "Loma Linda, CA",
+        "displayName": "Mike McClafferty",
+        "email": "michael.mcclafferty@va.gov",
+        "phoneNumber": "909-220-2510",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Loma Linda",
+        "state": "CA",
+        "visn": "22",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0348,
+          34.0007
+        ]
+      },
+      "properties": {
+        "id": "23c72d72d0004beb9fe3c45003d343b8",
+        "title": "VA Columbia South Carolina Health Care System",
+        "locationName": "Columbia, SC",
+        "displayName": "Mike Owens",
+        "email": "michael.owens4@va.gov",
+        "phoneNumber": "504-715-1339",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Columbia",
+        "state": "SC",
+        "visn": "7",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -4083,6 +6747,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -84.31175,
+          33.80194
+        ]
+      },
+      "properties": {
+        "id": "58130329f990cb206447e2b87b16a007",
+        "title": "VA Atlanta Health Care System",
+        "locationName": "",
+        "displayName": "Hillary Garcia",
+        "email": "hillary.garcia@va.gov",
+        "phoneNumber": "816-548-8803",
+        "ext": "",
+        "recruiterType": "ppr",
+        "visn": "7",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -118.11897,
           33.77644
         ]
@@ -4101,6 +6787,54 @@
         "visn": "22",
         "sourceSheet": "Smartsheet Gov - VA RN Facility Nurse Recruiter Directory",
         "nurseRecruiter": "VACANT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.11897,
+          33.77644
+        ]
+      },
+      "properties": {
+        "id": "b589dad77aece959c5c41f52aa2661a4",
+        "title": "VA Long Beach Health Care System (1 of 2)",
+        "locationName": "Long Beach, CA",
+        "displayName": "Matthew Corrales",
+        "email": "matthew.corrales@va.gov",
+        "phoneNumber": "505-934-0047",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Long Beach",
+        "state": "CA",
+        "visn": "22",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.11897,
+          33.77644
+        ]
+      },
+      "properties": {
+        "id": "43c21e546b6236afb09774a21ca0059d",
+        "title": "VA Long Beach Health Care System (2 of 2)",
+        "locationName": "Long Beach, CA",
+        "displayName": "Virginia Deutsch",
+        "email": "virginia.deutsch@va.gov",
+        "phoneNumber": "210-852-6410",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Long Beach",
+        "state": "CA",
+        "visn": "22",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -4165,6 +6899,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -86.79956,
+          33.50266
+        ]
+      },
+      "properties": {
+        "id": "0cf9102e5471c1fefb97fa04913b058b",
+        "title": "VA Birmingham Health Care System",
+        "locationName": "Birmingham, AL",
+        "displayName": "Mike Owens",
+        "email": "michael.owens4@va.gov",
+        "phoneNumber": "716-982-1949",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Birmingham",
+        "state": "AL",
+        "visn": "7",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -82.0258,
           33.46775
         ]
@@ -4186,6 +6944,30 @@
         "nurseRecruiter": "BURDA,PHOEBE M",
         "role": "RN",
         "consortium": "2-SSNC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0258,
+          33.46775
+        ]
+      },
+      "properties": {
+        "id": "7f2d16b88c4bf5496b8679d435b771b3",
+        "title": "VA Augusta Health Care System",
+        "locationName": "Augusta, GA",
+        "displayName": "Mike Owens",
+        "email": "michael.owens4@va.gov",
+        "phoneNumber": "504-715-1339",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Augusta",
+        "state": "GA",
+        "visn": "7",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -4250,6 +7032,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -112.01403,
+          33.45272
+        ]
+      },
+      "properties": {
+        "id": "1624f82bc08c0a0ffb8126dbbd1136ce",
+        "title": "VA Phoenix Health Care System",
+        "locationName": "Phoenix, AZ",
+        "displayName": "Timothy Bernau",
+        "email": "timothy.bernau@va.gov",
+        "phoneNumber": "623-920-1304",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Phoenix",
+        "state": "AZ",
+        "visn": "22",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -87.48595,
           33.19129
         ]
@@ -4278,6 +7084,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -87.48595,
+          33.19129
+        ]
+      },
+      "properties": {
+        "id": "f127fc835b1293d7c320a89db68bdab4",
+        "title": "VA Tuscaloosa Health Care System",
+        "locationName": "Tuscaloosa, AL",
+        "displayName": "Mike Owens",
+        "email": "michael.owens4@va.gov",
+        "phoneNumber": "716-982-1949",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Tuscaloosa",
+        "state": "AL",
+        "visn": "7",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -117.23215,
           32.87533
         ]
@@ -4298,6 +7128,30 @@
         "sourceSheet": "Smartsheet Gov - VA RN Facility Nurse Recruiter Directory",
         "nurseRecruiter": "TRESNAK, DEANNA",
         "consortium": "4-WSNC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.23215,
+          32.87533
+        ]
+      },
+      "properties": {
+        "id": "93ff0f4409c9c7fe4133690c491a9707",
+        "title": "VA San Diego Health Care System",
+        "locationName": "San Diego, CA",
+        "displayName": "Mike McClafferty",
+        "email": "michael.mcclafferty@va.gov",
+        "phoneNumber": "909-220-2510",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "San Diego",
+        "state": "CA",
+        "visn": "22",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -4354,6 +7208,30 @@
         "nurseRecruiter": "VICK, STANISHA",
         "role": "RN",
         "consortium": "2-SSNC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.95413,
+          32.78421
+        ]
+      },
+      "properties": {
+        "id": "647d8a6f84a67404394d764bec78c530",
+        "title": "VA Charleston Health Care System",
+        "locationName": "Charleston, SC",
+        "displayName": "Arriana Larmony",
+        "email": "arriana.larmony1@va.gov",
+        "phoneNumber": "843-467-0720",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Charleston",
+        "state": "SC",
+        "visn": "7",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -4619,6 +7497,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -96.79106,
+          32.69355
+        ]
+      },
+      "properties": {
+        "id": "667554021e06fc5b86b4c29dcd85bafe",
+        "title": "VA North Texas Health Care System",
+        "locationName": "Dallas, TX",
+        "displayName": "Terry Anderson",
+        "email": "terrance.anderson@va.gov",
+        "phoneNumber": "832-412-0937",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Dallas",
+        "state": "TX",
+        "visn": "17",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -82.94326,
           32.53649
         ]
@@ -4640,6 +7542,30 @@
         "nurseRecruiter": "ALLEN, MARY (SPARKS)",
         "role": "RN",
         "consortium": "2-SSNC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.94326,
+          32.53649
+        ]
+      },
+      "properties": {
+        "id": "1db316c54c5001252cc1fd09f62e6762",
+        "title": "VA Dublin Health Care System",
+        "locationName": "Dublin, GA",
+        "displayName": "Kevin Buccola",
+        "email": "kevin.buccola@va.gov",
+        "phoneNumber": "985-634-5315",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Dublin",
+        "state": "GA",
+        "visn": "7",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -4673,6 +7599,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -93.72137,
+          32.5012
+        ]
+      },
+      "properties": {
+        "id": "5e8da908746f9fdc0da0fb92f263b91f",
+        "title": "VA Shreveport Health Care System",
+        "locationName": "Shreveport, LA",
+        "displayName": "Ashley Jones",
+        "email": "ashley.jones27@va.gov",
+        "phoneNumber": "318-553-1649",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Shreveport",
+        "state": "LA",
+        "visn": "16",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -86.24378,
           32.37713
         ]
@@ -4694,6 +7644,30 @@
         "nurseRecruiter": "APRIL PIERRIE-LOUIS",
         "role": "RN",
         "consortium": "2-SSNC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.24378,
+          32.37713
+        ]
+      },
+      "properties": {
+        "id": "24bbffc85ec37aa2c8da297ca1d84fbf",
+        "title": "VA Central Alabama Health Care System",
+        "locationName": "Montgomery, AL",
+        "displayName": "Kevin Buccola",
+        "email": "kevin.buccola@va.gov",
+        "phoneNumber": "985-634-5315",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Montgomery",
+        "state": "AL",
+        "visn": "7",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -4755,6 +7729,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -90.16741,
+          32.32822
+        ]
+      },
+      "properties": {
+        "id": "125153c71ebe370f3e38d14dcd5054af",
+        "title": "VA Jackson Health Care System",
+        "locationName": "Jackson, MS",
+        "displayName": "Keith Robinson",
+        "email": "keith.robinson4@va.gov",
+        "phoneNumber": "601-699-2753",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Jackson",
+        "state": "MS",
+        "visn": "16",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -101.47269,
           32.23115
         ]
@@ -4776,6 +7774,30 @@
         "nurseRecruiter": "SCHAFFNER, CYNTHIA",
         "role": "RN",
         "consortium": "4-WSNC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.47269,
+          32.23115
+        ]
+      },
+      "properties": {
+        "id": "592cbe92fed3ec4df7c53a758f29dc53",
+        "title": "VA West Texas Health Care System",
+        "locationName": "Big Spring, TX",
+        "displayName": "Rachel Ortega",
+        "email": "rachel.ortega@va.gov",
+        "phoneNumber": "432-214-6933",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Big Spring",
+        "state": "TX",
+        "visn": "17",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -4811,6 +7833,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -110.96456,
+          32.18127
+        ]
+      },
+      "properties": {
+        "id": "fead48d233330cb59d543a37cd029469",
+        "title": "VA Southern Arizona Health Care System",
+        "locationName": "Tucson, AZ",
+        "displayName": "Virginia Deutsch",
+        "email": "virginia.deutsch@va.gov",
+        "phoneNumber": "210-852-6410",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Tucson",
+        "state": "AZ",
+        "visn": "22",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -106.46247,
           31.82042
         ]
@@ -4839,6 +7885,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -106.46247,
+          31.82042
+        ]
+      },
+      "properties": {
+        "id": "001348a35a38f0207212e4598e264540",
+        "title": "VA El Paso Health Care System",
+        "locationName": "El Paso, TX",
+        "displayName": "Terrance Hoard",
+        "email": "terrence.hoard@va.gov",
+        "phoneNumber": "915-564-6100",
+        "ext": "7057",
+        "recruiterType": "ppr",
+        "city": "El Paso",
+        "state": "TX",
+        "visn": "17",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -92.43772,
           31.35515
         ]
@@ -4860,6 +7930,30 @@
         "nurseRecruiter": "CEARLEY, LAURA",
         "role": "RN",
         "consortium": "2-SSNC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.43772,
+          31.35515
+        ]
+      },
+      "properties": {
+        "id": "5bcde4ab052d8b9bc73aface16e1dcfb",
+        "title": "VA Alexandria Health Care System",
+        "locationName": "Alexandria, LA",
+        "displayName": "Krysta Earhart",
+        "email": "krysta.earhart@va.gov",
+        "phoneNumber": "318-625-9408",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Alexandria",
+        "state": "LA",
+        "visn": "16",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -4954,6 +8048,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -97.39643,
+          31.0865
+        ]
+      },
+      "properties": {
+        "id": "7d0e42c09d8bc2d9740c5bb2aefd0d5c",
+        "title": "VA Central Texas Health Care System",
+        "locationName": "Temple, TX",
+        "displayName": "Corina Sanchez",
+        "email": "corina.sanchez@va.gov",
+        "phoneNumber": "254-727-0952",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Temple",
+        "state": "TX",
+        "visn": "17",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -88.94231,
           30.41507
         ]
@@ -5010,6 +8128,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -88.94231,
+          30.41507
+        ]
+      },
+      "properties": {
+        "id": "2b557ad7288a1f7fe9777f35614e1ee6",
+        "title": "VA Gulf Coast Health Care System",
+        "locationName": "Biloxi, MS",
+        "displayName": "Matt Bittenbender",
+        "email": "matthew.bittenbender@va.gov",
+        "phoneNumber": "228-341-4786",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Biloxi",
+        "state": "MS",
+        "visn": "16",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -90.08467,
           29.96183
         ]
@@ -5031,6 +8173,30 @@
         "nurseRecruiter": "LEDOUX, NIKKI",
         "role": "RN",
         "consortium": "2-SSNC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.08467,
+          29.96183
+        ]
+      },
+      "properties": {
+        "id": "8babff792ae865a7463e8add7403f708",
+        "title": "VA Southeast Louisiana Health Care System",
+        "locationName": "New Orleans, LA",
+        "displayName": "Krysta Earhart",
+        "email": "krysta.earhart@va.gov",
+        "phoneNumber": "318-625-9408",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "New Orleans",
+        "state": "LA",
+        "visn": "16",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -5096,6 +8262,78 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -95.38882,
+          29.69999
+        ]
+      },
+      "properties": {
+        "id": "1160cf6982e7c4d29743ca0232576783",
+        "title": "VA Houston Health Care System (1 of 3)",
+        "locationName": "Houston, TX",
+        "displayName": "Yvette Jackson",
+        "email": "yvette.jackson@va.gov",
+        "phoneNumber": "832-352-0859",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Houston",
+        "state": "TX",
+        "visn": "16",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.38882,
+          29.69999
+        ]
+      },
+      "properties": {
+        "id": "0dd5be23ac023537bdc9f2688114db60",
+        "title": "VA Houston Health Care System (2 of 3)",
+        "locationName": "Houston, TX",
+        "displayName": "Adrian Wright",
+        "email": "adrian.wright@va.gov",
+        "phoneNumber": "832-524-8946",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Houston",
+        "state": "TX",
+        "visn": "16",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.38882,
+          29.69999
+        ]
+      },
+      "properties": {
+        "id": "b3d5e204eb092397d7c369af6e3b1af3",
+        "title": "VA Houston Health Care System (3 of 3)",
+        "locationName": "Houston, TX",
+        "displayName": "Roberta Ellis",
+        "email": "roberta.ellis@va.gov",
+        "phoneNumber": "713-265-8853",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Houston",
+        "state": "TX",
+        "visn": "16",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -82.36921,
           29.60327
         ]
@@ -5151,6 +8389,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -82.36921,
+          29.60327
+        ]
+      },
+      "properties": {
+        "id": "e8cdf30a0b50442f04ad556aa5481df7",
+        "title": "VA North Florida/South Georgia Health Care System",
+        "locationName": "Gainesville, FL",
+        "displayName": "JP Pryan",
+        "email": "james.pryan@va.gov",
+        "phoneNumber": "785-221-0838",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Gainesville",
+        "state": "FL",
+        "visn": "8",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -98.58041,
           29.50632
         ]
@@ -5173,6 +8435,30 @@
         "nurseRecruiter": "HALE, BARBARA",
         "role": "RN",
         "consortium": "4-WSNC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.58041,
+          29.50632
+        ]
+      },
+      "properties": {
+        "id": "009098de363474eaa4f47a0e67ff272c",
+        "title": "VA South Texas Health Care System",
+        "locationName": "San Antonio, TX",
+        "displayName": "Craig Rickaway",
+        "email": "craig.rickaway@va.gov",
+        "phoneNumber": "361-243-5560",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "San Antonio",
+        "state": "TX",
+        "visn": "17",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -5267,6 +8553,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -81.27458,
+          28.36507
+        ]
+      },
+      "properties": {
+        "id": "50a71fa83365cc9027d1e4331bcc2719",
+        "title": "VA Orlando Health Care System",
+        "locationName": "Orlando, FL",
+        "displayName": "Ina Ortiz Nieves",
+        "email": "ina.ortiznieves@va.gov",
+        "phoneNumber": "407-450-2532",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Orlando",
+        "state": "FL",
+        "visn": "8",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -82.42955,
           28.06443
         ]
@@ -5313,6 +8623,30 @@
         "state": "FL",
         "sourceSheet": "Smartsheet Gov - VA RN Facility Nurse Recruiter Directory",
         "nurseRecruiter": "WILLIAMS, TRACY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.42955,
+          28.06443
+        ]
+      },
+      "properties": {
+        "id": "a433fe80409bc87fd41a008d4050b58f",
+        "title": "VA Tampa Health Care System",
+        "locationName": "Tampa, FL",
+        "displayName": "Andre Parker",
+        "email": "o'shaman.parker@va.gov",
+        "phoneNumber": "813-380-6475",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Tampa",
+        "state": "FL",
+        "visn": "8",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -5378,6 +8712,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -82.77547,
+          27.80869
+        ]
+      },
+      "properties": {
+        "id": "d217231354da659b84a0e53d08eea536",
+        "title": "VA Bay Pines Health Care System",
+        "locationName": "Bay Pines, FL",
+        "displayName": "Faozia Mourad",
+        "email": "faozia.mourad@va.gov",
+        "phoneNumber": "727-496-0976",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Bay Pines",
+        "state": "FL",
+        "visn": "8",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -80.11302,
           26.78679
         ]
@@ -5435,6 +8793,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -80.11302,
+          26.78679
+        ]
+      },
+      "properties": {
+        "id": "ae800482669bd1ff44e3c24c7047d7a7",
+        "title": "VA West Palm Beach Health Care System",
+        "locationName": "West Palm Beach, FL",
+        "displayName": "Terry Anderson",
+        "email": "terrance.anderson@va.gov",
+        "phoneNumber": "832-412-0937",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "West Palm Beach",
+        "state": "FL",
+        "visn": "8",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -97.66718,
           26.17099
         ]
@@ -5456,6 +8838,30 @@
         "nurseRecruiter": "TREVINO, OREN",
         "role": "RN",
         "consortium": "4-WSNC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.66718,
+          26.17099
+        ]
+      },
+      "properties": {
+        "id": "e8f23a769cb8ad37eed9fae5b99de33a",
+        "title": "VA Texas Valley Health Care System",
+        "locationName": "Harlingen, TX",
+        "displayName": "James Core",
+        "email": "james.core1@va.gov",
+        "phoneNumber": "956-291-9338",
+        "ext": "69338",
+        "recruiterType": "ppr",
+        "city": "Harlingen",
+        "state": "TX",
+        "visn": "17",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -5544,6 +8950,30 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -80.21657,
+          25.79158
+        ]
+      },
+      "properties": {
+        "id": "439758582235322e1339352e3e5ac12e",
+        "title": "VA Miami Health Care System",
+        "locationName": "Miami, FL",
+        "displayName": "Shane Stults",
+        "email": "shane.stults@va.gov",
+        "phoneNumber": "407-319-8473",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Miami",
+        "state": "FL",
+        "visn": "8",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -157.88939,
           21.36138
         ]
@@ -5565,6 +8995,30 @@
         "nurseRecruiter": "REDDING, KATHLEEN",
         "role": "RN",
         "consortium": "4-WSNC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.88939,
+          21.36138
+        ]
+      },
+      "properties": {
+        "id": "aea77412d03fc51b04bf7570f9b47dee",
+        "title": "VA Pacific Islands Health Care System",
+        "locationName": "Honolulu, HI",
+        "displayName": "Greg Salmon",
+        "email": "gregory.salmon@va.gov",
+        "phoneNumber": "925-270-6574",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "Honolulu",
+        "state": "HI",
+        "visn": "21",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
       }
     },
     {
@@ -5622,12 +9076,235 @@
         "role": "RN",
         "consortium": "2-SSNC"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.07225,
+          18.3625
+        ]
+      },
+      "properties": {
+        "id": "07b9a1a58289a78c921462710da279c2",
+        "title": "VA Caribbean Health Care System",
+        "locationName": "San Juan, PR",
+        "displayName": "Terry Anderson",
+        "email": "terrance.anderson@va.gov",
+        "phoneNumber": "832-412-0937",
+        "ext": "",
+        "recruiterType": "ppr",
+        "city": "San Juan",
+        "state": "PR",
+        "visn": "8",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "id": "1bfd6f7dc31d39e220ef879151c9358f",
+        "title": "V1 SSU/PPR Supervisor",
+        "locationName": "",
+        "displayName": "Helen O'Brien",
+        "email": "helen.obrien@va.gov",
+        "phoneNumber": "774-826-1183",
+        "ext": "",
+        "recruiterType": "ppr",
+        "visn": "1",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "id": "879393e1d61b93995f74d94476d4128b",
+        "title": "V2 PPR Supervisor",
+        "locationName": "",
+        "displayName": "Stephanie D'Amato",
+        "email": "stephanie.d'amato@va.gov",
+        "phoneNumber": "585-282-9113",
+        "ext": "",
+        "recruiterType": "ppr",
+        "visn": "2",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "id": "ebe26a98da824e7f223a92bf79acc91c",
+        "title": "V5 SSU/PPR Supervisor",
+        "locationName": "",
+        "displayName": "Darryl Washington",
+        "email": "darryl.washington2@va.gov",
+        "phoneNumber": "202-717-5366",
+        "ext": "",
+        "recruiterType": "ppr",
+        "visn": "5",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "id": "0e7943b8754f186d13cbb7445022043a",
+        "title": "V6 SSU/PPR Supervisor",
+        "locationName": "",
+        "displayName": "Lisa Sheffield",
+        "email": "lisa.sheffield@va.gov",
+        "phoneNumber": "704-638-9000",
+        "ext": "12204",
+        "recruiterType": "ppr",
+        "visn": "6",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "id": "1440fc1861073d4067a31f67617a78f5",
+        "title": "V12 SSU/PPR Supervisor",
+        "locationName": "",
+        "displayName": "Lindsey R. Hovde",
+        "email": "lindsey.hovde@va.gov",
+        "phoneNumber": "217-554-4695",
+        "ext": "",
+        "recruiterType": "ppr",
+        "visn": "12",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "id": "0aa4a9882bdcb1a59b24b7932ef44351",
+        "title": "V15 SSU/PPR Supervisor",
+        "locationName": "",
+        "displayName": "Sean Moser",
+        "email": "sean.moser@va.gov",
+        "phoneNumber": "681-305-4878",
+        "ext": "",
+        "recruiterType": "ppr",
+        "visn": "15",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "id": "90733735b233bcec143b61f243d12e79",
+        "title": "V16 SSU/PPR Supervisor",
+        "locationName": "",
+        "displayName": "Rose Olivo",
+        "email": "rose.olivo@va.gov",
+        "phoneNumber": "504-256-5580",
+        "ext": "",
+        "recruiterType": "ppr",
+        "visn": "16",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "id": "a457d32dcee1bc3f98a057217b71449c",
+        "title": "V21 SSU/PPR Supervisor",
+        "locationName": "",
+        "displayName": "Kelly DeBoer",
+        "email": "kelly.deboer@va.gov",
+        "phoneNumber": "775-223-5351",
+        "ext": "",
+        "recruiterType": "ppr",
+        "visn": "21",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "id": "f527ee91f4f3bb7b12a85d5405b159aa",
+        "title": "V22 SSU/PPR Supervisor",
+        "locationName": "",
+        "displayName": "LaToya Dowdell-Burger",
+        "email": "latoya.dowdell-burger@va.gov",
+        "phoneNumber": "614-812-8266",
+        "ext": "",
+        "recruiterType": "ppr",
+        "visn": "22",
+        "sourceSheet": "Smartsheet Gov - PPR Directory"
+      }
     }
   ],
   "metadata": {
-    "generated": "2026-06-08T20:50:48.094Z",
-    "count": 200,
-    "recruiterType": "nurse",
-    "source": "Smartsheet Gov - VA RN Facility Nurse Recruiter Directory"
+    "generated": "2026-06-08T20:50:48.338Z",
+    "count": 354,
+    "source": "Smartsheet Gov - combined nurse and PPR directories",
+    "nurseCount": 200,
+    "pprCount": 154
   }
 }
