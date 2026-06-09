@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="NSF Tech Accelerators Portal — Your dashboard for applications, team submissions, reviewer panels, and initiative updates.">
+  <title>My Dashboard — NSF Tech Accelerators Portal</title>
+  <link rel="stylesheet" href="./css/styles.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="container">
+      <a href="./dashboard.html" class="site-logo" aria-label="NSF Tech Accelerators Portal — Home">
+        <img src="./images/NSFTA%20Logo%20Header.png" alt="NSF Tech Accelerators logo">
+      </a>
+
+      <nav class="site-nav" aria-label="Primary navigation">
+        <a href="#initiative-overview">Initiative Overview</a>
+        <a href="#nsf-tech-accelerators">NSF Tech Accelerators</a>
+        <details class="nav-dropdown">
+          <summary>My Activities</summary>
+          <div class="nav-dropdown-menu">
+            <a href="#my-applications">My Applications and Awards</a>
+            <a href="#my-team-submissions">My Team Submissions</a>
+            <a href="#my-panels">My Panels</a>
+          </div>
+        </details>
+        <a href="#stay-connected">Stay Connected</a>
+      </nav>
+
+      <div class="header-auth">
+        <span class="user-greeting">Welcome, <strong>Jane Doe</strong></span>
+        <a href="./index.html" class="btn-text">Sign Out</a>
+      </div>
+
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="mobile-nav" aria-label="Toggle navigation menu">
+        <span class="nav-toggle-icon" aria-hidden="true"></span>
+      </button>
+    </div>
+
+    <nav id="mobile-nav" class="mobile-nav" aria-label="Mobile navigation">
+      <ul>
+        <li><a href="#initiative-overview">Initiative Overview</a></li>
+        <li><a href="#nsf-tech-accelerators">NSF Tech Accelerators</a></li>
+        <li><a href="#my-applications">My Applications and Awards</a></li>
+        <li><a href="#my-team-submissions">My Team Submissions</a></li>
+        <li><a href="#my-panels">My Panels</a></li>
+        <li><a href="#stay-connected">Stay Connected</a></li>
+      </ul>
+      <div class="mobile-auth">
+        <span class="user-greeting">Welcome, <strong>Jane Doe</strong></span>
+        <a href="./index.html" class="btn-text">Sign Out</a>
+      </div>
+    </nav>
+  </header>
+
+  <section class="hero hero--welcome" aria-label="Welcome banner">
+    <div class="hero__content">
+      <img
+        class="hero__lines"
+        src="./images/hero-lines.png"
+        alt=""
+        width="1441"
+        height="401"
+        aria-hidden="true"
+      >
+      <div class="hero__text">
+        <p class="hero-eyebrow">U.S. National Science Foundation</p>
+        <h1 class="hero-title">Tech Accelerators Portal</h1>
+        <p class="hero-welcome">Welcome back, Jane</p>
+      </div>
+    </div>
+  </section>
+
+  <div class="page-shell">
+    <section class="hero-panel" aria-label="Research highlights">
+      <div class="hero-graphic">
+        <img src="./images/MainGraphic_v2.png" alt="Collage of NSF research areas including ocean science, advanced manufacturing, agriculture, and medical imaging">
+      </div>
+    </section>
+
+    <main class="main-content">
+    <div class="container">
+
+      <section id="nsf-tech-accelerators" class="content-panel" aria-labelledby="section-heading">
+        <header class="section-header">
+          <h2 id="section-heading">NSF Tech Accelerators</h2>
+          <p class="section-tagline">Fast-tracking technology breakthroughs to market</p>
+        </header>
+
+        <div class="card-grid">
+          <article class="feature-card">
+            <div class="feature-card-header">
+              <div class="feature-card-icon" aria-hidden="true">
+                <img src="./images/Icon_WhatsNewB.png" alt="">
+              </div>
+              <h3 class="feature-card-title">What's New</h3>
+            </div>
+            <p class="feature-card-desc">Initiative updates, events and highlights.</p>
+            <a href="#whats-new" class="feature-card-link"><span class="feature-card-link-caret" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" focusable="false"><path d="M8.5 6.5L14.5 12l-6 5.5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span class="feature-card-link-text">Learn More</span></a>
+          </article>
+
+          <article class="feature-card">
+            <div class="feature-card-header">
+              <div class="feature-card-icon" aria-hidden="true">
+                <img src="./images/Icon_FindFundingB.png" alt="">
+              </div>
+              <h3 class="feature-card-title">Find Funding</h3>
+            </div>
+            <p class="feature-card-desc">Accelerate your idea from lab-to-market with an NSF Tech Accelerator.</p>
+            <a href="#find-funding" class="feature-card-link"><span class="feature-card-link-caret" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" focusable="false"><path d="M8.5 6.5L14.5 12l-6 5.5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span class="feature-card-link-text">Learn More</span></a>
+          </article>
+
+          <article class="feature-card">
+            <div class="feature-card-header">
+              <div class="feature-card-icon" aria-hidden="true">
+                <img src="./images/Icon_JoinUsB.png" alt="">
+              </div>
+              <h3 class="feature-card-title">Join Us</h3>
+            </div>
+            <p class="feature-card-desc">Become a Reviewer.</p>
+            <a href="#join-us" class="feature-card-link"><span class="feature-card-link-caret" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" focusable="false"><path d="M8.5 6.5L14.5 12l-6 5.5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span class="feature-card-link-text">Learn More</span></a>
+          </article>
+        </div>
+      </section>
+
+      <section id="my-activities" class="content-panel" aria-labelledby="activities-heading">
+        <header class="section-header section-header--activities">
+          <h2 id="activities-heading">My Activities</h2>
+        </header>
+
+        <div class="card-grid">
+          <article id="my-applications" class="feature-card">
+            <div class="feature-card-header">
+              <div class="feature-card-icon" aria-hidden="true">
+                <img src="./images/Icon_ApplicationAwards.png" alt="">
+              </div>
+              <h3 class="feature-card-title">My Applications and Awards</h3>
+            </div>
+            <p class="feature-card-desc">View your submitted applications and see your awards.</p>
+            <a href="#applications" class="feature-card-link"><span class="feature-card-link-caret" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" focusable="false"><path d="M8.5 6.5L14.5 12l-6 5.5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span class="feature-card-link-text">Learn More</span></a>
+          </article>
+
+          <article id="my-team-submissions" class="feature-card">
+            <div class="feature-card-header">
+              <div class="feature-card-icon" aria-hidden="true">
+                <img src="./images/Icon_TeamSubmissions.png" alt="">
+              </div>
+              <h3 class="feature-card-title">My Team Submissions</h3>
+            </div>
+            <p class="feature-card-desc">Submit your team's scheduled reports, updates and deliverables.</p>
+            <a href="#team-submissions" class="feature-card-link"><span class="feature-card-link-caret" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" focusable="false"><path d="M8.5 6.5L14.5 12l-6 5.5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span class="feature-card-link-text">Learn More</span></a>
+          </article>
+
+          <article id="my-panels" class="feature-card">
+            <div class="feature-card-header">
+              <div class="feature-card-icon" aria-hidden="true">
+                <img src="./images/Icon_MyPanels.png" alt="">
+              </div>
+              <h3 class="feature-card-title">My Panels</h3>
+            </div>
+            <p class="feature-card-desc">Access your assigned reviewer panels.</p>
+            <a href="#panels" class="feature-card-link"><span class="feature-card-link-caret" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" focusable="false"><path d="M8.5 6.5L14.5 12l-6 5.5" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span class="feature-card-link-text">Learn More</span></a>
+          </article>
+        </div>
+      </section>
+
+    </div>
+    </main>
+  </div>
+
+  <div class="decorative-divider" aria-hidden="true"></div>
+
+  <footer class="site-footer">
+    <div class="footer-main">
+      <div class="container">
+        <div class="footer-logo">
+          <img src="./images/NSF%20Logo%20Footer.png" alt="U.S. National Science Foundation">
+        </div>
+
+        <div class="footer-links">
+          <h3>NSF</h3>
+          <ul>
+            <li><a href="#about-nsf-tech-accelerators">About NSF Tech Accelerators</a></li>
+            <li><a href="#about-tip">About TIP</a></li>
+            <li><a href="#contact">Contact Us</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-links">
+          <h3>NSF Tech Accelerators Portal</h3>
+          <ul>
+            <li><a href="./index.html">Login</a></li>
+            <li><a href="#tap-resources">TAP User Resources</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="footer-legal">
+      <div class="container">
+        <a href="https://www.nsf.gov/policies/vulnerability.jsp">Vulnerability disclosure</a>
+        <a href="https://www.nsf.gov/oig/">Inspector General</a>
+        <a href="https://www.nsf.gov/policies/privacy.jsp">Privacy</a>
+        <a href="https://www.nsf.gov/policies/foia.jsp">FOIA</a>
+        <a href="https://www.nsf.gov/oig/nofear.jsp">No FEAR Act</a>
+        <a href="https://www.usa.gov/">USA.gov</a>
+        <a href="https://www.nsf.gov/policies/access.jsp">Accessibility</a>
+        <a href="https://www.nsf.gov/policies/plain_language.jsp">Plain language</a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="./js/nav.js"></script>
+</body>
+</html>
