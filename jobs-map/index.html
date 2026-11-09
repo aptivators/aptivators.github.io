@@ -22,5 +22,24 @@
       >
       </jobs-map>
     </section>
+    <script>
+      // Demo page only: link parameters set the map's filters, e.g. index.html?careerArea=Physicians&ruralOnly=1
+      // Names are the initial-filters keys and values must match exactly. Any of them replaces the
+      // defaults above; ?careerArea= (empty) shows all jobs. Runs before the module script defines <jobs-map>.
+      (() => {
+        const params = new URLSearchParams(location.search);
+        const keys = ['careerArea', 'whoCanApply', 'workSchedule', 'ruralOnly', 'salaryMin', 'jobTitle', 'location'];
+        if (!keys.some((key) => params.has(key))) return;
+        const filters = {};
+        for (const key of keys) {
+          const value = (params.get(key) || '').trim();
+          if (!value) continue;
+          if (key === 'ruralOnly') filters.ruralOnly = value === '1' || value === 'true';
+          else if (key === 'salaryMin') filters.salaryMin = Number(value) || undefined;
+          else filters[key] = value;
+        }
+        document.querySelector('jobs-map').setAttribute('initial-filters', JSON.stringify(filters));
+      })();
+    </script>
   </body>
 </html>
