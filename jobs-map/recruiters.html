@@ -4,68 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Nurse recruiters</title>
-    <style>
-      html {
-        height: 100%;
-        scroll-behavior: smooth;
-      }
-
-      body {
-        margin: 0;
-        padding: 0;
-        height: 100%;
-      }
-
-      section {
-        height: 100vh;
-        width: 100%;
-      }
-
-      recruiters-map {
-        display: block;
-        height: 100%;
-        width: 100%;
-      }
-
-      .map-site-nav {
-        position: fixed;
-        bottom: 12px;
-        right: 12px;
-        z-index: 10000;
-        display: flex;
-        align-items: center;
-        padding: 4px;
-        background: rgba(255, 255, 255, 0.96);
-        border-radius: 999px;
-        box-shadow: 0 2px 14px rgba(0, 0, 0, 0.12);
-        font:
-          600 13px / 1.2 system-ui,
-          -apple-system,
-          sans-serif;
-      }
-
-      .map-site-nav a {
-        padding: 8px 14px;
-        border-radius: 999px;
-        text-decoration: none;
-        color: #374151;
-        white-space: nowrap;
-      }
-
-      .map-site-nav a[aria-current='page'] {
-        background: #195eb6;
-        color: #fff;
-      }
-
-      .map-site-nav a:not([aria-current='page']):hover {
-        background: #f3f4f6;
-      }
-
-      .map-site-nav a:not([aria-current='page']):focus-visible {
-        outline: 2px solid #195eb6;
-        outline-offset: 2px;
-      }
-    </style>
+    <style>html{scroll-behavior:smooth;height:100%}body{height:100%;margin:0;padding:0}section{width:100%;height:100vh}recruiters-map{width:100%;height:100%;display:block}.map-site-nav{z-index:10000;background:#fffffff5;border-radius:999px;align-items:center;padding:4px;font:600 13px/1.2 system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Noto Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;display:flex;position:fixed;bottom:12px;right:12px;box-shadow:0 2px 14px #0000001f}.map-site-nav a{color:#374151;white-space:nowrap;border-radius:999px;padding:8px 14px;text-decoration:none}.map-site-nav a[aria-current=page]{color:#fff;background:#195eb6}.map-site-nav a:not([aria-current=page]):hover{background:#f3f4f6}.map-site-nav a:not([aria-current=page]):focus-visible{outline-offset:2px;outline:2px solid #195eb6}</style>
     <script type="module" crossorigin src="./assets/web-components.js"></script>
   </head>
 
@@ -79,8 +18,10 @@
         geojson-url="recruiters.geojson"
         mapbox-token="pk.eyJ1IjoiY2hyaXN0b3BoZXJjb3NuZXIiLCJhIjoiY21kZGFoaXdsMDJ1ajJubjMxdjRzZTBsMyJ9.d4fDFXYKjga4Hhc_60jaqw"
         mapbox-style="mapbox://styles/christophercosner/cmaznmgy800lu01rf1ql0bzmf"
-        email-subject-template="VA nursing inquiry - {{title}}"
-        email-body-template="Hello {{displayName}}, I am interested in opportunities at {{title}} ({{locationName}})."
+        email-subject-template-nurse="VA nursing inquiry - {{title}}"
+        email-body-template-nurse="Hello {{displayName}}, I am interested in nursing opportunities at {{title}} ({{locationName}})."
+        email-subject-template-ppr="VA PPR inquiry - {{title}}"
+        email-body-template-ppr="Hello {{displayName}}, I am interested in PPR opportunities at {{title}} ({{locationName}})."
       >
       </recruiters-map>
     </section>

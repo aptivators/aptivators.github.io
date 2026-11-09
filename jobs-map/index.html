@@ -4,74 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>VA Jobs Map</title>
-    <style>
-      :root {
-        --jobs-map-filterbar-color: #f0f0f0;
-      }
-
-      html {
-        height: 100%;
-        scroll-snap-type: y proximity;
-        scroll-behavior: smooth;
-      }
-
-      body {
-        margin: 0;
-        padding: 0;
-        height: 100%;
-      }
-
-      section {
-        scroll-snap-align: center;
-        scroll-snap-stop: always;
-        height: 100vh;
-        width: 100%;
-      }
-
-      jobs-map {
-        scroll-snap-align: center;
-        scroll-snap-stop: always;
-      }
-
-      .map-site-nav {
-        position: fixed;
-        bottom: 12px;
-        right: 12px;
-        z-index: 10000;
-        display: flex;
-        align-items: center;
-        padding: 4px;
-        background: rgba(255, 255, 255, 0.96);
-        border-radius: 999px;
-        box-shadow: 0 2px 14px rgba(0, 0, 0, 0.12);
-        font:
-          600 13px / 1.2 system-ui,
-          -apple-system,
-          sans-serif;
-      }
-
-      .map-site-nav a {
-        padding: 8px 14px;
-        border-radius: 999px;
-        text-decoration: none;
-        color: #374151;
-        white-space: nowrap;
-      }
-
-      .map-site-nav a[aria-current='page'] {
-        background: #195eb6;
-        color: #fff;
-      }
-
-      .map-site-nav a:not([aria-current='page']):hover {
-        background: #f3f4f6;
-      }
-
-      .map-site-nav a:not([aria-current='page']):focus-visible {
-        outline: 2px solid #195eb6;
-        outline-offset: 2px;
-      }
-    </style>
+    <style>:root{--jobs-map-filterbar-color:#f0f0f0}html{scroll-snap-type:y proximity;scroll-behavior:smooth;height:100%}body{height:100%;margin:0;padding:0}section{scroll-snap-align:center;scroll-snap-stop:always;width:100%;height:100vh}jobs-map{scroll-snap-align:center;scroll-snap-stop:always}.map-site-nav{z-index:10000;background:#fffffff5;border-radius:999px;align-items:center;padding:4px;font:600 13px/1.2 system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Noto Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;display:flex;position:fixed;bottom:12px;right:12px;box-shadow:0 2px 14px #0000001f}.map-site-nav a{color:#374151;white-space:nowrap;border-radius:999px;padding:8px 14px;text-decoration:none}.map-site-nav a[aria-current=page]{color:#fff;background:#195eb6}.map-site-nav a:not([aria-current=page]):hover{background:#f3f4f6}.map-site-nav a:not([aria-current=page]):focus-visible{outline-offset:2px;outline:2px solid #195eb6}</style>
     <script type="module" crossorigin src="./assets/web-components.js"></script>
   </head>
 
@@ -82,7 +15,7 @@
     </nav>
     <section class="w-full h-screen overflow-hidden flex flex-col relative">
       <jobs-map
-        initial-filters='{"openToPublic": true, "careerArea": "Nursing"}'
+        initial-filters='{"whoCanApply": "public", "careerArea": "Nursing"}'
         mapbox-token="pk.eyJ1IjoiY2hyaXN0b3BoZXJjb3NuZXIiLCJhIjoiY21kZGFoaXdsMDJ1ajJubjMxdjRzZTBsMyJ9.d4fDFXYKjga4Hhc_60jaqw"
         mapbox-style="mapbox://styles/christophercosner/cmaznmgy800lu01rf1ql0bzmf"
         geojson-url="va-jobs.geojson"
